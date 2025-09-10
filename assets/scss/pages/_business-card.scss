@@ -1,6 +1,7 @@
-.business-card-main{
-    height: 100vh;
+.business-card-body{
     background-color: $bg-primary;
+}
+.business-card-main{
     padding: var(--spacing-9) var(--spacing-4);
     overflow: hidden;
     .container{
