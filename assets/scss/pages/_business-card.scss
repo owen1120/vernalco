@@ -1,0 +1,43 @@
+.business-card-main{
+    height: 100vh;
+    background-color: $bg-primary;
+    padding: var(--spacing-9) var(--spacing-4);
+    overflow: hidden;
+    .container{
+        max-width: 992px;
+        padding: var(--spacing-6);
+        .logo{
+            display: flex;
+            justify-content: end;
+            img{
+                width: 50%;
+            }
+        }
+        .name{
+            color: $text-secondary;
+        }
+        .tel, .fax, .email, .address{
+            color: $text-primary;
+            display: flex;
+            align-items: center;
+            gap: var(--spacing-2);
+            background-color: $neutral-300;
+            border-radius: var(--radius-2);
+            padding: var(--spacing-3) var(--spacing-4);
+            margin-bottom: var(--spacing-6);
+        }
+        .address{
+            align-items: start;
+            margin-bottom: var(--spacing-9);
+        }
+        .company{
+            line-height: var(--body-line-height);
+            text-transform: uppercase;
+        }
+        .website{
+            color: $text-secondary;
+            text-align: end;
+            text-decoration: underline;
+        }
+    }
+}

@@ -5,24 +5,25 @@
 // 日文字形
 @import url('https://fonts.googleapis.com/css2?family=Zen+Old+Mincho&display=swap');
 
+// vendors
+// abstracts
+@import './abstracts/variables.scss';
+
 // base
 @import './base/reset.scss';
 @import './base/base.scss';
-@import './base/colors.scss';
 @import './base/typography.scss';
 @import './base/spacing.scss';
 @import './base/radius.scss';
 @import './base/shadow.scss';
 
-// components
-
 // layout
 @import './layout/header.scss';
 @import './layout/footer.scss';
 
+// components
 // pages
 @import './pages/index.scss';
+@import './pages/business-card.scss';
 
 // themes
-// abstracts
-// vendors

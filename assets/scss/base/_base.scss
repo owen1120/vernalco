@@ -2,9 +2,25 @@
     box-sizing: border-box;
     position: relative;
 }
+
+body{
+    font-family: $font-family;
+    color: $text-primary;
+    font-size: var(--body-md);
+    line-height: var(--body-line-height);
+    font-weight: var(--regular);
+}
+
+a{
+    display: block;
+    color: $text-primary;
+    text-decoration: none;
+}
+
 img{
     display: block;
 }
+
 .container{
     max-width: 1320px;
     padding: 0 12px;
