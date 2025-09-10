@@ -23,9 +23,17 @@
             align-items: center;
             gap: var(--spacing-2);
             background-color: $neutral-300;
-            border-radius: var(--radius-2);
+            border-radius: var(--radius-3);
+            box-shadow: $box-shadow-xs;
             padding: var(--spacing-3) var(--spacing-4);
             margin-bottom: var(--spacing-6);
+            transition: all 0.6s ease-in-out;
+            &:hover, &.hover, &:focus, &.focus{
+                box-shadow: $box-shadow-sm;
+                color: $text-hover-primary;
+                background-color: $neutral-200;
+                cursor: pointer;
+            }
         }
         .address{
             align-items: start;

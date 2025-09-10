@@ -50,7 +50,7 @@ $bg-primary: $neutral-200;
 // $bg-secondary: ;
 // $bg-action-primary: ;
 // $bg-secondary: ;
-// $bg-hover-primary: ;
+$bg-hover-primary: $primary-400;
 // $bg-hover-secondary: ;
 // $bg-error: ;
 
@@ -132,7 +132,18 @@ $font-family: $en-font-family, $zh-font-family, $jp-font-family;
     --spacing-14: 128px;
 }
 
-// radius -------------------------------------------------------------------
+// breakpoints --------------------------------------------------------------
+
+$breakpoint-sm: 576px;
+$breakpoint-md: 768px;
+$breakpoint-lg: 992px;
+$breakpoint-xl: 1200px;
+
+// border -------------------------------------------------------------------
+
+$border-style: solid;
+$border-width: 1px;
+$border-color: $neutral-400;
 
 :root {
     --radius-0: 0;
@@ -145,3 +156,8 @@ $font-family: $en-font-family, $zh-font-family, $jp-font-family;
     --radius-7: 48px;
     --radius-circle: 50%;
 }
+
+$box-shadow-lg: 24px 24px 32px $neutral-500, -24px -24px 32px $neutral-100;
+$box-shadow-md: 16px 16px 24px $neutral-500, -16px -16px 24px $neutral-100;
+$box-shadow-sm: 8px 8px 12px $neutral-500, -8px -8px 12px $neutral-100;
+$box-shadow-xs: 4px 4px 6px $neutral-500, -4px -4px 6px $neutral-100;
