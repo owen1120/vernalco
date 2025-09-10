@@ -1,0 +1,45 @@
+// 字形
+$en-font-family: 'Public Sans', sans-serif;
+$zh-font-family: 'Noto Sans TC', sans-serif;
+$jp-font-family: 'Zen Old Mincho', serif;
+$font-family: $en-font-family, $zh-font-family, $jp-font-family;
+
+:root{
+    --display: 5rem;
+    --title-5xl: 3rem;
+    --title-4xl: 2rem;
+    --title-3xl: 1.75rem;
+    --title-2xl: 1.5rem;
+    --title-xl: 1.25rem;
+    --body-lg: 1.125rem;
+    --body-md: 1rem;
+    --body-sm: 0.875rem;
+    --body-xs: 0.75rem;
+    --bold: 700;
+    --regular: 400;
+    --title-line-height: 1.2;
+    --body-line-height: 1.5;
+}
+
+body{
+    font-family: $font-family;
+    color: var(--neutral-900);
+    font-size: var(--body-md);
+    line-height: var(--body-line-height);
+    font-weight: var(--regular);
+}
+
+@media (min-width: 993px) {
+    :root{
+        --display: 3rem;
+        --title-5xl: 2rem;
+        --title-4xl: 1.75rem;
+        --title-3xl: 1.5rem;
+        --title-2xl: 1.25rem;
+        --title-xl: 1.125rem;
+        --body-lg: 1rem;
+        --body-md: 0.875rem;
+        --body-sm: 0.875rem;
+        --body-xs: 0.75rem;
+    }
+}
