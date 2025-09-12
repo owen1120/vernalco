@@ -17,6 +17,9 @@
         .name{
             color: $text-secondary;
         }
+        .dept{
+            text-align: end;
+        }
         .tel, .fax, .email, .address{
             color: $text-primary;
             display: flex;
