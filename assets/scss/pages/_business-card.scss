@@ -1,7 +1,16 @@
-.business-card-body{
+.vernalco-bc-body, .vernal-bc-body{
     background-color: $bg-primary;
 }
-.business-card-main{
+
+.vernal-bc-main{
+    font-family: $jp-font-family;
+}
+
+.vernalco-bc-main{
+    font-family: $font-family;
+}
+
+.vernal-bc-main, .vernalco-bc-main{
     padding: var(--spacing-9) var(--spacing-4);
     overflow: hidden;
     .container{
@@ -13,9 +22,6 @@
             img{
                 width: 50%;
             }
-        }
-        .name{
-            color: $text-secondary;
         }
         .dept{
             text-align: end;
@@ -33,7 +39,6 @@
             transition: all 0.6s ease-in-out;
             &:hover, &.hover, &:focus, &.focus{
                 box-shadow: $box-shadow-sm;
-                color: $text-hover-primary;
                 background-color: $neutral-200;
                 cursor: pointer;
             }
@@ -47,9 +52,40 @@
             text-transform: uppercase;
         }
         .website{
-            color: $text-secondary;
             text-align: end;
             text-decoration: underline;
+        }
+    }
+}
+
+.vernal-bc-main{
+    .name-box{
+        display: flex;
+        .name{
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+        }
+    }
+    .email{
+        position: relative;
+        .desc{
+            position: absolute;
+            top: 50%;
+            right: var(--spacing-4);
+            transform: translateY(-50%);
+        }
+    }
+}
+
+.vernalco-bc-main{
+    .name, .website{
+        color: $text-secondary;
+    }
+    .tel, .fax, .email, .address{
+        &:hover, &.hover, &:focus, &.focus{
+            color: $text-hover-primary;
         }
     }
 }
