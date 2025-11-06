@@ -1,0 +1,222 @@
+[
+  {
+    "No": "N-DM-M3-01",
+    "Title": "3-Spindle Front Drilling/Milling Unit",
+    "Image": "wix:image://v1/64b229_ba584c0f4b794e66b8150e35a97553f2~mv2.jpg/N-DM-M3-01.jpg#originWidth=7680&originHeight=7680",
+    "Brand No": "-",
+    "Brand": "Nomura DS",
+    "Spindle Position": [
+      "Main Spindle"
+    ],
+    "Speed Ratio": "1:1",
+    "RPM (Max)": "-",
+    "Adjustable Spindle": "-",
+    "Adjustable Angle": "-",
+    "Size": "-",
+    "Patent Number": "-",
+    "Clamping Method": "ER11-A",
+    "Interface": ["Nomura DS NN-20J"],
+    "Special Note": "-",
+    "Status": "published"
+  },
+  {
+    "No": "N-SL-S1-01",
+    "Title": "Slotting Unit For Sub Spindle",
+    "Image": "wix:image://v1/64b229_19e5564905724eab87a97d375f839d74~mv2.png/N-GR-S1-01.png#originWidth=1987&originHeight=1807",
+    "Brand No": "-",
+    "Brand": "Nomura DS",
+    "Spindle Position": [
+      "Sub Spindle"
+    ],
+    "Speed Ratio": "1:0.8",
+    "RPM (Max)": "-",
+    "Adjustable Spindle": "±1.5 mm",
+    "Adjustable Angle": "-",
+    "Size": "-",
+    "Patent Number": "TW202335767A",
+    "Clamping Method": "-",
+    "Interface": ["Nomura DS NN-32UB8", "Nomura DS NN-38KM"],
+    "Special Note": "-",
+    "Status": "published"
+  },
+  {
+    "No": "N-PU-M1-02",
+    "Title": "Polygon Unit",
+    "Image": "wix:image://v1/64b229_44b76be37376440b9fce67f78a5b705b~mv2.jpg/N-PU-M1-02.jpg#originWidth=7680&originHeight=7680",
+    "Brand No": "-",
+    "Brand": "Nomura DS",
+    "Spindle Position": [
+      "Main Spindle"
+    ],
+    "Speed Ratio": "1:1",
+    "RPM (Max)": "-",
+    "Adjustable Spindle": "-",
+    "Adjustable Angle": "-",
+    "Size": "Cutter Head Arbor: Ø13 mm, Maximum Outer Diameter(with Inserts): Ø55.4 mm",
+    "Patent Number": "-",
+    "Clamping Method": "-",
+    "Interface": ["Nomura DS NN-20J"],
+    "Special Note": "-",
+    "Status": "published"
+  },
+  {
+    "No": "N-GH-Q-M1-01",
+    "Title": "Gear Hobbing Unit",
+    "Image": "wix:image://v1/64b229_59d4800e3d81429db2f0d130322c13bf~mv2.jpg/N-GH-Q-M1-01.jpg#originWidth=7680&originHeight=7680",
+    "Brand No": "-",
+    "Brand": "Nomura DS",
+    "Spindle Position": [
+      "Main Spindle"
+    ],
+    "Speed Ratio": "1:1",
+    "RPM (Max)": "-",
+    "Adjustable Spindle": "-",
+    "Adjustable Angle": "±25°",
+    "Size": "Ø10 x Ø25 (Max) x 16mm (Max)",
+    "Patent Number": "-",
+    "Clamping Method": "-",
+    "Interface": ["Nomura DS NN-20UB8"],
+    "Special Note": "-",
+    "Status": "published"
+  },
+  {
+    "No": "N-NX-C-M1-01",
+    "Title": "4X Speed Drilling/Milling Unit",
+    "Image": "wix:image://v1/64b229_4b6d214ed49f42599f52c6ed55e2fafc~mv2.jpg/N-NX-C-M1-01.jpg#originWidth=7680&originHeight=7680",
+    "Brand No": "-",
+    "Brand": "Nomura DS",
+    "Spindle Position": [
+      "Main Spindle"
+    ],
+    "Speed Ratio": "1:4",
+    "RPM (Max)": "40000 rpm",
+    "Adjustable Spindle": "-",
+    "Adjustable Angle": "-",
+    "Size": "-",
+    "Patent Number": "-",
+    "Clamping Method": "ER11-M",
+    "Interface": ["Nomura DS NN-20J", "Nomura DS NN-20UB8"],
+    "Special Note": "-",
+    "Status": "published"
+  },
+  {
+    "No": "N-GH-P-M1-01",
+    "Title": "Gear Hobbing Unit",
+    "Image": "wix:image://v1/64b229_c9a3631ae5fc4c7484377a57e5552a80~mv2.jpg/N-GH-P-M1-01.jpg#originWidth=7680&originHeight=7680",
+    "Brand No": "-",
+    "Brand": "Nomura DS",
+    "Spindle Position": [
+      "Main Spindle"
+    ],
+    "Speed Ratio": "1:1",
+    "RPM (Max)": "-",
+    "Adjustable Spindle": "-",
+    "Adjustable Angle": "±15°",
+    "Size": "Ø10 x Ø25 (Max) x 16mm (Max)",
+    "Patent Number": "-",
+    "Clamping Method": "-",
+    "Interface": ["Nomura DS NN-20J"],
+    "Special Note": "-",
+    "Status": "published"
+  },
+  {
+    "No": "N-DM-M3-02",
+    "Title": "3-Spindle Front Drilling/Milling Unit",
+    "Image": "wix:image://v1/64b229_2077d1875f0748c09b6d4a71bbfae03f~mv2.jpg/N-DM-M3-02.jpg#originWidth=7680&originHeight=7680",
+    "Brand No": "-",
+    "Brand": "Nomura DS",
+    "Spindle Position": [
+      "Main Spindle"
+    ],
+    "Speed Ratio": "1:1",
+    "RPM (Max)": "-",
+    "Adjustable Spindle": "-",
+    "Adjustable Angle": "-",
+    "Size": "-",
+    "Patent Number": "-",
+    "Clamping Method": "ER11-A",
+    "Interface": ["Nomura DS NN-20UB8"],
+    "Special Note": "-",
+    "Status": "published"
+  },
+  {
+    "No": "N-NX-B-M1-01",
+    "Title": "3X Speed Drilling/Milling Unit",
+    "Image": "wix:image://v1/64b229_8114eb2029144ab1b607af82cdaacaa1~mv2.jpg/N-NX-B-M1-01.jpg#originWidth=7680&originHeight=7680",
+    "Brand No": "-",
+    "Brand": "Nomura DS",
+    "Spindle Position": [
+      "Main Spindle"
+    ],
+    "Speed Ratio": "1:3",
+    "RPM (Max)": "18000 rpm",
+    "Adjustable Spindle": "-",
+    "Adjustable Angle": "-",
+    "Size": "-",
+    "Patent Number": "-",
+    "Clamping Method": "ER11-M",
+    "Interface": ["Nomura DS NN-20J", "Nomura DS NN-20UB8"],
+    "Special Note": "-",
+    "Status": "published"
+  },
+  {
+    "No": "N-TW-P-M1-01",
+    "Title": "Thread Whirling Unit",
+    "Image": "wix:image://v1/64b229_05f4034f17cd4487b6af3878720ddea9~mv2.png/N-TW-P-M1-01.png#originWidth=3840&originHeight=3840",
+    "Brand No": "-",
+    "Brand": "Nomura DS",
+    "Spindle Position": [
+      "Main Spindle"
+    ],
+    "Speed Ratio": "1:1",
+    "RPM (Max)": "-",
+    "Adjustable Spindle": "-",
+    "Adjustable Angle": "±15°",
+    "Size": "Max. Machinable Diameter: Ø12 mm",
+    "Patent Number": "TWM646993U",
+    "Clamping Method": "-",
+    "Interface": ["Nomura DS NN-20J"],
+    "Special Note": "-",
+    "Status": "published"
+  },
+  {
+    "No": "N-SM-S1-01",
+    "Title": "Side Milling Unit For Sub Spindle",
+    "Image": "wix:image://v1/64b229_1d4e879c9a4e43b2a340e5ce76c10db8~mv2.png/N-SM-S1-01_edited.png#originWidth=1591&originHeight=1545",
+    "Brand No": "-",
+    "Brand": "Nomura DS",
+    "Spindle Position": [
+      "Sub Spindle"
+    ],
+    "Speed Ratio": "1:0.8",
+    "RPM (Max)": "-",
+    "Adjustable Spindle": "±1.5 mm",
+    "Adjustable Angle": "-",
+    "Size": "-",
+    "Patent Number": "TW202335767A",
+    "Clamping Method": "ER16-A",
+    "Interface": ["Nomura DS NN-32UB8", "Nomura DS NN-38KM"],
+    "Special Note": "-",
+    "Status": "published"
+  },
+  {
+    "No": "N-PU-M1-01",
+    "Title": "Polygon Unit",
+    "Image": "wix:image://v1/64b229_f27360b600344a148008fd3d4b757e05~mv2.jpg/N-PU-M1-01.jpg#originWidth=7680&originHeight=7680",
+    "Brand No": "-",
+    "Brand": "Nomura DS",
+    "Spindle Position": [
+      "Main Spindle"
+    ],
+    "Speed Ratio": "1:1",
+    "RPM (Max)": "-",
+    "Adjustable Spindle": "-",
+    "Adjustable Angle": "-",
+    "Size": "Cutter Head Arbor: Ø13 mm, Maximum Outer Diameter(with Inserts): Ø55.4 mm",
+    "Patent Number": "-",
+    "Clamping Method": "-",
+    "Interface": ["Nomura DS NN-20UB8"],
+    "Special Note": "-",
+    "Status": "published"
+  }
+]
