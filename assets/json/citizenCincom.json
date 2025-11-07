@@ -1,338 +1,338 @@
 [
   {
-    "No": "C-DM-M3-01",
-    "Title": "3-Spindle Front  Drilling/Milling Unit",
-    "Image": "wix:image://v1/64b229_d861114cf3384a18bd88a9e1da9d7598~mv2.png/C-DM-M3-01.png#originWidth=2560&originHeight=2560",
-    "Brand No": "GSE1610",
-    "Brand": "Citizen Cincom",
-    "Spindle Position": [
+    "id": "C-DM-M3-01",
+    "title": "3-Spindle Front  Drilling/Milling Unit",
+    "imgUrl": "wix:image://v1/64b229_d861114cf3384a18bd88a9e1da9d7598~mv2.png/C-DM-M3-01.png#originWidth=2560&originHeight=2560",
+    "brandNo": "GSE1610",
+    "brand": "Citizen Cincom",
+    "spindlePosition": [
       "Main Spindle"
     ],
-    "Speed Ratio": "1:1",
-    "RPM (Max)": "-",
-    "Adjustable Spindle": "-",
-    "Adjustable Angle": "-",
-    "Size": "-",
-    "Patent Number": "-",
-    "Clamping Method": "ER16-AM",
-    "Interface": [
+    "speedRatio": "1:1",
+    "maxRpm": "-",
+    "adjustableSpindle": "-",
+    "adjustableAngle": "-",
+    "size": "-",
+    "patentNumber": "-",
+    "clampingMethod": "ER16-AM",
+    "interface": [
       "Citizen Cincom A20",
       "Citizen Cincom D25",
       "Citizen Cincom L16 / L20 / L25 / L32",
       "Citizen Cincom M32 / M532"
     ],
-    "Special Note": "-",
-    "Status": "published"
+    "specialNote": "-",
+    "status": "published"
   },
   {
-    "No": "C-GH-M1-01",
-    "Title": "Gear Hobbing Unit",
-    "Image": "wix:image://v1/64b229_a488683467984931b3116a8ead1be6e4~mv2.jpg/C-GH-M1-01.jpg#originWidth=7680&originHeight=7680",
-    "Brand No": "-",
-    "Brand": "Citizen Cincom",
-    "Spindle Position": [
+    "id": "C-GH-M1-01",
+    "title": "Gear Hobbing Unit",
+    "imgUrl": "wix:image://v1/64b229_a488683467984931b3116a8ead1be6e4~mv2.jpg/C-GH-M1-01.jpg#originWidth=7680&originHeight=7680",
+    "brandNo": "-",
+    "brand": "Citizen Cincom",
+    "spindlePosition": [
       "Main Spindle"
     ],
-    "Speed Ratio": "1:1",
-    "RPM (Max)": "-",
-    "Adjustable Spindle": "-",
-    "Adjustable Angle": "-",
-    "Size": "Ø10 x Ø25 (Max) x 16 mm (Max)",
-    "Patent Number": "-",
-    "Clamping Method": "-",
-    "Interface": [
+    "speedRatio": "1:1",
+    "maxRpm": "-",
+    "adjustableSpindle": "-",
+    "adjustableAngle": "-",
+    "size": "Ø10 x Ø25 (Max) x 16 mm (Max)",
+    "patentNumber": "-",
+    "clampingMethod": "-",
+    "interface": [
       "Citizen Cincom L20 / L32",
       "Citizen Cincom M32"
     ],
-    "Special Note": "-",
-    "Status": "published"
+    "specialNote": "-",
+    "status": "published"
   },
   {
-    "No": "C-TW-P-M1-01",
-    "Title": "Thread Whirling Unit",
-    "Image": "wix:image://v1/64b229_141c86dc47414cc09cafdba7ea96a049~mv2.jpg/C-TW-P-M1-01.jpg#originWidth=7680&originHeight=7680",
-    "Brand No": "-",
-    "Brand": "Citizen Cincom",
-    "Spindle Position": [
+    "id": "C-TW-P-M1-01",
+    "title": "Thread Whirling Unit",
+    "imgUrl": "wix:image://v1/64b229_141c86dc47414cc09cafdba7ea96a049~mv2.jpg/C-TW-P-M1-01.jpg#originWidth=7680&originHeight=7680",
+    "brandNo": "-",
+    "brand": "Citizen Cincom",
+    "spindlePosition": [
       "Main Spindle"
     ],
-    "Speed Ratio": "1:1",
-    "RPM (Max)": "-",
-    "Adjustable Spindle": "-",
-    "Adjustable Angle": "±15°",
-    "Size": "Max. Machinable Diameter: Ø12 mm",
-    "Patent Number": "TWM646993U",
-    "Clamping Method": "-",
-    "Interface": [
+    "speedRatio": "1:1",
+    "maxRpm": "-",
+    "adjustableSpindle": "-",
+    "adjustableAngle": "±15°",
+    "size": "Max. Machinable Diameter: Ø12 mm",
+    "patentNumber": "TWM646993U",
+    "clampingMethod": "-",
+    "interface": [
       "Citizen Cincom L12 / L32",
       "Citizen Cincom M32"
     ],
-    "Special Note": "-",
-    "Status": "published"
+    "specialNote": "-",
+    "status": "published"
   },
   {
-    "No": "C-DM-M6-02",
-    "Title": "3-Spindle Counterface Drilling/Milling Unit",
-    "Image": "wix:image://v1/64b229_5a5de4ff3584470fa650714d8cb58a15~mv2.png/C-DM-M6-02%20(%E6%96%B0).png#originWidth=7680&originHeight=7680",
-    "Brand No": "GSE1810",
-    "Brand": "Citizen Cincom",
-    "Spindle Position": [
+    "id": "C-DM-M6-02",
+    "title": "3-Spindle Counterface Drilling/Milling Unit",
+    "imgUrl": "wix:image://v1/64b229_5a5de4ff3584470fa650714d8cb58a15~mv2.png/C-DM-M6-02%20(%E6%96%B0).png#originWidth=7680&originHeight=7680",
+    "brandNo": "GSE1810",
+    "brand": "Citizen Cincom",
+    "spindlePosition": [
       "Main Spindle"
     ],
-    "Speed Ratio": "1:1",
-    "RPM (Max)": "-",
-    "Adjustable Spindle": "-",
-    "Adjustable Angle": "-",
-    "Size": "-",
-    "Patent Number": "-",
-    "Clamping Method": "ER16-M",
-    "Interface": [
+    "speedRatio": "1:1",
+    "maxRpm": "-",
+    "adjustableSpindle": "-",
+    "adjustableAngle": "-",
+    "size": "-",
+    "patentNumber": "-",
+    "clampingMethod": "ER16-M",
+    "interface": [
       "Citizen Cincom L32",
       "Citizen Cincom M32"
     ],
-    "Special Note": "-",
-    "Status": "published"
+    "specialNote": "-",
+    "status": "published"
   },
   {
-    "No": "C-NX-C-MS1-02",
-    "Title": "4X Speed Drilling/Milling Unit For Sub Spindle",
-    "Image": "wix:image://v1/64b229_287c6d17829449409d6e8f2ebe345425~mv2.png/C-NX-C-S1-02.png#originWidth=3840&originHeight=3840",
-    "Brand No": "-",
-    "Brand": "Citizen Cincom",
-    "Spindle Position": [
+    "id": "C-NX-C-MS1-02",
+    "title": "4X Speed Drilling/Milling Unit For Sub Spindle",
+    "imgUrl": "wix:image://v1/64b229_287c6d17829449409d6e8f2ebe345425~mv2.png/C-NX-C-S1-02.png#originWidth=3840&originHeight=3840",
+    "brandNo": "-",
+    "brand": "Citizen Cincom",
+    "spindlePosition": [
       "Sub Spindle",
       "Main Spindle"
     ],
-    "Speed Ratio": "1:4",
-    "RPM (Max)": "40000 rpm",
-    "Adjustable Spindle": "-",
-    "Adjustable Angle": "-",
-    "Size": "-",
-    "Patent Number": "-",
-    "Clamping Method": "ER11-M",
-    "Interface": [
+    "speedRatio": "1:4",
+    "maxRpm": "40000 rpm",
+    "adjustableSpindle": "-",
+    "adjustableAngle": "-",
+    "size": "-",
+    "patentNumber": "-",
+    "clampingMethod": "ER11-M",
+    "interface": [
       "Main Spindle Citizen Cincom L12", 
       "Sub Spindle Citizen Cincom A20", 
       "Sub Spindle Citizen Cincom L12 / L20"
     ],
-    "Special Note": "-",
-    "Status": "published"
+    "specialNote": "-",
+    "status": "published"
   },
   {
-    "No": "C-NX-C-MS1-01",
-    "Title": "4X Speed Drilling/Milling Unit",
-    "Image": "wix:image://v1/64b229_518e7e4c19884e429b64da02edd3a5a1~mv2.png/C-NX-C-M1-01.png#originWidth=2560&originHeight=1888",
-    "Brand No": "-",
-    "Brand": "Citizen Cincom",
-    "Spindle Position": [
+    "id": "C-NX-C-MS1-01",
+    "title": "4X Speed Drilling/Milling Unit",
+    "imgUrl": "wix:image://v1/64b229_518e7e4c19884e429b64da02edd3a5a1~mv2.png/C-NX-C-M1-01.png#originWidth=2560&originHeight=1888",
+    "brandNo": "-",
+    "brand": "Citizen Cincom",
+    "spindlePosition": [
       "Main Spindle",
       "Sub Spindle"
     ],
-    "Speed Ratio": "1:4",
-    "RPM (Max)": "40000 rpm",
-    "Adjustable Spindle": "-",
-    "Adjustable Angle": "-",
-    "Size": "-",
-    "Patent Number": "-",
-    "Clamping Method": "ER11-M",
-    "Interface": [
+    "speedRatio": "1:4",
+    "maxRpm": "40000 rpm",
+    "adjustableSpindle": "-",
+    "adjustableAngle": "-",
+    "size": "-",
+    "patentNumber": "-",
+    "clampingMethod": "ER11-M",
+    "interface": [
       "Main Spindle Citizen Cincom A20", 
       "Main Spindle Citizen Cincom L20 / L32", 
       "Main Spindle Citizen Cincom M32", 
       "Sub Spindle Citizen Cincom L32", 
       "Sub Spindle Citizen Cincom M32"
     ],
-    "Special Note": "-",
-    "Status": "published"
+    "specialNote": "-",
+    "status": "published"
   },
   {
-    "No": "C-DM-MS1-02",
-    "Title": "Drilling/Milling Unit",
-    "Image": "wix:image://v1/64b229_556633a5a33c402aae92a3a406eca62a~mv2.jpg/C-DM-M1-01.jpg#originWidth=7680&originHeight=7680",
-    "Brand No": "GSC1310",
-    "Brand": "Citizen Cincom",
-    "Spindle Position": [
+    "id": "C-DM-MS1-02",
+    "title": "Drilling/Milling Unit",
+    "imgUrl": "wix:image://v1/64b229_556633a5a33c402aae92a3a406eca62a~mv2.jpg/C-DM-M1-01.jpg#originWidth=7680&originHeight=7680",
+    "brandNo": "GSC1310",
+    "brand": "Citizen Cincom",
+    "spindlePosition": [
       "Main Spindle",
       "Sub Spindle"
     ],
-    "Speed Ratio": "1:1",
-    "RPM (Max)": "-",
-    "Adjustable Spindle": "-",
-    "Adjustable Angle": "-",
-    "Size": "-",
-    "Patent Number": "-",
-    "Clamping Method": "ER16-AM",
-    "Interface": [
+    "speedRatio": "1:1",
+    "maxRpm": "-",
+    "adjustableSpindle": "-",
+    "adjustableAngle": "-",
+    "size": "-",
+    "patentNumber": "-",
+    "clampingMethod": "ER16-AM",
+    "interface": [
       "Main Spindle Citizen Cincom A20", 
       "Main Spindle Citizen Cincom L20 / L32",
       "Main Spindle Citizen Cincom M32",
       "Sub Spindle Citizen Cincom L32",
       "Sub Spindle Citizen Cincom M32"
     ],
-    "Special Note": "-",
-    "Status": "published"
+    "specialNote": "-",
+    "status": "published"
   },
   {
-    "No": "C-PU-M1-01",
-    "Title": "Polygon Unit",
-    "Image": "wix:image://v1/64b229_1f849f355ae341d8827450ea970da921~mv2.jpg/C-PU-M1-01.jpg#originWidth=7680&originHeight=7680",
-    "Brand No": "-",
-    "Brand": "Citizen Cincom",
-    "Spindle Position": [
+    "id": "C-PU-M1-01",
+    "title": "Polygon Unit",
+    "imgUrl": "wix:image://v1/64b229_1f849f355ae341d8827450ea970da921~mv2.jpg/C-PU-M1-01.jpg#originWidth=7680&originHeight=7680",
+    "brandNo": "-",
+    "brand": "Citizen Cincom",
+    "spindlePosition": [
       "Main Spindle"
     ],
-    "Speed Ratio": "1:1",
-    "RPM (Max)": "-",
-    "Adjustable Spindle": "-",
-    "Adjustable Angle": "-",
-    "Size": "Cutter Head Arbor: Ø13 mm, Maximum Outer Diameter(with Inserts): Ø55.4 mm",
-    "Patent Number": "-",
-    "Clamping Method": "-",
-    "Interface": [
+    "speedRatio": "1:1",
+    "maxRpm": "-",
+    "adjustableSpindle": "-",
+    "adjustableAngle": "-",
+    "size": "Cutter Head Arbor: Ø13 mm, Maximum Outer Diameter(with Inserts): Ø55.4 mm",
+    "patentNumber": "-",
+    "clampingMethod": "-",
+    "interface": [
       "Citizen Cincom L20 / L32",
       "Citizen Cincom M32"
     ],
-    "Special Note": "-",
-    "Status": "published"
+    "specialNote": "-",
+    "status": "published"
   },
   {
-    "No": "C-DM-MS1-01",
-    "Title": "Drilling/Milling Unit",
-    "Image": "wix:image://v1/64b229_6d75c07310b1423faa89d3e8fedd6563~mv2.jpg/C-DM-MS1-01.jpg#originWidth=7680&originHeight=7680",
-    "Brand No": "MSC-507",
-    "Brand": "Citizen Cincom",
-    "Spindle Position": [
+    "id": "C-DM-MS1-01",
+    "title": "Drilling/Milling Unit",
+    "imgUrl": "wix:image://v1/64b229_6d75c07310b1423faa89d3e8fedd6563~mv2.jpg/C-DM-MS1-01.jpg#originWidth=7680&originHeight=7680",
+    "brandNo": "MSC-507",
+    "brand": "Citizen Cincom",
+    "spindlePosition": [
       "Sub Spindle",
       "Main Spindle"
     ],
-    "Speed Ratio": "1:1",
-    "RPM (Max)": "-",
-    "Adjustable Spindle": "-",
-    "Adjustable Angle": "-",
-    "Size": "-",
-    "Patent Number": "-",
-    "Clamping Method": "ER11-A",
-    "Interface": [
+    "speedRatio": "1:1",
+    "maxRpm": "-",
+    "adjustableSpindle": "-",
+    "adjustableAngle": "-",
+    "size": "-",
+    "patentNumber": "-",
+    "clampingMethod": "ER11-A",
+    "interface": [
       "Main Spindle Citizen Cincom L12",
       "Sub Spindle Citizen Cincom A20",
       "Sub Spindle Citizen Cincom L12 / L20"
     ],
-    "Special Note": "-",
-    "Status": "published"
+    "specialNote": "-",
+    "status": "published"
   },
   {
-    "No": "C-SM-S1-02",
-    "Title": "Side Milling Unit For Sub Spindle",
-    "Image": "wix:image://v1/64b229_5b64140499c249dfa0ff91bf7b6966b5~mv2.png/C-SM-S1-02.png#originWidth=2560&originHeight=2560",
-    "Brand No": "GSE1910",
-    "Brand": "Citizen Cincom",
-    "Spindle Position": [
+    "id": "C-SM-S1-02",
+    "title": "Side Milling Unit For Sub Spindle",
+    "imgUrl": "wix:image://v1/64b229_5b64140499c249dfa0ff91bf7b6966b5~mv2.png/C-SM-S1-02.png#originWidth=2560&originHeight=2560",
+    "brandNo": "GSE1910",
+    "brand": "Citizen Cincom",
+    "spindlePosition": [
       "Sub Spindle"
     ],
-    "Speed Ratio": "1:1",
-    "RPM (Max)": "-",
-    "Adjustable Spindle": "-",
-    "Adjustable Angle": "-",
-    "Size": "-",
-    "Patent Number": "-",
-    "Clamping Method": "ER16-AM",
-    "Interface": [
+    "speedRatio": "1:1",
+    "maxRpm": "-",
+    "adjustableSpindle": "-",
+    "adjustableAngle": "-",
+    "size": "-",
+    "patentNumber": "-",
+    "clampingMethod": "ER16-AM",
+    "interface": [
       "Citizen Cincom L32",
       "Citizen Cincom M32"
     ],
-    "Special Note": "-",
-    "Status": "published"
+    "specialNote": "-",
+    "status": "published"
   },
   {
-    "No": "C-AG-X-M6-01",
-    "Title": "3-Spindle Counterface Angle Adjustable Drilling/Milling Unit",
-    "Image": "wix:image://v1/64b229_31621b1589ff4fc3bc204d7251d520d8~mv2.jpg/C-AG-X-M6-01.jpg#originWidth=7680&originHeight=7680",
-    "Brand No": "GSE3607",
-    "Brand": "Citizen Cincom",
-    "Spindle Position": [
+    "id": "C-AG-X-M6-01",
+    "title": "3-Spindle Counterface Angle Adjustable Drilling/Milling Unit",
+    "imgUrl": "wix:image://v1/64b229_31621b1589ff4fc3bc204d7251d520d8~mv2.jpg/C-AG-X-M6-01.jpg#originWidth=7680&originHeight=7680",
+    "brandNo": "GSE3607",
+    "brand": "Citizen Cincom",
+    "spindlePosition": [
       "Main Spindle"
     ],
-    "Speed Ratio": "1:1",
-    "RPM (Max)": "-",
-    "Adjustable Spindle": "-",
-    "Adjustable Angle": "0° ~ 30°",
-    "Size": "-",
-    "Patent Number": "-",
-    "Clamping Method": "ER11-A",
-    "Interface": [
+    "speedRatio": "1:1",
+    "maxRpm": "-",
+    "adjustableSpindle": "-",
+    "adjustableAngle": "0° ~ 30°",
+    "size": "-",
+    "patentNumber": "-",
+    "clampingMethod": "ER11-A",
+    "interface": [
       "Citizen Cincom L12"
     ],
-    "Special Note": "-",
-    "Status": "published"
+    "specialNote": "-",
+    "status": "published"
   },
   {
-    "No": "C-GH-M1-02",
-    "Title": "Gear Hobbing Unit",
-    "Image": "wix:image://v1/64b229_79cc8952cf74442980cea38f0596ea1c~mv2.jpg/C-GH-M1-02.jpg#originWidth=7680&originHeight=7680",
-    "Brand No": "-",
-    "Brand": "Citizen Cincom",
-    "Spindle Position": [
+    "id": "C-GH-M1-02",
+    "title": "Gear Hobbing Unit",
+    "imgUrl": "wix:image://v1/64b229_79cc8952cf74442980cea38f0596ea1c~mv2.jpg/C-GH-M1-02.jpg#originWidth=7680&originHeight=7680",
+    "brandNo": "-",
+    "brand": "Citizen Cincom",
+    "spindlePosition": [
       "Main Spindle"
     ],
-    "Speed Ratio": "1:1",
-    "RPM (Max)": "-",
-    "Adjustable Spindle": "-",
-    "Adjustable Angle": "0° ~ 15°",
-    "Size": "Ø10 x Ø25 (Max) x 16 mm (Max)",
-    "Patent Number": "-",
-    "Clamping Method": "-",
-    "Interface": [
+    "speedRatio": "1:1",
+    "maxRpm": "-",
+    "adjustableSpindle": "-",
+    "adjustableAngle": "0° ~ 15°",
+    "size": "Ø10 x Ø25 (Max) x 16 mm (Max)",
+    "patentNumber": "-",
+    "clampingMethod": "-",
+    "interface": [
       "Citizen Cincom L20 / L32",
       "Citizen Cincom M32"
     ],
-    "Special Note": "-",
-    "Status": "published"
+    "specialNote": "-",
+    "status": "published"
   },
   {
-    "No": "C-SM-S1-01",
-    "Title": "Side Milling Unit For Sub Spindle",
-    "Image": "wix:image://v1/64b229_21b6b82cfc034df4ad93f5c1b7992f87~mv2.png/C-SM-S1-01.png#originWidth=2560&originHeight=2560",
-    "Brand No": "GSS1530",
-    "Brand": "Citizen Cincom",
-    "Spindle Position": [
+    "id": "C-SM-S1-01",
+    "title": "Side Milling Unit For Sub Spindle",
+    "imgUrl": "wix:image://v1/64b229_21b6b82cfc034df4ad93f5c1b7992f87~mv2.png/C-SM-S1-01.png#originWidth=2560&originHeight=2560",
+    "brandNo": "GSS1530",
+    "brand": "Citizen Cincom",
+    "spindlePosition": [
       "Sub Spindle"
     ],
-    "Speed Ratio": "1:1",
-    "RPM (Max)": "-",
-    "Adjustable Spindle": "±1.5 mm",
-    "Adjustable Angle": "-",
-    "Size": "-",
-    "Patent Number": "TW202335767A",
-    "Clamping Method": "ER11-A",
-    "Interface": [
+    "speedRatio": "1:1",
+    "maxRpm": "-",
+    "adjustableSpindle": "±1.5 mm",
+    "adjustableAngle": "-",
+    "size": "-",
+    "patentNumber": "TW202335767A",
+    "clampingMethod": "ER11-A",
+    "interface": [
       "Citizen Cincom A20",
       "Citizen Cincom L12 / L20"
     ],
-    "Special Note": "-",
-    "Status": "published"
+    "specialNote": "-",
+    "status": "published"
   },
   {
-    "No": "C-DM-M6-01",
-    "Title": "3-Spindle Counterface Drilling/Milling Unit",
-    "Image": "wix:image://v1/64b229_69945736770c40bc8e8eedfe3de3eb8f~mv2.png/C-DM-M6-01%20(%E6%96%B0).png#originWidth=9294&originHeight=9257",
-    "Brand No": "BSE707",
-    "Brand": "Citizen Cincom",
-    "Spindle Position": [
+    "id": "C-DM-M6-01",
+    "title": "3-Spindle Counterface Drilling/Milling Unit",
+    "imgUrl": "wix:image://v1/64b229_69945736770c40bc8e8eedfe3de3eb8f~mv2.png/C-DM-M6-01%20(%E6%96%B0).png#originWidth=9294&originHeight=9257",
+    "brandNo": "BSE707",
+    "brand": "Citizen Cincom",
+    "spindlePosition": [
       "Main Spindle"
     ],
-    "Speed Ratio": "1:1",
-    "RPM (Max)": "-",
-    "Adjustable Spindle": "-",
-    "Adjustable Angle": "-",
-    "Size": "-",
-    "Patent Number": "-",
-    "Clamping Method": "ER11-A",
-    "Interface": [
+    "speedRatio": "1:1",
+    "maxRpm": "-",
+    "adjustableSpindle": "-",
+    "adjustableAngle": "-",
+    "size": "-",
+    "patentNumber": "-",
+    "clampingMethod": "ER11-A",
+    "interface": [
       "Citizen Cincom A20",
       "Citizen Cincom L20 / L32",
       "Citizen Cincom M32"
     ],
-    "Special Note": "-",
-    "Status": "published"
+    "specialNote": "-",
+    "status": "published"
   }
 ]

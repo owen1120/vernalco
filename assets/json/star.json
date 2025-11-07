@@ -1,21 +1,21 @@
 [
   {
-    "No": "S-NX-C-S1-01",
-    "Title": "4X Speed Drilling/Milling Unit For Sub Spindle",
-    "Image": "wix:image://v1/64b229_08e7d8a6e37f487b878c9885f9501165~mv2.jpg/S-NX-C-S1-01.jpg#originWidth=7680&originHeight=7680",
-    "Brand No": "-",
-    "Brand": "Star",
-    "Spindle Position": [
+    "id": "S-NX-C-S1-01",
+    "title": "4X Speed Drilling/Milling Unit For Sub Spindle",
+    "imgUrl": "wix:image://v1/64b229_08e7d8a6e37f487b878c9885f9501165~mv2.jpg/S-NX-C-S1-01.jpg#originWidth=7680&originHeight=7680",
+    "brandNo": "-",
+    "brand": "Star",
+    "spindlePosition": [
       "Sub Spindle"
     ],
-    "Speed Ratio": "1:4",
-    "RPM (Max)": "40000 rpm",
-    "Adjustable Spindle": "-",
-    "Adjustable Angle": "-",
-    "Size": "-",
-    "Patent Number": "-",
-    "Clamping Method": "ER11-M",
-    "Interface": [
+    "speedRatio": "1:4",
+    "maxRpm": "40000 rpm",
+    "adjustableSpindle": "-",
+    "adjustableAngle": "-",
+    "size": "-",
+    "patentNumber": "-",
+    "clampingMethod": "ER11-M",
+    "interface": [
       "Star ECAS 12/20",
       "Star SB 12/16/20 R",
       "Star SD 26 C/E/G/S",
@@ -27,26 +27,26 @@
       "Star SV 20 R",
       "Star SW 12 R II"
     ],
-    "Special Note": "-",
-    "Status": "published"
+    "specialNote": "-",
+    "status": "published"
   },
   {
-    "No": "S-DM-S1-04",
-    "Title": "Drilling/Milling Unit For Sub Spindle",
-    "Image": "wix:image://v1/64b229_5951d7e4f4f84e5b82f9fd877cd9f52e~mv2.jpg/S-DM-S1-04.jpg#originWidth=7680&originHeight=7680",
-    "Brand No": "-",
-    "Brand": "Star",
-    "Spindle Position": [
+    "id": "S-DM-S1-04",
+    "title": "Drilling/Milling Unit For Sub Spindle",
+    "imgUrl": "wix:image://v1/64b229_5951d7e4f4f84e5b82f9fd877cd9f52e~mv2.jpg/S-DM-S1-04.jpg#originWidth=7680&originHeight=7680",
+    "brandNo": "-",
+    "brand": "Star",
+    "spindlePosition": [
       "Sub Spindle"
     ],
-    "Speed Ratio": "1:1",
-    "RPM (Max)": "-",
-    "Adjustable Spindle": "-",
-    "Adjustable Angle": "-",
-    "Size": "-",
-    "Patent Number": "-",
-    "Clamping Method": "ER16-M",
-    "Interface": [
+    "speedRatio": "1:1",
+    "maxRpm": "-",
+    "adjustableSpindle": "-",
+    "adjustableAngle": "-",
+    "size": "-",
+    "patentNumber": "-",
+    "clampingMethod": "ER16-M",
+    "interface": [
       "Star ECAS 12/20",
       "Star SB 12/16/20 R",
       "Star SD 26 C/E/G/S",
@@ -58,26 +58,26 @@
       "Star SV 20 R",
       "Star SW 12 R II"
     ],
-    "Special Note": "-",
-    "Status": "published"
+    "specialNote": "-",
+    "status": "published"
   },
   {
-    "No": "S-DM-S1-01",
-    "Title": "Drilling/Milling Unit For Sub Spindle",
-    "Image": "wix:image://v1/64b229_5aa904b872ee40f99c7e07142b29076e~mv2.jpg/S-DM-S1-01.jpg#originWidth=7680&originHeight=7680",
-    "Brand No": "571-61",
-    "Brand": "Star",
-    "Spindle Position": [
+    "id": "S-DM-S1-01",
+    "title": "Drilling/Milling Unit For Sub Spindle",
+    "imgUrl": "wix:image://v1/64b229_5aa904b872ee40f99c7e07142b29076e~mv2.jpg/S-DM-S1-01.jpg#originWidth=7680&originHeight=7680",
+    "brandNo": "571-61",
+    "brand": "Star",
+    "spindlePosition": [
       "Sub Spindle"
     ],
-    "Speed Ratio": "1:1",
-    "RPM (Max)": "-",
-    "Adjustable Spindle": "-",
-    "Adjustable Angle": "-",
-    "Size": "-",
-    "Patent Number": "-",
-    "Clamping Method": "ER16-M",
-    "Interface": [
+    "speedRatio": "1:1",
+    "maxRpm": "-",
+    "adjustableSpindle": "-",
+    "adjustableAngle": "-",
+    "size": "-",
+    "patentNumber": "-",
+    "clampingMethod": "ER16-M",
+    "interface": [
       "Star ECAS 12/20",
       "Star SB 12/16/20 R",
       "Star SD 26 C/E/G/S",
@@ -89,26 +89,26 @@
       "Star SV 20 R",
       "Star SW 12 R II"
     ],
-    "Special Note": "-",
-    "Status": "published"
+    "specialNote": "-",
+    "status": "published"
   },
   {
-    "No": "SN-DM-M1-01",
-    "Title": "Drilling/Milling Unit",
-    "Image": "wix:image://v1/64b229_c47eee2c52c44909ae2eebc2b1ae2df1~mv2.jpg/SN-DM-M1-01.jpg#originWidth=7680&originHeight=7680",
-    "Brand No": "331-50",
-    "Brand": "Star",
-    "Spindle Position": [
+    "id": "SN-DM-M1-01",
+    "title": "Drilling/Milling Unit",
+    "imgUrl": "wix:image://v1/64b229_c47eee2c52c44909ae2eebc2b1ae2df1~mv2.jpg/SN-DM-M1-01.jpg#originWidth=7680&originHeight=7680",
+    "brandNo": "331-50",
+    "brand": "Star",
+    "spindlePosition": [
       "Main Spindle"
     ],
-    "Speed Ratio": "1:1",
-    "RPM (Max)": "-",
-    "Adjustable Spindle": "-",
-    "Adjustable Angle": "-",
-    "Size": "-",
-    "Patent Number": "-",
-    "Clamping Method": "ER16-M",
-    "Interface": [
+    "speedRatio": "1:1",
+    "maxRpm": "-",
+    "adjustableSpindle": "-",
+    "adjustableAngle": "-",
+    "size": "-",
+    "patentNumber": "-",
+    "clampingMethod": "ER16-M",
+    "interface": [
       "Star ECAS 12/20",
       "Star ECAS 32 T",
       "Star SB 12/16/20 R",
@@ -127,26 +127,26 @@
       "Nomura DS NN-20J5",
       "Nomura DS NN-32J"
     ],
-    "Special Note": "-",
-    "Status": "published"
+    "specialNote": "-",
+    "status": "published"
   },
   {
-    "No": "SN-TW-J-M1-01",
-    "Title": "Thread Whirling Unit",
-    "Image": "wix:image://v1/64b229_b78a2c0991de4d63ae055a8ac8d1fa48~mv2.jpg/S-TW-J-M1-01.jpg#originWidth=7680&originHeight=7680",
-    "Brand No": "681-72",
-    "Brand": "Star",
-    "Spindle Position": [
+    "id": "SN-TW-J-M1-01",
+    "title": "Thread Whirling Unit",
+    "imgUrl": "wix:image://v1/64b229_b78a2c0991de4d63ae055a8ac8d1fa48~mv2.jpg/S-TW-J-M1-01.jpg#originWidth=7680&originHeight=7680",
+    "brandNo": "681-72",
+    "brand": "Star",
+    "spindlePosition": [
       "Main Spindle"
     ],
-    "Speed Ratio": "1:1",
-    "RPM (Max)": "-",
-    "Adjustable Spindle": "-",
-    "Adjustable Angle": "0°-15°",
-    "Size": "Max. Machinable Diameter: Ø12 mm",
-    "Patent Number": "TWM646993U",
-    "Clamping Method": "-",
-    "Interface": [
+    "speedRatio": "1:1",
+    "maxRpm": "-",
+    "adjustableSpindle": "-",
+    "adjustableAngle": "0°-15°",
+    "size": "Max. Machinable Diameter: Ø12 mm",
+    "patentNumber": "TWM646993U",
+    "clampingMethod": "-",
+    "interface": [
       "Star ECAS 12/20",
       "Star SB 12/16/20 R",
       "Star SB 16 III",
@@ -159,26 +159,26 @@
       "Star SR 32 J/JN",
       "Nomura DS NN-32J"
     ],
-    "Special Note": "-",
-    "Status": "published"
+    "specialNote": "-",
+    "status": "published"
   },
   {
-    "No": "SN-DM-M6-01",
-    "Title": "3-Spindle Counterface Drilling/Milling Unit",
-    "Image": "wix:image://v1/64b229_6854f585e011460eb4896406071b2674~mv2.png/S-DM-M6-01%20(%E6%96%B0).png#originWidth=7680&originHeight=7680",
-    "Brand No": "0M1-55",
-    "Brand": "Star",
-    "Spindle Position": [
+    "id": "SN-DM-M6-01",
+    "title": "3-Spindle Counterface Drilling/Milling Unit",
+    "imgUrl": "wix:image://v1/64b229_6854f585e011460eb4896406071b2674~mv2.png/S-DM-M6-01%20(%E6%96%B0).png#originWidth=7680&originHeight=7680",
+    "brandNo": "0M1-55",
+    "brand": "Star",
+    "spindlePosition": [
       "Main Spindle"
     ],
-    "Speed Ratio": "1:1",
-    "RPM (Max)": "-",
-    "Adjustable Spindle": "-",
-    "Adjustable Angle": "-",
-    "Size": "-",
-    "Patent Number": "-",
-    "Clamping Method": "Front: ER16-M, Back: ER11-M",
-    "Interface": [
+    "speedRatio": "1:1",
+    "maxRpm": "-",
+    "adjustableSpindle": "-",
+    "adjustableAngle": "-",
+    "size": "-",
+    "patentNumber": "-",
+    "clampingMethod": "Front: ER16-M, Back: ER11-M",
+    "interface": [
       "Star ECAS 12/20",
       "Star SB 12/16/20 R",
       "Star SB 16 III",
@@ -191,26 +191,26 @@
       "Star SR 32 J/JN",
       "Nomura DS NN-32J"
     ],
-    "Special Note": "-",
-    "Status": "published"
+    "specialNote": "-",
+    "status": "published"
   },
   {
-    "No": "SN-NX-A-M6-01",
-    "Title": "3-Spindle 1.5X Speed Counterface Drilling/Milling Unit",
-    "Image": "wix:image://v1/64b229_b30f67cc2f5c431ab7347a747463045c~mv2.png/S-NX-A-M6-01%20(%E6%96%B0).png#originWidth=7680&originHeight=7680",
-    "Brand No": "0M1-58",
-    "Brand": "Star",
-    "Spindle Position": [
+    "id": "SN-NX-A-M6-01",
+    "title": "3-Spindle 1.5X Speed Counterface Drilling/Milling Unit",
+    "imgUrl": "wix:image://v1/64b229_b30f67cc2f5c431ab7347a747463045c~mv2.png/S-NX-A-M6-01%20(%E6%96%B0).png#originWidth=7680&originHeight=7680",
+    "brandNo": "0M1-58",
+    "brand": "Star",
+    "spindlePosition": [
       "Main Spindle"
     ],
-    "Speed Ratio": "1:1.5",
-    "RPM (Max)": "9000 rpm",
-    "Adjustable Spindle": "-",
-    "Adjustable Angle": "-",
-    "Size": "-",
-    "Patent Number": "-",
-    "Clamping Method": "Front: ER16-M, Back: ER11-M",
-    "Interface": [
+    "speedRatio": "1:1.5",
+    "maxRpm": "9000 rpm",
+    "adjustableSpindle": "-",
+    "adjustableAngle": "-",
+    "size": "-",
+    "patentNumber": "-",
+    "clampingMethod": "Front: ER16-M, Back: ER11-M",
+    "interface": [
       "Star ECAS 12/20",
       "Star SB 12/16/20 R",
       "Star SB 16 III",
@@ -223,26 +223,26 @@
       "Star SR 32 J/JN",
       "Nomura DS NN-32J"
     ],
-    "Special Note": "-",
-    "Status": "published"
+    "specialNote": "-",
+    "status": "published"
   },
   {
-    "No": "SN-BU-M1-01",
-    "Title": "Broaching Unit",
-    "Image": "wix:image://v1/64b229_e301ddfe76c24964844301dce72bcc60~mv2.jpg/S-BU-S1-01.jpg#originWidth=7680&originHeight=7680",
-    "Brand No": "-",
-    "Brand": "Star",
-    "Spindle Position": [
+    "id": "SN-BU-M1-01",
+    "title": "Broaching Unit",
+    "imgUrl": "wix:image://v1/64b229_e301ddfe76c24964844301dce72bcc60~mv2.jpg/S-BU-S1-01.jpg#originWidth=7680&originHeight=7680",
+    "brandNo": "-",
+    "brand": "Star",
+    "spindlePosition": [
       "Main Spindle"
     ],
-    "Speed Ratio": "1:1",
-    "RPM (Max)": "-",
-    "Adjustable Spindle": "-",
-    "Adjustable Angle": "-",
-    "Size": "-",
-    "Patent Number": "-",
-    "Clamping Method": "-",
-    "Interface": [
+    "speedRatio": "1:1",
+    "maxRpm": "-",
+    "adjustableSpindle": "-",
+    "adjustableAngle": "-",
+    "size": "-",
+    "patentNumber": "-",
+    "clampingMethod": "-",
+    "interface": [
       "Star ECAS 20",
       "Star SB 20R",
       "Star SR20",
@@ -252,26 +252,26 @@
       "Star SR 32 J/JN",
       "Nomura DS NN-32J"
     ],
-    "Special Note": "Working Stroke: 17 mm (Max), Total Stroke: 20 mm",
-    "Status": "draft"
+    "specialNote": "Working Stroke: 17 mm (Max), Total Stroke: 20 mm",
+    "status": "draft"
   },
   {
-    "No": "SN-NX-B-M1-01",
-    "Title": "3X Speed Drilling/Milling Unit",
-    "Image": "wix:image://v1/64b229_cbd6172b4f524cf794fc1f9051da8b2c~mv2.jpg/SN-NX-B-M1-01.jpg#originWidth=7680&originHeight=7680",
-    "Brand No": "-",
-    "Brand": "Star",
-    "Spindle Position": [
+    "id": "SN-NX-B-M1-01",
+    "title": "3X Speed Drilling/Milling Unit",
+    "imgUrl": "wix:image://v1/64b229_cbd6172b4f524cf794fc1f9051da8b2c~mv2.jpg/SN-NX-B-M1-01.jpg#originWidth=7680&originHeight=7680",
+    "brandNo": "-",
+    "brand": "Star",
+    "spindlePosition": [
       "Main Spindle"
     ],
-    "Speed Ratio": "1:3",
-    "RPM (Max)": "18000 rpm",
-    "Adjustable Spindle": "-",
-    "Adjustable Angle": "-",
-    "Size": "-",
-    "Patent Number": "-",
-    "Clamping Method": "ER11-M",
-    "Interface": [
+    "speedRatio": "1:3",
+    "maxRpm": "18000 rpm",
+    "adjustableSpindle": "-",
+    "adjustableAngle": "-",
+    "size": "-",
+    "patentNumber": "-",
+    "clampingMethod": "ER11-M",
+    "interface": [
       "Star ECAS 12/20",
       "Star ECAS 32 T",
       "Star SB 12/16/20 R",
@@ -290,26 +290,26 @@
       "Nomura DS NN-20J5",
       "Nomura DS NN-32J"
     ],
-    "Special Note": "-",
-    "Status": "published"
+    "specialNote": "-",
+    "status": "published"
   },
   {
-    "No": "SN-PU-M1-01",
-    "Title": "Polygon Unit",
-    "Image": "wix:image://v1/64b229_918e2314d745439e90b33a5e20177812~mv2.jpg/S-PU-M1-01.jpg#originWidth=7680&originHeight=7680",
-    "Brand No": "541-91",
-    "Brand": "Star",
-    "Spindle Position": [
+    "id": "SN-PU-M1-01",
+    "title": "Polygon Unit",
+    "imgUrl": "wix:image://v1/64b229_918e2314d745439e90b33a5e20177812~mv2.jpg/S-PU-M1-01.jpg#originWidth=7680&originHeight=7680",
+    "brandNo": "541-91",
+    "brand": "Star",
+    "spindlePosition": [
       "Main Spindle"
     ],
-    "Speed Ratio": "1:0.6",
-    "RPM (Max)": "-",
-    "Adjustable Spindle": "-",
-    "Adjustable Angle": "-",
-    "Size": "Cutter Head Arbor: Ø13 mm, Maximum Outer Diameter(with Inserts): Ø55.4 mm",
-    "Patent Number": "-",
-    "Clamping Method": "-",
-    "Interface": [
+    "speedRatio": "1:0.6",
+    "maxRpm": "-",
+    "adjustableSpindle": "-",
+    "adjustableAngle": "-",
+    "size": "Cutter Head Arbor: Ø13 mm, Maximum Outer Diameter(with Inserts): Ø55.4 mm",
+    "patentNumber": "-",
+    "clampingMethod": "-",
+    "interface": [
       "Star ECAS 12/20",
       "Star SB 12/16/20 R",
       "Star SB 16 III",
@@ -322,26 +322,26 @@
       "Star SR 32 J/JN",
       "Nomura DS NN-32J"
     ],
-    "Special Note": "-",
-    "Status": "published"
+    "specialNote": "-",
+    "status": "published"
   },
   {
-    "No": "SN-PU-M1-02",
-    "Title": "Polygon Unit",
-    "Image": "wix:image://v1/64b229_81779ab49175494f8c2f0e51f7802e00~mv2.jpg/S-PU-M1-02.jpg#originWidth=7680&originHeight=7680",
-    "Brand No": "541-91",
-    "Brand": "Star",
-    "Spindle Position": [
+    "id": "SN-PU-M1-02",
+    "title": "Polygon Unit",
+    "imgUrl": "wix:image://v1/64b229_81779ab49175494f8c2f0e51f7802e00~mv2.jpg/S-PU-M1-02.jpg#originWidth=7680&originHeight=7680",
+    "brandNo": "541-91",
+    "brand": "Star",
+    "spindlePosition": [
       "Main Spindle"
     ],
-    "Speed Ratio": "1:1",
-    "RPM (Max)": "6000 rpm",
-    "Adjustable Spindle": "-",
-    "Adjustable Angle": "-",
-    "Size": "Cutter Head Arbor: Ø13 mm, Maximum Outer Diameter(with Inserts): Ø55.4 mm",
-    "Patent Number": "-",
-    "Clamping Method": "-",
-    "Interface": [
+    "speedRatio": "1:1",
+    "maxRpm": "6000 rpm",
+    "adjustableSpindle": "-",
+    "adjustableAngle": "-",
+    "size": "Cutter Head Arbor: Ø13 mm, Maximum Outer Diameter(with Inserts): Ø55.4 mm",
+    "patentNumber": "-",
+    "clampingMethod": "-",
+    "interface": [
       "Star ECAS 12/20",
       "Star SB 12/16/20 R",
       "Star SB 16 III",
@@ -354,26 +354,26 @@
       "Star SR 32 J/JN",
       "Nomura DS NN-32J"
     ],
-    "Special Note": "-",
-    "Status": "published"
+    "specialNote": "-",
+    "status": "published"
   },
   {
-    "No": "SN-GH-X-M1-01",
-    "Title": "Gear Hobbing Unit",
-    "Image": "wix:image://v1/64b229_acd70f32bbd349a8a8b8a3aa9cb3d6b4~mv2.jpg/S-GH-X-M1-01.jpg#originWidth=7680&originHeight=7680",
-    "Brand No": "-",
-    "Brand": "Star",
-    "Spindle Position": [
+    "id": "SN-GH-X-M1-01",
+    "title": "Gear Hobbing Unit",
+    "imgUrl": "wix:image://v1/64b229_acd70f32bbd349a8a8b8a3aa9cb3d6b4~mv2.jpg/S-GH-X-M1-01.jpg#originWidth=7680&originHeight=7680",
+    "brandNo": "-",
+    "brand": "Star",
+    "spindlePosition": [
       "Main Spindle"
     ],
-    "Speed Ratio": "1:1",
-    "RPM (Max)": "-",
-    "Adjustable Spindle": "-",
-    "Adjustable Angle": "-5° ~ 15°",
-    "Size": "Ø10 x Ø25 (Max) x 15.5 ± 0.5mm",
-    "Patent Number": "-",
-    "Clamping Method": "-",
-    "Interface": [
+    "speedRatio": "1:1",
+    "maxRpm": "-",
+    "adjustableSpindle": "-",
+    "adjustableAngle": "-5° ~ 15°",
+    "size": "Ø10 x Ø25 (Max) x 15.5 ± 0.5mm",
+    "patentNumber": "-",
+    "clampingMethod": "-",
+    "interface": [
       "Star ECAS 12/20",
       "Star SB 12/16/20 R",
       "Star SB 16 III",
@@ -386,26 +386,26 @@
       "Star SR 32 J/JN",
       "Nomura DS NN-32J"
     ],
-    "Special Note": "-",
-    "Status": "published"
+    "specialNote": "-",
+    "status": "published"
   },
   {
-    "No": "SN-NX-C-M1-01",
-    "Title": "4X Speed Drilling/Milling Unit",
-    "Image": "wix:image://v1/64b229_8e039e3ef55e4f2fab5cf0a8d0df46ac~mv2.jpg/S-NX-C-M1-01.jpg#originWidth=7680&originHeight=7680",
-    "Brand No": "-",
-    "Brand": "Star",
-    "Spindle Position": [
+    "id": "SN-NX-C-M1-01",
+    "title": "4X Speed Drilling/Milling Unit",
+    "imgUrl": "wix:image://v1/64b229_8e039e3ef55e4f2fab5cf0a8d0df46ac~mv2.jpg/S-NX-C-M1-01.jpg#originWidth=7680&originHeight=7680",
+    "brandNo": "-",
+    "brand": "Star",
+    "spindlePosition": [
       "Main Spindle"
     ],
-    "Speed Ratio": "1:4",
-    "RPM (Max)": "40000 rpm",
-    "Adjustable Spindle": "-",
-    "Adjustable Angle": "-",
-    "Size": "-",
-    "Patent Number": "-",
-    "Clamping Method": "ER11-M",
-    "Interface": [
+    "speedRatio": "1:4",
+    "maxRpm": "40000 rpm",
+    "adjustableSpindle": "-",
+    "adjustableAngle": "-",
+    "size": "-",
+    "patentNumber": "-",
+    "clampingMethod": "ER11-M",
+    "interface": [
       "Star ECAS 12/20",
       "Star ECAS 32 T",
       "Star SB 12/16/20 R",
@@ -424,94 +424,94 @@
       "Nomura DS NN-20J5",
       "Nomura DS NN-32J"
     ],
-    "Special Note": "-",
-    "Status": "published"
+    "specialNote": "-",
+    "status": "published"
   },
   {
-    "No": "S-SL-S1-01",
-    "Title": "Slotting Unit For Sub Spindle",
-    "Image": "wix:image://v1/64b229_caece323ed8649a3b8121e8fa73a342c~mv2.jpg/S-GR-S1-01.jpg#originWidth=2435&originHeight=1721",
-    "Brand No": "691-66",
-    "Brand": "Star",
-    "Spindle Position": [
+    "id": "S-SL-S1-01",
+    "title": "Slotting Unit For Sub Spindle",
+    "imgUrl": "wix:image://v1/64b229_caece323ed8649a3b8121e8fa73a342c~mv2.jpg/S-GR-S1-01.jpg#originWidth=2435&originHeight=1721",
+    "brandNo": "691-66",
+    "brand": "Star",
+    "spindlePosition": [
       "Sub Spindle"
     ],
-    "Speed Ratio": "1:0.6",
-    "RPM (Max)": "-",
-    "Adjustable Spindle": "±1.5 mm",
-    "Adjustable Angle": "-",
-    "Size": "-",
-    "Patent Number": "TW202335767A",
-    "Clamping Method": "-",
-    "Interface": [
+    "speedRatio": "1:0.6",
+    "maxRpm": "-",
+    "adjustableSpindle": "±1.5 mm",
+    "adjustableAngle": "-",
+    "size": "-",
+    "patentNumber": "TW202335767A",
+    "clampingMethod": "-",
+    "interface": [
       "Star SR-10J",
       "Star SR-20R",
       "Star SB-20R"
     ],
-    "Special Note": "-",
-    "Status": "published"
+    "specialNote": "-",
+    "status": "published"
   },
   {
-    "No": "S-DM-S3-01",
-    "Title": "3-Spindle Drilling/Milling Unit For Sub Spindle",
-    "Image": "wix:image://v1/64b229_ab8e4cc79e724d53a5be67c7d8b84d40~mv2.png/S-DM-S3-01.png#originWidth=2560&originHeight=1735",
-    "Brand No": "-",
-    "Brand": "Star",
-    "Spindle Position": [
+    "id": "S-DM-S3-01",
+    "title": "3-Spindle Drilling/Milling Unit For Sub Spindle",
+    "imgUrl": "wix:image://v1/64b229_ab8e4cc79e724d53a5be67c7d8b84d40~mv2.png/S-DM-S3-01.png#originWidth=2560&originHeight=1735",
+    "brandNo": "-",
+    "brand": "Star",
+    "spindlePosition": [
       "Sub Spindle"
     ],
-    "Speed Ratio": "1:1",
-    "RPM (Max)": "-",
-    "Adjustable Spindle": "-",
-    "Adjustable Angle": "-",
-    "Size": "-",
-    "Patent Number": "-",
-    "Clamping Method": "ER11-AX",
-    "Interface": [
+    "speedRatio": "1:1",
+    "maxRpm": "-",
+    "adjustableSpindle": "-",
+    "adjustableAngle": "-",
+    "size": "-",
+    "patentNumber": "-",
+    "clampingMethod": "ER11-AX",
+    "interface": [
       "Star SR-10J",
       "Star SR-20R",
       "Star SB-20R"
     ],
-    "Special Note": "2 driven spindles, 1 static spindle supports through-coolant (optional)",
-    "Status": "published"
+    "specialNote": "2 driven spindles, 1 static spindle supports through-coolant (optional)",
+    "status": "published"
   },
   {
-    "No": "S-SM-S1-01",
-    "Title": "Side Milling Unit For Sub Spindle",
-    "Image": "wix:image://v1/64b229_24c08dc481304873a50c8ffef85c92ed~mv2.png/S-SM-S1-01.png#originWidth=2560&originHeight=2560",
-    "Brand No": "-",
-    "Brand": "Star",
-    "Spindle Position": [
+    "id": "S-SM-S1-01",
+    "title": "Side Milling Unit For Sub Spindle",
+    "imgUrl": "wix:image://v1/64b229_24c08dc481304873a50c8ffef85c92ed~mv2.png/S-SM-S1-01.png#originWidth=2560&originHeight=2560",
+    "brandNo": "-",
+    "brand": "Star",
+    "spindlePosition": [
       "Sub Spindle"
     ],
-    "Speed Ratio": "1:1",
-    "RPM (Max)": "-",
-    "Adjustable Spindle": "-",
-    "Adjustable Angle": "-",
-    "Size": "-",
-    "Patent Number": "-",
-    "Clamping Method": "ER16-M",
-    "Interface": ["SR-20JII"],
-    "Special Note": "-",
-    "Status": "published"
+    "speedRatio": "1:1",
+    "maxRpm": "-",
+    "adjustableSpindle": "-",
+    "adjustableAngle": "-",
+    "size": "-",
+    "patentNumber": "-",
+    "clampingMethod": "ER16-M",
+    "interface": ["SR-20JII"],
+    "specialNote": "-",
+    "status": "published"
   },
   {
-    "No": "S-DM-S1-02",
-    "Title": "Drilling/Milling Unit For Sub Spindle",
-    "Image": "wix:image://v1/64b229_a80208585fa34bcfbece952b96466db7~mv2.png/S-DM-S1-02.png#originWidth=3840&originHeight=3840",
-    "Brand No": "541-61",
-    "Brand": "Star",
-    "Spindle Position": [
+    "id": "S-DM-S1-02",
+    "title": "Drilling/Milling Unit For Sub Spindle",
+    "imgUrl": "wix:image://v1/64b229_a80208585fa34bcfbece952b96466db7~mv2.png/S-DM-S1-02.png#originWidth=3840&originHeight=3840",
+    "brandNo": "541-61",
+    "brand": "Star",
+    "spindlePosition": [
       "Sub Spindle"
     ],
-    "Speed Ratio": "1:1",
-    "RPM (Max)": "-",
-    "Adjustable Spindle": "-",
-    "Adjustable Angle": "-",
-    "Size": "-",
-    "Patent Number": "-",
-    "Clamping Method": "ER11-M",
-    "Interface": [
+    "speedRatio": "1:1",
+    "maxRpm": "-",
+    "adjustableSpindle": "-",
+    "adjustableAngle": "-",
+    "size": "-",
+    "patentNumber": "-",
+    "clampingMethod": "ER11-M",
+    "interface": [
       "Star ECAS 12/20",
       "Star SB 12/16/20 R",
       "Star SD 26 C/E/G/S",
@@ -524,26 +524,26 @@
       "Star SV 20 R",
       "Star SW 12 R II"
     ],
-    "Special Note": "-",
-    "Status": "published"
+    "specialNote": "-",
+    "status": "published"
   },
   {
-    "No": "SN-AG-K-M3-01",
-    "Title": "3-Spindle Front Angle Adjustable Drilling/Milling Unit",
-    "Image": "wix:image://v1/64b229_696db561ddff41e19fa33b4d6589d96e~mv2.jpg/S-AG-K-M3-01.jpg#originWidth=7680&originHeight=7680",
-    "Brand No": "-",
-    "Brand": "Star",
-    "Spindle Position": [
+    "id": "SN-AG-K-M3-01",
+    "title": "3-Spindle Front Angle Adjustable Drilling/Milling Unit",
+    "imgUrl": "wix:image://v1/64b229_696db561ddff41e19fa33b4d6589d96e~mv2.jpg/S-AG-K-M3-01.jpg#originWidth=7680&originHeight=7680",
+    "brandNo": "-",
+    "brand": "Star",
+    "spindlePosition": [
       "Main Spindle"
     ],
-    "Speed Ratio": "1:1",
-    "RPM (Max)": "-",
-    "Adjustable Spindle": "-",
-    "Adjustable Angle": "0° ~ 90°",
-    "Size": "-",
-    "Patent Number": "-",
-    "Clamping Method": "ER16-M",
-    "Interface": [
+    "speedRatio": "1:1",
+    "maxRpm": "-",
+    "adjustableSpindle": "-",
+    "adjustableAngle": "0° ~ 90°",
+    "size": "-",
+    "patentNumber": "-",
+    "clampingMethod": "ER16-M",
+    "interface": [
       "Star ECAS 12/20",
       "Star SB 12/16/20 R",
       "Star SB 16 III",
@@ -556,26 +556,26 @@
       "Star SR 32 J/JN",
       "Nomura DS NN-32J"
     ],
-    "Special Note": "-",
-    "Status": "published"
+    "specialNote": "-",
+    "status": "published"
   },
   {
-    "No": "SN-AG-L-M3-01",
-    "Title": "3-Spindle Front Angle Adjustable Drilling/Milling Unit",
-    "Image": "wix:image://v1/64b229_bc9be9daeed94ad893afdff6addbe8e5~mv2.jpg/S-AG-L-M3-01.jpg#originWidth=7680&originHeight=7680",
-    "Brand No": "-",
-    "Brand": "Star",
-    "Spindle Position": [
+    "id": "SN-AG-L-M3-01",
+    "title": "3-Spindle Front Angle Adjustable Drilling/Milling Unit",
+    "imgUrl": "wix:image://v1/64b229_bc9be9daeed94ad893afdff6addbe8e5~mv2.jpg/S-AG-L-M3-01.jpg#originWidth=7680&originHeight=7680",
+    "brandNo": "-",
+    "brand": "Star",
+    "spindlePosition": [
       "Main Spindle"
     ],
-    "Speed Ratio": "1:1",
-    "RPM (Max)": "-",
-    "Adjustable Spindle": "-",
-    "Adjustable Angle": "0° ~ 360°",
-    "Size": "-",
-    "Patent Number": "-",
-    "Clamping Method": "ER11-AX",
-    "Interface": [
+    "speedRatio": "1:1",
+    "maxRpm": "-",
+    "adjustableSpindle": "-",
+    "adjustableAngle": "0° ~ 360°",
+    "size": "-",
+    "patentNumber": "-",
+    "clampingMethod": "ER11-AX",
+    "interface": [
       "Star ECAS 12/20",
       "Star SB 12/16/20 R",
       "Star SB 16 III",
@@ -588,26 +588,26 @@
       "Star SR 32 J/JN",
       "Nomura DS NN-32J"
     ],
-    "Special Note": "-",
-    "Status": "published"
+    "specialNote": "-",
+    "status": "published"
   },
   {
-    "No": "S-DM-S1-03",
-    "Title": "Drilling/Milling Unit For Sub Spindle",
-    "Image": "wix:image://v1/64b229_a66f96b56cb44192b058c51c3438e719~mv2.png/S-DM-S1-03.png#originWidth=3840&originHeight=3840",
-    "Brand No": "101-81",
-    "Brand": "Star",
-    "Spindle Position": [
+    "id": "S-DM-S1-03",
+    "title": "Drilling/Milling Unit For Sub Spindle",
+    "imgUrl": "wix:image://v1/64b229_a66f96b56cb44192b058c51c3438e719~mv2.png/S-DM-S1-03.png#originWidth=3840&originHeight=3840",
+    "brandNo": "101-81",
+    "brand": "Star",
+    "spindlePosition": [
       "Sub Spindle"
     ],
-    "Speed Ratio": "1:1",
-    "RPM (Max)": "-",
-    "Adjustable Spindle": "-",
-    "Adjustable Angle": "-",
-    "Size": "-",
-    "Patent Number": "-",
-    "Clamping Method": "ER16-M",
-    "Interface": [
+    "speedRatio": "1:1",
+    "maxRpm": "-",
+    "adjustableSpindle": "-",
+    "adjustableAngle": "-",
+    "size": "-",
+    "patentNumber": "-",
+    "clampingMethod": "ER16-M",
+    "interface": [
       "Star SB 12/16/20 R",
       "Star SD 26 C/E/G/S",
       "Star SL 7/10",
@@ -618,7 +618,7 @@
       "Star SW 12 R II",
       "Star SW 20"
     ],
-    "Special Note": "-",
-    "Status": "published"
+    "specialNote": "-",
+    "status": "published"
   }
 ]

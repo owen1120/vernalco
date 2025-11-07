@@ -1,0 +1,156 @@
+[
+    {
+        "id": "VC-CCS-01",
+        "endedType": "Single Ended",
+        "colletType": "ER11-M",
+        "overallDimensions": "50L x Ø16",
+        "status": "published"
+    },
+    {
+        "id": "VC-CCS-02",
+        "endedType":"Single Ended",
+        "colletType": "ER11-M",
+        "overallDimensions": "100L x Ø16",
+        "status": "published"
+    },
+    {
+        "id": "VC-CCS-03",
+        "endedType":"Single Ended",
+        "colletType": "ER11-A",
+        "overallDimensions":"50L x Ø16",
+        "status": "published"
+    },
+    {
+        "id": "VC-CCS-04",
+        "endedType": "Single Ended",
+        "colletType": "ER16-M",
+        "overallDimensions": "45L x Ø19.05",
+        "status": "published"
+    },
+    {
+        "id": "VC-CCS-06",
+        "endedType":"Single Ended",
+        "colletType": "ER16-M",
+        "overallDimensions":"45L x Ø22",
+        "status": "published"
+    },
+    {
+        "id": "VC-CCS-07",
+        "endedType": "Single Ended",
+        "colletType": "ER16-M",
+        "overallDimensions": "45L x Ø25",
+        "status": "published"
+    },
+    {
+        "id": "VC-CCS-08",
+        "endedType":"Single Ended",
+        "colletType":"ER16-M",
+        "overallDimensions":"70L x Ø20",
+        "status":"published"
+    },
+    {
+        "id":"VC-CCS-09",
+        "endedType":"Single Ended",
+        "colletType":"ER16-M",
+        "overallDimensions":"70L x Ø25",
+        "status":"published"
+    },
+    {
+        "id":"VC-CCS-10",
+        "endedType":"Single Ended",
+        "colletType":"ER16-M",
+        "overallDimensions":"100L x Ø19.05",
+        "status":"published"
+    },
+    {
+        "id":"VC-CCS-11",
+        "endedType":"Single Ended",
+        "colletType":"ER16-M",
+        "overallDimensions":"100L x Ø22",
+        "status":"published"
+    },
+    {
+        "id":"VC-CCS-12",
+        "endedType":"Single Ended",
+        "colletType":"ER16-A",
+        "overallDimensions":"45L x Ø22",
+        "status":"published"
+    },
+    {
+        "id":"VC-CCS-13",
+        "endedType":"Single Ended",
+        "colletType":"ER16-A",
+        "overallDimensions":"70L x Ø20",
+        "status":"published"
+    },
+    {
+        "id":"VC-CCS-14",
+        "endedType":"Single Ended",
+        "colletType":"ER16-A",
+        "overallDimensions":"70L x Ø25",
+        "status":"published"
+    },
+    {
+        "id":"VC-CCS-15",
+        "endedType":"Single Ended",
+        "colletType":"ER20-M",
+        "overallDimensions":"60L x Ø25",
+        "status":"published"
+    },
+    {
+        "id":"VC-CCS-16",
+        "endedType":"Single Ended",
+        "colletType":"ER20-M",
+        "overallDimensions":"100L x Ø25",
+        "status":"published"
+    },
+    {
+        "id":"VC-CCS-17",
+        "endedType":"Single Ended",
+        "colletType":"ER20-A",
+        "overallDimensions":"60L x Ø25",
+        "status":"published"
+    },
+    {
+        "id":"VC-CCS-18",
+        "endedType":"Single Ended",
+        "colletType":"ER20-A",
+        "overallDimensions":"100L x Ø25",
+        "status":"published"
+    },
+    {
+        "id":"VC-CCD-01",
+        "endedType": "Double Ended",
+        "colletType":"ER16-M",
+        "overallDimensions":"60L x Ø19.05",
+        "status":"published"
+    },
+    {
+        "id":"VC-CCD-02",
+        "endedType":"Double Ended",
+        "colletType":"ER16-M",
+        "overallDimensions":"60L x Ø22",
+        "status":"published"
+    },
+    {
+        "id":"VC-CCD-03",
+        "endedType":"Double Ended",
+        "colletType":"ER16-M",
+        "overallDimensions":"75L x Ø22",
+        "status":"published"
+    },
+    {
+        "id":"VC-CCD-04",
+        "endedType":"Double Ended",
+        "colletType":"ER20-A",
+        "overallDimensions":"75L x Ø25",
+        "status":"published"
+    },
+    {
+        "id":"VC-CCD-05",
+        "endedType":"Double Ended",
+        "colletType":"ER20-M",
+        "overallDimensions":"75L x Ø25",
+        "status":"published"
+    }
+]
