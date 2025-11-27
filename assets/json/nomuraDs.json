@@ -15,7 +15,7 @@
     "size": "-",
     "patentNumber": "-",
     "clampingMethod": "ER11-A",
-    "interface": ["Nomura DS NN-20J"],
+    "interface": ["Nomura DS NN-20J2/J3/J4"],
     "specialNote": "-",
     "status": "published"
   },
@@ -55,7 +55,7 @@
     "size": "Cutter Head Arbor: Ø13 mm, Maximum Outer Diameter(with Inserts): Ø55.4 mm",
     "patentNumber": "-",
     "clampingMethod": "-",
-    "interface": ["Nomura DS NN-20J"],
+    "interface": ["Nomura DS NN-20J2/J3/J4"],
     "specialNote": "-",
     "status": "published"
   },
@@ -95,7 +95,7 @@
     "size": "-",
     "patentNumber": "-",
     "clampingMethod": "ER11-M",
-    "interface": ["Nomura DS NN-20J", "Nomura DS NN-20UB8"],
+    "interface": ["Nomura DS NN-20J2/J3/J4", "Nomura DS NN-20UB8"],
     "specialNote": "-",
     "status": "published"
   },
@@ -115,7 +115,7 @@
     "size": "Ø10 x Ø25 (Max) x 16mm (Max)",
     "patentNumber": "-",
     "clampingMethod": "-",
-    "interface": ["Nomura DS NN-20J"],
+    "interface": ["Nomura DS NN-20J2/J3/J4"],
     "specialNote": "-",
     "status": "published"
   },
@@ -155,7 +155,7 @@
     "size": "-",
     "patentNumber": "-",
     "clampingMethod": "ER11-M",
-    "interface": ["Nomura DS NN-20J", "Nomura DS NN-20UB8"],
+    "interface": ["Nomura DS NN-20J2/J3/J4", "Nomura DS NN-20UB8"],
     "specialNote": "-",
     "status": "published"
   },
@@ -175,7 +175,7 @@
     "size": "Max. Machinable Diameter: Ø12 mm",
     "patentNumber": "TWM646993U",
     "clampingMethod": "-",
-    "interface": ["Nomura DS NN-20J"],
+    "interface": ["Nomura DS NN-20J2/J3/J4"],
     "specialNote": "-",
     "status": "published"
   },

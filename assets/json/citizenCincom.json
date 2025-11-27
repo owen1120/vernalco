@@ -18,7 +18,7 @@
     "interface": [
       "Citizen Cincom A20",
       "Citizen Cincom D25",
-      "Citizen Cincom L16 / L20 / L25 / L32",
+      "Citizen Cincom L20 / L25 / L32",
       "Citizen Cincom M32 / M532"
     ],
     "specialNote": "-",
@@ -64,6 +64,7 @@
     "patentNumber": "TWM646993U",
     "clampingMethod": "-",
     "interface": [
+      "Citizen Cincom A20 VII",
       "Citizen Cincom L12 / L32",
       "Citizen Cincom M32"
     ],
@@ -189,6 +190,7 @@
     "patentNumber": "-",
     "clampingMethod": "-",
     "interface": [
+      "Citizen Cincom A20 VII",
       "Citizen Cincom L20 / L32",
       "Citizen Cincom M32"
     ],
@@ -237,8 +239,7 @@
     "patentNumber": "-",
     "clampingMethod": "ER16-AM",
     "interface": [
-      "Citizen Cincom L32",
-      "Citizen Cincom M32"
+      "Citizen Cincom L32"
     ],
     "specialNote": "-",
     "status": "published"
@@ -328,7 +329,7 @@
     "patentNumber": "-",
     "clampingMethod": "ER11-A",
     "interface": [
-      "Citizen Cincom A20",
+      "Citizen Cincom A20 VI/VII",
       "Citizen Cincom L20 / L32",
       "Citizen Cincom M32"
     ],
