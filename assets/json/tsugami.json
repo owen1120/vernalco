@@ -2,35 +2,159 @@
   {
     "id": "T-DM-M4-01",
     "title": "2-Spindle Counterface Drilling/Milling Unit",
-    "imgUrl": "wix:image://v1/64b229_7a205e369c024433af74d61456cca46b~mv2.jpg/T-DM-M4-01.jpg#originWidth=7680&originHeight=7680",
-    "brandNo": "3282-Y901",
-    "brand": "Tsugami",
+    "titleZhTw": "正向動力座",
+    "imgUrl": "",
+    "refNo": "3282-Y901",
     "spindlePosition": [
       "Main Spindle"
     ],
+    "handle": "Ø46 mm",
+    "clampingMethod": "ER16-M",
+    "cuttingTools": "Ø10 mm",
     "speedRatio": "1:1",
     "maxRpm": "-",
+    "lengthPerRef": "13 mm",
     "adjustable spindle": "-",
     "adjustableAngle": "-",
-    "size": "-",
-    "patentNumber": "-",
-    "clampingMethod": "ER16-M",
-    "interface": [
-      "Tsugami B0265-II/266-II/325-II/326-II", 
-      "Tsugami B0265-III/266-III/325-III/326-III",
-      "Tsugami B0385",
-      "Tsugami BW329Z/389Z",
-      "Tsugami SS20/26/32"
-    ],
-    "specialNote": "-",
+    "matchingMachineTools": {
+      "mainSpindle": [
+        "Tsugami B0265-II/266-II/325-II/326-II", 
+        "Tsugami B0265-III/266-III/325-III/326-III",
+        "Tsugami B0385",
+        "Tsugami BW329Z/389Z",
+        "Tsugami SS20/26/32"
+      ],
+      "subSpindle": []
+    },
+    "specialNote": ["-"],
     "status": "published"
   },
+  {
+    "id": "T-AG-K-M4-01",
+    "title": "2-Spindle Counterface Angle Adjustable Drilling/Milling Unit",
+    "titleZhTw": "角度調整正向動力座",
+    "imgUrl": "",
+    "refNo": "3282-Y921",
+    "spindlePosition": [
+      "Main Spindle"
+    ],
+    "handle": "Ø46 mm",
+    "clampingMethod": "ER16-M",
+    "cuttingTools": "Ø10 mm",
+    "speedRatio": "1:1",
+    "maxRpm": "-",
+    "lengthPerRef": "13 mm",
+    "adjustable spindle": "-",
+    "adjustableAngle": "0° ~ 90°",
+    "matchingMachineTools": {
+      "mainSpindle": [
+        "Tsugami B0265-II/266-II/325-II/326-II",
+        "Tsugami B0265-III/266-III/325-III/326-III",
+        "Tsugami B0385",
+        "Tsugami BW329Z/389Z",
+        "Tsugami SS20/26/32"
+      ],
+      "subSpindle": []
+    },
+    "specialNote": ["-"],
+    "status": "published"
+  },
+  {
+    "id": "T-TW-P-M1-01",
+    "title": "Thread Whirling Unit",
+    "titleZhTw": "旋風刀座",
+    "imgUrl": "",
+    "refNo": "3268-Y450",
+    "spindlePosition": [
+      "Main Spindle"
+    ],
+    "handle": "Ø46 mm",
+    "clampingMethod": "-",
+    "cuttingTools": "-",
+    "speedRatio": "1:1",
+    "maxRpm": "-",
+    "lengthPerRef": "1.45 mm",
+    "adjustable spindle": "-",
+    "adjustableAngle": "±15°",
+    "matchingMachineTools": {
+      "mainSpindle": [
+        "Tsugami B0265-II/266-II/325-II/326-II",
+        "Tsugami B0265-III/266-III/325-III/326-III",
+        "Tsugami B0385",
+        "Tsugami BW329Z/389Z",
+        "Tsugami SS20/26/32"
+      ],
+      "subSpindle": []
+    },
+    "specialNote": ["Max. Machinable Diameter: Ø20 mm", "PAT. NO. TWM646993U"],
+    "status": "published"
+  },
+  {
+    "id": "T-DM-M1-01",
+    "title": "Drilling/Milling Unit",
+    "titleZhTw": "直柄迴轉刀座",
+    "imgUrl": "",
+    "refNo": "3268-T051",
+    "spindlePosition": [
+      "Main Spindle"
+    ],
+    "handle": "Ø46 mm",
+    "clampingMethod": "ER16-A",
+    "cuttingTools": "Ø10 mm",
+    "speedRatio": "1:1",
+    "maxRpm": "-",
+    "lengthPerRef": "47.5 mm",
+    "adjustable spindle": "-",
+    "adjustableAngle": "-",
+    "matchingMachineTools": {
+      "mainSpindle": [
+        "Tsugami B0265-II/266-II/325-II/326-II",
+        "Tsugami B0265-III/266-III/325-III/326-III",
+        "Tsugami B0385",
+        "Tsugami BW329Z/389Z",
+        "Tsugami SS20/26/32"
+      ],
+      "subSpindle": []
+    },
+    "specialNote": ["-"],
+    "status": "published"
+  },
+  {
+    "id": "T-NX-C-M1-01",
+    "title": "4X Speed Drilling/Milling Unit",
+    "titleZhTw": "4倍速直柄迴轉刀座",
+    "imgUrl": "",
+    "refNo": "3290-Y681",
+    "spindlePosition": [
+      "Main Spindle"
+    ],
+    "handle": "Ø46 mm",
+    "clampingMethod": "ER11-M",
+    "cuttingTools": "Ø7 mm",
+    "speedRatio": "1:4",
+    "maxRpm": "28000 rpm",
+    "lengthPerRef": "66.3 mm",
+    "adjustable spindle": "-",
+    "adjustableAngle": "-",
+    "matchingMachineTools": {
+      "mainSpindle": [
+        "Tsugami B0265-II/266-II/325-II/326-II",
+        "Tsugami B0265-III/266-III/325-III/326-III",
+        "Tsugami B0385",
+        "Tsugami BW329Z/389Z",
+        "Tsugami SS20/26/32"
+      ],
+      "subSpindle": []
+    },
+    "specialNote": ["-"],
+    "status": "published"
+  },
+  // ----------------------------------------------
   {
     "id": "T-NX-C-M1-02",
     "title": "4X Speed Drilling/Milling Unit",
     "imgUrl": "wix:image://v1/64b229_5b6bbaa4b21f427fbb09f26ee65d4a97~mv2.jpg/T-NX-C-M1-02.jpg#originWidth=2560&originHeight=2560",
-    "brandNo": "-",
-    "brand": "Tsugami",
+    "refNo": "-",
     "spindlePosition": [
       "Main Spindle"
     ],
@@ -41,33 +165,7 @@
     "size": "-",
     "patentNumber": "-",
     "clampingMethod": "ER11-MS",
-    "interface": ["Tsugami S205A / S206A"],
-    "specialNote": "-",
-    "status": "published"
-  },
-  {
-    "id": "T-AG-K-M4-01",
-    "title": "2-Spindle Counterface Angle Adjustable Drilling/Milling Unit",
-    "imgUrl": "wix:image://v1/64b229_b1b2e39b2c384dc48df9693c9e608c4f~mv2.jpg/T-AG-K-M4-01.jpg#originWidth=7680&originHeight=7680",
-    "brandNo": "3282-Y921",
-    "brand": "Tsugami",
-    "spindlePosition": [
-      "Main Spindle"
-    ],
-    "speedRatio": "1:1",
-    "maxRpm": "-",
-    "adjustable spindle": "-",
-    "adjustableAngle": "0° ~ 90°",
-    "size": "-",
-    "patentNumber": "-",
-    "clampingMethod": "ER16-M",
-    "interface": [
-      "Tsugami B0265-II/266-II/325-II/326-II",
-      "Tsugami B0265-III/266-III/325-III/326-III",
-      "Tsugami B0385",
-      "Tsugami BW329Z/389Z",
-      "Tsugami SS20/26/32"
-    ],
+    "matchingMachineTools": ["Tsugami S205A / S206A"],
     "specialNote": "-",
     "status": "published"
   },
@@ -75,8 +173,7 @@
     "id": "T-DM-M1-02",
     "title": "Drilling/Milling Unit",
     "imgUrl": "wix:image://v1/64b229_2cb6fbb5d43648dcb12818014706865f~mv2.jpg/T-DM-M1-02.jpg#originWidth=2560&originHeight=2560",
-    "brandNo": "-",
-    "brand": "Tsugami",
+    "refNo": "-",
     "spindlePosition": [
       "Main Spindle"
     ],
@@ -87,7 +184,7 @@
     "size": "-",
     "patentNumber": "-",
     "clampingMethod": "ER16-AM",
-    "interface": ["Tsugami S205A / S206A"],
+    "matchingMachineTools": ["Tsugami S205A / S206A"],
     "specialNote": "-",
     "status": "published"
   },
@@ -95,8 +192,7 @@
     "id": "T-DM-M6-01",
     "title": "3-Spindle Counterface Drilling/Milling Unit",
     "imgUrl": "wix:image://v1/64b229_4bf3863ba4fe4deab9d62f5ed74bdfef~mv2.jpg/T-DM-M6-01.jpg#originWidth=2560&originHeight=2560",
-    "brandNo": "-",
-    "brand": "Tsugami",
+    "refNo": "-",
     "spindlePosition": [
       "Main Spindle"
     ],
@@ -107,7 +203,7 @@
     "size": "-",
     "patentNumber": "-",
     "clampingMethod": "ER16-M / ER11-A",
-    "interface": ["Tsugami S205A / S206A"],
+    "matchingMachineTools": ["Tsugami S205A / S206A"],
     "specialNote": "-",
     "status": "published"
   },
@@ -115,8 +211,7 @@
     "id": "T-DM-S1-02",
     "title": "Drilling/Milling Unit For Sub-Spindle",
     "imgUrl": "wix:image://v1/64b229_f90d6154ae3a4b3a8ad52866c9e3b57d~mv2.jpg/T-DM-S1-02.jpg#originWidth=2560&originHeight=2560",
-    "brandNo": "-",
-    "brand": "Tsugami",
+    "refNo": "-",
     "spindlePosition": [
       "Sub Spindle"
     ],
@@ -127,7 +222,7 @@
     "size": "-",
     "patentNumber": "-",
     "clampingMethod": "ER16-A",
-    "interface": ["Tsugami S205A / S206A"],
+    "matchingMachineTools": ["Tsugami S205A / S206A"],
     "specialNote": "-",
     "status": "published"
   },
@@ -135,8 +230,7 @@
     "id": "T-SM-S1-02",
     "title": "Side Milling Unit For Sub-Spindle",
     "imgUrl": "wix:image://v1/64b229_211bc9e3806b45a8b3f7e7d557ccabb6~mv2.jpg/T-SM-S1-02.jpg#originWidth=2560&originHeight=2560",
-    "brandNo": "-",
-    "brand": "Tsugami",
+    "refNo": "-",
     "spindlePosition": [
       "Sub Spindle"
     ],
@@ -147,7 +241,7 @@
     "size": "-",
     "patentNumber": "-",
     "clampingMethod": "ER11-A",
-    "interface": ["Tsugami S205A / S206A"],
+    "matchingMachineTools": ["Tsugami S205A / S206A"],
     "specialNote": "-",
     "status": "published"
   },
@@ -155,8 +249,7 @@
     "id": "T-DM-S1-01",
     "title": "Drilling/Milling Unit For Sub Spindle",
     "imgUrl": "wix:image://v1/64b229_1267416bd1e04d6fbb785b6b82a4caef~mv2.jpg/T-DM-S1-01.jpg#originWidth=7680&originHeight=7680",
-    "brandNo": "3282-Y041",
-    "brand": "Tsugami",
+    "refNo": "3282-Y041",
     "spindlePosition": [
       "Sub Spindle"
     ],
@@ -167,7 +260,7 @@
     "size": "-",
     "patentNumber": "-",
     "clampingMethod": "ER16-A",
-    "interface": [
+    "matchingMachineTools": [
       "Tsugami B0265-II/266-II/325-II/326-II",
       "Tsugami B0265-III/266-III/325-III/326-III",
       "Tsugami B0385",
@@ -181,8 +274,7 @@
     "id": "T-GH-J-M1-01",
     "title": "Gear Hobbing Unit",
     "imgUrl": "wix:image://v1/64b229_e0bad26da2e9498bb90fc4d43f0a189a~mv2.jpg/T-GH-J-M1-01.jpg#originWidth=2560&originHeight=2560",
-    "brandNo": "-",
-    "brand": "Tsugami",
+    "refNo": "-",
     "spindlePosition": [
       "Main Spindle"
     ],
@@ -193,7 +285,7 @@
     "size": "-",
     "patentNumber": "-",
     "clampingMethod": "-",
-    "interface": ["Tsugami S205A / S206A"],
+    "matchingMachineTools": ["Tsugami S205A / S206A"],
     "specialNote": "-",
     "status": "published"
   },
@@ -201,8 +293,7 @@
     "id": "T-AG-M-S1-01",
     "title": "Angle Adjustable Drilling/Milling Unit  For Sub Spindle",
     "imgUrl": "wix:image://v1/64b229_04ce0b105def4a09801ba4c432822eff~mv2.png/T-AG-M-S1-01.png#originWidth=7680&originHeight=7680",
-    "brandNo": "-",
-    "brand": "Tsugami",
+    "refNo": "-",
     "spindlePosition": [
       "Sub Spindle"
     ],
@@ -213,7 +304,7 @@
     "size": "-",
     "patentNumber": "-",
     "clampingMethod": "ER11-M",
-    "interface": [
+    "matchingMachineTools": [
       "Tsugami B0265-II/266-II/325-II/326-II",
       "Tsugami B0265-III/266-III/325-III/326-III",
       "Tsugami B0385",
@@ -227,8 +318,7 @@
     "id": "T-NX-C-S1-02",
     "title": "4X Speed Drilling/Milling Unit For Sub-Spindle",
     "imgUrl": "wix:image://v1/64b229_68d72676957a4f8fb4e946601a6fa778~mv2.jpg/T-NX-C-S1-02.jpg#originWidth=2560&originHeight=2560",
-    "brandNo": "-",
-    "brand": "Tsugami",
+    "refNo": "-",
     "spindlePosition": [
       "Sub Spindle"
     ],
@@ -239,7 +329,7 @@
     "size": "-",
     "patentNumber": "-",
     "clampingMethod": "ER11-M",
-    "interface": ["Tsugami S205A / S206A"],
+    "matchingMachineTools": ["Tsugami S205A / S206A"],
     "specialNote": "-",
     "status": "published"
   },
@@ -247,8 +337,7 @@
     "id": "T-TW-N-M1-01",
     "title": "Thread Whirling Unit",
     "imgUrl": "wix:image://v1/64b229_520c55e458ce44fc9ba9c42e170d63c7~mv2.jpg/T-TW-N-M1-01.jpg#originWidth=2560&originHeight=2560",
-    "brandNo": "-",
-    "brand": "Tsugami",
+    "refNo": "-",
     "spindlePosition": [
       "Main Spindle"
     ],
@@ -259,7 +348,7 @@
     "size": "-",
     "patentNumber": "-",
     "clampingMethod": "-",
-    "interface": ["Tsugami S205A / S206A"],
+    "matchingMachineTools": ["Tsugami S205A / S206A"],
     "specialNote": "-",
     "status": "published"
   },
@@ -267,8 +356,7 @@
     "id": "T-AG-M-M3-01",
     "title": "3-Spindle Front Angle Adjustable Drilling/Milling Unit",
     "imgUrl": "wix:image://v1/64b229_b3066fb99dda4864ac1689993f19a50b~mv2.jpg/T-AG-M-M3-01.jpg#originWidth=2560&originHeight=2560",
-    "brandNo": "-",
-    "brand": "Tsugami",
+    "refNo": "-",
     "spindlePosition": [
       "Main Spindle"
     ],
@@ -279,33 +367,7 @@
     "size": "-",
     "patentNumber": "-",
     "clampingMethod": "ER11-A",
-    "interface": ["Tsugami S205A / S206A"],
-    "specialNote": "-",
-    "status": "published"
-  },
-  {
-    "id": "T-NX-C-M1-01",
-    "title": "4X Speed Drilling/Milling Unit",
-    "imgUrl": "wix:image://v1/64b229_4c85fcbfca5242ffbcbf4bad198754ea~mv2.png/T-NX-C-M1-01.png#originWidth=3840&originHeight=3840",
-    "brandNo": "3290-Y681",
-    "brand": "Tsugami",
-    "spindlePosition": [
-      "Main Spindle"
-    ],
-    "speedRatio": "1:4",
-    "maxRpm": "40000 rpm",
-    "adjustable spindle": "-",
-    "adjustableAngle": "-",
-    "size": "-",
-    "patentNumber": "-",
-    "clampingMethod": "ER11-M",
-    "interface": [
-      "Tsugami B0265-II/266-II/325-II/326-II",
-      "Tsugami B0265-III/266-III/325-III/326-III",
-      "Tsugami B0385",
-      "Tsugami BW329Z/389Z",
-      "Tsugami SS20/26/32"
-    ],
+    "matchingMachineTools": ["Tsugami S205A / S206A"],
     "specialNote": "-",
     "status": "published"
   },
@@ -313,8 +375,7 @@
     "id": "T-AG-K-M3-01",
     "title": "3-Spindle Front Angle Adjustable Drilling/Milling Unit",
     "imgUrl": "wix:image://v1/64b229_a0255baae9964c98bb0b507feb5166e1~mv2.jpg/T-AG-K-M3-01.jpg#originWidth=2560&originHeight=2560",
-    "brandNo": "-",
-    "brand": "Tsugami",
+    "refNo": "-",
     "spindlePosition": [
       "Main Spindle"
     ],
@@ -325,7 +386,7 @@
     "size": "-",
     "patentNumber": "-",
     "clampingMethod": "ER11-A",
-    "interface": ["Tsugami S205A / S206A"],
+    "matchingMachineTools": ["Tsugami S205A / S206A"],
     "specialNote": "-",
     "status": "published"
   },
@@ -333,8 +394,7 @@
     "id": "T-SM-S1-01",
     "title": "Side Milling Unit For Sub Spindle",
     "imgUrl": "wix:image://v1/64b229_54ba5b9ee0e14c35ba06cc1723e26033~mv2.png/T-SM-S1-01_edited.png#originWidth=2867&originHeight=2714",
-    "brandNo": "-",
-    "brand": "Tsugami",
+    "refNo": "-",
     "spindlePosition": [
       "Sub Spindle"
     ],
@@ -345,7 +405,7 @@
     "size": "-",
     "patentNumber": "-",
     "clampingMethod": "ER16-M",
-    "interface": [
+    "matchingMachineTools": [
       "Tsugami B0265-II/266-II/325-II/326-II",
       "Tsugami B0265-III/266-III/325-III/326-III",
       "Tsugami B0385",
@@ -359,8 +419,7 @@
     "id": "T-DM-S3-01",
     "title": "3-Spindle Drilling/Milling Unit For Sub Spindle",
     "imgUrl": "wix:image://v1/64b229_d4518f03b12c476b9aad0ef491e62afb~mv2.png/T-DU-S3-01.png#originWidth=2560&originHeight=1707",
-    "brandNo": "-",
-    "brand": "Tsugami",
+    "refNo": "-",
     "spindlePosition": [
       "Sub Spindle"
     ],
@@ -371,7 +430,7 @@
     "size": "-",
     "patentNumber": "-",
     "clampingMethod": "ER16-AX",
-    "interface": [
+    "matchingMachineTools": [
       "Tsugami B0265-II/266-II/325-II/326-II",
       "Tsugami B0265-III/266-III/325-III/326-III",
       "Tsugami B0385",
@@ -385,8 +444,7 @@
     "id": "T-PU-M1-01",
     "title": "Polygon Unit",
     "imgUrl": "wix:image://v1/64b229_4c4ac3d8ae0f47dd9b024a20ef501ea8~mv2.jpg/T-PU-M1-01.jpg#originWidth=2560&originHeight=2560",
-    "brandNo": "-",
-    "brand": "Tsugami",
+    "refNo": "-",
     "spindlePosition": [
       "Main Spindle"
     ],
@@ -397,33 +455,7 @@
     "size": "-",
     "patentNumber": "-",
     "clampingMethod": "-",
-    "interface": ["Tsugami S205A / S206A"],
-    "specialNote": "-",
-    "status": "published"
-  },
-  {
-    "id": "T-TW-P-M1-01",
-    "title": "Thread Whirling Unit",
-    "imgUrl": "wix:image://v1/64b229_5cdaba86ef724957b3e46ff3bb29c871~mv2.png/T-TW-P-M1-01.png#originWidth=3840&originHeight=3840",
-    "brandNo": "3268-Y450",
-    "brand": "Tsugami",
-    "spindlePosition": [
-      "Main Spindle"
-    ],
-    "speedRatio": "1:1",
-    "maxRpm": "-",
-    "adjustable spindle": "-",
-    "adjustableAngle": "±15°",
-    "size": "Max. Machinable Diameter: Ø20 mm",
-    "patentNumber": "TWM646993U",
-    "clampingMethod": "-",
-    "interface": [
-      "Tsugami B0265-II/266-II/325-II/326-II",
-      "Tsugami B0265-III/266-III/325-III/326-III",
-      "Tsugami B0385",
-      "Tsugami BW329Z/389Z",
-      "Tsugami SS20/26/32"
-    ],
+    "matchingMachineTools": ["Tsugami S205A / S206A"],
     "specialNote": "-",
     "status": "published"
   },
@@ -431,8 +463,7 @@
     "id": "T-NX-C-S1-01",
     "title": "4X Speed Drilling/Milling Unit For Sub Spindle",
     "imgUrl": "wix:image://v1/64b229_b49578bb8639481f9e239c4fc035c9aa~mv2.png/T-NX-C-S1-01.png#originWidth=3840&originHeight=3840",
-    "brandNo": "-",
-    "brand": "Tsugami",
+    "refNo": "-",
     "spindlePosition": [
       "Sub Spindle"
     ],
@@ -443,33 +474,7 @@
     "size": "-",
     "patentNumber": "-",
     "clampingMethod": "ER11-M",
-    "interface": [
-      "Tsugami B0265-II/266-II/325-II/326-II",
-      "Tsugami B0265-III/266-III/325-III/326-III",
-      "Tsugami B0385",
-      "Tsugami BW329Z/389Z",
-      "Tsugami SS20/26/32"
-    ],
-    "specialNote": "-",
-    "status": "published"
-  },
-  {
-    "id": "T-DM-M1-01",
-    "title": "Drilling/Milling Unit",
-    "imgUrl": "wix:image://v1/64b229_64c4e21b7cba4fbb90cc8803de2799c6~mv2.png/T-DM-M1-01.png#originWidth=7680&originHeight=7680",
-    "brandNo": "3268-T051",
-    "brand": "Tsugami",
-    "spindlePosition": [
-      "Main Spindle"
-    ],
-    "speedRatio": "1:1",
-    "maxRpm": "-",
-    "adjustable spindle": "-",
-    "adjustableAngle": "-",
-    "size": "-",
-    "patentNumber": "-",
-    "clampingMethod": "ER16-A",
-    "interface": [
+    "matchingMachineTools": [
       "Tsugami B0265-II/266-II/325-II/326-II",
       "Tsugami B0265-III/266-III/325-III/326-III",
       "Tsugami B0385",

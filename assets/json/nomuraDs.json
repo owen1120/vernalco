@@ -2,221 +2,276 @@
   {
     "id": "N-DM-M3-01",
     "title": "3-Spindle Front Drilling/Milling Unit",
-    "imgUrl": "wix:image://v1/64b229_ba584c0f4b794e66b8150e35a97553f2~mv2.jpg/N-DM-M3-01.jpg#originWidth=7680&originHeight=7680",
-    "brandNo": "-",
-    "brand": "Nomura DS",
+    "titleZhTw": "正向動力座",
+    "imgUrl": "",
+    "refNo": "-",
     "spindlePosition": [
       "Main Spindle"
     ],
-    "speedRatio": "1:1",
-    "maxRpm": "-",
-    "adjustableSpindle": "-",
-    "adjustableAngle": "-",
-    "size": "-",
-    "patentNumber": "-",
+    "handle": "Ø32 mm",
     "clampingMethod": "ER11-A",
-    "interface": ["Nomura DS NN-20J2/J3/J4"],
-    "specialNote": "-",
-    "status": "published"
-  },
-  {
-    "id": "N-SL-S1-01",
-    "title": "Slotting Unit For Sub Spindle",
-    "imgUrl": "wix:image://v1/64b229_19e5564905724eab87a97d375f839d74~mv2.png/N-GR-S1-01.png#originWidth=1987&originHeight=1807",
-    "brandNo": "-",
-    "brand": "Nomura DS",
-    "spindlePosition": [
-      "Sub Spindle"
-    ],
-    "speedRatio": "1:0.8",
-    "maxRpm": "-",
-    "adjustableSpindle": "±1.5 mm",
-    "adjustableAngle": "-",
-    "size": "-",
-    "patentNumber": "TW202335767A",
-    "clampingMethod": "-",
-    "interface": ["Nomura DS NN-32UB8", "Nomura DS NN-38KM"],
-    "specialNote": "-",
-    "status": "published"
-  },
-  {
-    "id": "N-PU-M1-02",
-    "title": "Polygon Unit",
-    "imgUrl": "wix:image://v1/64b229_44b76be37376440b9fce67f78a5b705b~mv2.jpg/N-PU-M1-02.jpg#originWidth=7680&originHeight=7680",
-    "brandNo": "-",
-    "brand": "Nomura DS",
-    "spindlePosition": [
-      "Main Spindle"
-    ],
+    "cuttingTools": "Ø7 mm",
     "speedRatio": "1:1",
-    "maxRpm": "-",
+    "maxRpm": "6000 rpm",
+    "lengthPerRef": "26.6 mm",
     "adjustableSpindle": "-",
     "adjustableAngle": "-",
-    "size": "Cutter Head Arbor: Ø13 mm, Maximum Outer Diameter(with Inserts): Ø55.4 mm",
-    "patentNumber": "-",
-    "clampingMethod": "-",
-    "interface": ["Nomura DS NN-20J2/J3/J4"],
-    "specialNote": "-",
-    "status": "published"
-  },
-  {
-    "id": "N-GH-Q-M1-01",
-    "title": "Gear Hobbing Unit",
-    "imgUrl": "wix:image://v1/64b229_59d4800e3d81429db2f0d130322c13bf~mv2.jpg/N-GH-Q-M1-01.jpg#originWidth=7680&originHeight=7680",
-    "brandNo": "-",
-    "brand": "Nomura DS",
-    "spindlePosition": [
-      "Main Spindle"
-    ],
-    "speedRatio": "1:1",
-    "maxRpm": "-",
-    "adjustableSpindle": "-",
-    "adjustableAngle": "±25°",
-    "size": "Ø10 x Ø25 (Max) x 16mm (Max)",
-    "patentNumber": "-",
-    "clampingMethod": "-",
-    "interface": ["Nomura DS NN-20UB8"],
-    "specialNote": "-",
-    "status": "published"
-  },
-  {
-    "id": "N-NX-C-M1-01",
-    "title": "4X Speed Drilling/Milling Unit",
-    "imgUrl": "wix:image://v1/64b229_4b6d214ed49f42599f52c6ed55e2fafc~mv2.jpg/N-NX-C-M1-01.jpg#originWidth=7680&originHeight=7680",
-    "brandNo": "-",
-    "brand": "Nomura DS",
-    "spindlePosition": [
-      "Main Spindle"
-    ],
-    "speedRatio": "1:4",
-    "maxRpm": "40000 rpm",
-    "adjustableSpindle": "-",
-    "adjustableAngle": "-",
-    "size": "-",
-    "patentNumber": "-",
-    "clampingMethod": "ER11-M",
-    "interface": ["Nomura DS NN-20J2/J3/J4", "Nomura DS NN-20UB8"],
-    "specialNote": "-",
-    "status": "published"
-  },
-  {
-    "id": "N-GH-P-M1-01",
-    "title": "Gear Hobbing Unit",
-    "imgUrl": "wix:image://v1/64b229_c9a3631ae5fc4c7484377a57e5552a80~mv2.jpg/N-GH-P-M1-01.jpg#originWidth=7680&originHeight=7680",
-    "brandNo": "-",
-    "brand": "Nomura DS",
-    "spindlePosition": [
-      "Main Spindle"
-    ],
-    "speedRatio": "1:1",
-    "maxRpm": "-",
-    "adjustableSpindle": "-",
-    "adjustableAngle": "±15°",
-    "size": "Ø10 x Ø25 (Max) x 16mm (Max)",
-    "patentNumber": "-",
-    "clampingMethod": "-",
-    "interface": ["Nomura DS NN-20J2/J3/J4"],
-    "specialNote": "-",
+    "matchingMachineTools": {
+      "mainSpindle": ["Nomura DS NN-20J2/J3/J4"],
+      "subSpindle": []
+    },
+    "specialNote": ["-"],
     "status": "published"
   },
   {
     "id": "N-DM-M3-02",
     "title": "3-Spindle Front Drilling/Milling Unit",
-    "imgUrl": "wix:image://v1/64b229_2077d1875f0748c09b6d4a71bbfae03f~mv2.jpg/N-DM-M3-02.jpg#originWidth=7680&originHeight=7680",
-    "brandNo": "-",
-    "brand": "Nomura DS",
+    "titleZhTw": "正向動力座",
+    "imgUrl": "",
+    "refNo": "-",
     "spindlePosition": [
       "Main Spindle"
     ],
+    "handle": "Ø32 mm",
+    "clampingMethod": "ER11-A",
+    "cuttingTools": "Ø7 mm",
     "speedRatio": "1:1",
     "maxRpm": "-",
+    "lengthPerRef": "26.6 mm",
     "adjustableSpindle": "-",
     "adjustableAngle": "-",
-    "size": "-",
-    "patentNumber": "-",
-    "clampingMethod": "ER11-A",
-    "interface": ["Nomura DS NN-20UB8"],
-    "specialNote": "-",
-    "status": "published"
-  },
-  {
-    "id": "N-NX-B-M1-01",
-    "title": "3X Speed Drilling/Milling Unit",
-    "imgUrl": "wix:image://v1/64b229_8114eb2029144ab1b607af82cdaacaa1~mv2.jpg/N-NX-B-M1-01.jpg#originWidth=7680&originHeight=7680",
-    "brandNo": "-",
-    "brand": "Nomura DS",
-    "spindlePosition": [
-      "Main Spindle"
-    ],
-    "speedRatio": "1:3",
-    "maxRpm": "18000 rpm",
-    "adjustableSpindle": "-",
-    "adjustableAngle": "-",
-    "size": "-",
-    "patentNumber": "-",
-    "clampingMethod": "ER11-M",
-    "interface": ["Nomura DS NN-20J2/J3/J4", "Nomura DS NN-20UB8"],
-    "specialNote": "-",
+    "matchingMachineTools": {
+      "mainSpindle": ["Nomura DS NN-20UB8"],
+      "subSpindle": []
+    },
+    "specialNote": ["-"],
     "status": "published"
   },
   {
     "id": "N-TW-P-M1-01",
     "title": "Thread Whirling Unit",
-    "imgUrl": "wix:image://v1/64b229_05f4034f17cd4487b6af3878720ddea9~mv2.png/N-TW-P-M1-01.png#originWidth=3840&originHeight=3840",
-    "brandNo": "-",
-    "brand": "Nomura DS",
+    "titleZhTw": "旋風刀座",
+    "imgUrl": "",
+    "refNo": "-",
     "spindlePosition": [
       "Main Spindle"
     ],
+    "handle": "Ø32 mm",
+    "clampingMethod": "-",
+    "cuttingTools": "-",
     "speedRatio": "1:1",
-    "maxRpm": "-",
+    "maxRpm": "4000 rpm",
+    "lengthPerRef": "1.05 mm",
     "adjustableSpindle": "-",
     "adjustableAngle": "±15°",
-    "size": "Max. Machinable Diameter: Ø12 mm",
-    "patentNumber": "TWM646993U",
-    "clampingMethod": "-",
-    "interface": ["Nomura DS NN-20J2/J3/J4"],
-    "specialNote": "-",
+    "matchingMachineTools": {
+      "mainSpindle": ["Nomura DS NN-20J2/J3/J4"],
+      "subSpindle": []
+    },
+    "specialNote": ["Max. Machinable Diameter: Ø12 mm", "PAT. NO. TWM646993U"],
     "status": "published"
   },
   {
-    "id": "N-SM-S1-01",
-    "title": "Side Milling Unit For Sub Spindle",
-    "imgUrl": "wix:image://v1/64b229_1d4e879c9a4e43b2a340e5ce76c10db8~mv2.png/N-SM-S1-01_edited.png#originWidth=1591&originHeight=1545",
-    "brandNo": "-",
-    "brand": "Nomura DS",
+    "id": "N-GH-P-M1-01",
+    "title": "Gear Hobbing Unit",
+    "titleZhTw": "滾齒刀座",
+    "imgUrl": "",
+    "refNo": "-",
     "spindlePosition": [
-      "Sub Spindle"
+      "Main Spindle"
     ],
-    "speedRatio": "1:0.8",
-    "maxRpm": "-",
-    "adjustableSpindle": "±1.5 mm",
-    "adjustableAngle": "-",
-    "size": "-",
-    "patentNumber": "TW202335767A",
-    "clampingMethod": "ER16-A",
-    "interface": ["Nomura DS NN-32UB8", "Nomura DS NN-38KM"],
-    "specialNote": "-",
+    "handle": "Ø32 mm",
+    "clampingMethod": "-",
+    "cuttingTools": "-",
+    "speedRatio": "1:1",
+    "maxRpm": "4000 rpm",
+    "adjustableSpindle": "-",
+    "adjustableAngle": "±15°",
+    "matchingMachineTools": {
+      "mainSpindle": ["Nomura DS NN-20J2/J3/J4"],
+      "subSpindle": []
+    },
+    "specialNote": ["Tool size: Ø10 x Ø25 (Max) x 16mm (Max)"],
+    "status": "published"
+  },
+  {
+    "id": "N-GH-Q-M1-01",
+    "title": "Gear Hobbing Unit",
+    "titleZhTw": "滾齒刀座",
+    "imgUrl": "",
+    "refNo": "-",
+    "spindlePosition": [
+      "Main Spindle"
+    ],
+    "handle": "Ø32 mm",
+    "clampingMethod": "-",
+    "cuttingTools": "-",
+    "speedRatio": "1:1",
+    "maxRpm": "4000 rpm",
+    "lengthPerRef": "26.51 mm",
+    "adjustableSpindle": "-",
+    "adjustableAngle": "±25°",
+    "matchingMachineTools": {
+      "mainSpindle": ["Nomura DS NN-20UB8"],
+      "subSpindle": []
+    },
+    "specialNote": ["Tool size: Ø10 x Ø25 (Max) x 16mm (Max)"],
     "status": "published"
   },
   {
     "id": "N-PU-M1-01",
     "title": "Polygon Unit",
-    "imgUrl": "wix:image://v1/64b229_f27360b600344a148008fd3d4b757e05~mv2.jpg/N-PU-M1-01.jpg#originWidth=7680&originHeight=7680",
-    "brandNo": "-",
-    "brand": "Nomura DS",
+    "titleZhTw": "多邊銑角刀座",
+    "imgUrl": "",
+    "refNo": "-",
     "spindlePosition": [
       "Main Spindle"
     ],
+    "handle": "Ø32 mm",
+    "clampingMethod": "-",
+    "cuttingTools": "-",
     "speedRatio": "1:1",
     "maxRpm": "-",
+    "lengthPerRef": "1.2 mm",
     "adjustableSpindle": "-",
     "adjustableAngle": "-",
-    "size": "Cutter Head Arbor: Ø13 mm, Maximum Outer Diameter(with Inserts): Ø55.4 mm",
-    "patentNumber": "-",
+    "matchingMachineTools": {
+      "mainSpindle": ["Nomura DS NN-20UB8"],
+      "subSpindle": []
+    },
+    "specialNote": ["Cutter Head Arbor: Ø13 mm", "Maximum Outer Diameter(with Inserts): Ø55.4 mm"],
+    "status": "published"
+  },
+  {
+    "id": "N-PU-M1-02",
+    "title": "Polygon Unit",
+    "titleZhTw": "多邊銑角刀座",
+    "imgUrl": "",
+    "refNo": "-",
+    "spindlePosition": [
+      "Main Spindle"
+    ],
+    "handle": "Ø32 mm",
     "clampingMethod": "-",
-    "interface": ["Nomura DS NN-20UB8"],
-    "specialNote": "-",
+    "cuttingTools": "-",
+    "speedRatio": "1:1",
+    "maxRpm": "-",
+    "lengthPerRef": "1.2 mm",
+    "adjustableSpindle": "-",
+    "adjustableAngle": "-",
+    "matchingMachineTools": {
+      "mainSpindle": ["Nomura DS NN-20J2/J3/J4"],
+      "subSpindle": []
+    },
+    "specialNote": ["Cutter Head Arbor: Ø13 mm", "Maximum Outer Diameter(with Inserts): Ø55.4 mm"],
+    "status": "published"
+  },
+  {
+    "id": "N-NX-B-M1-01",
+    "title": "3X Speed Drilling/Milling Unit",
+    "titleZhTw": "3倍速直柄迴轉刀座",
+    "imgUrl": "",
+    "refNo": "-",
+    "spindlePosition": [
+      "Main Spindle"
+    ],
+    "handle": "Ø32 mm",
+    "clampingMethod": "ER11-M",
+    "cuttingTools": "Ø7 mm",
+    "speedRatio": "1:3",
+    "maxRpm": "18000 rpm",
+    "lengthPerRef": "73.2 mm",
+    "adjustableSpindle": "-",
+    "adjustableAngle": "-",
+    "matchingMachineTools": {
+      "mainSpindle":[
+        "Nomura DS NN-20J2/J3/J4",
+        "Nomura DS NN-20UB8"
+      ],
+      "subSpindle": []
+    },
+    "specialNote": ["-"],
+    "status": "published"
+  },
+  {
+    "id": "N-NX-C-M1-01",
+    "title": "4X Speed Drilling/Milling Unit",
+    "titleZhTw": "4倍速直柄迴轉刀座",
+    "imgUrl": "",
+    "refNo": "-",
+    "spindlePosition": [
+      "Main Spindle"
+    ],
+    "handle": "Ø32 mm",
+    "clampingMethod": "ER11-M",
+    "cuttingTools": "Ø7 mm",
+    "speedRatio": "1:4",
+    "maxRpm": "28000 rpm",
+    "lengthPerRef": "69.7 mm",
+    "adjustableSpindle": "-",
+    "adjustableAngle": "-",
+    "matchingMachineTools": {
+      "mainSpindle": [
+        "Nomura DS NN-20J2/J3/J4",
+        "Nomura DS NN-20UB8"
+      ],
+      "subSpindle": []
+    },
+    "specialNote": ["-"],
+    "status": "published"
+  },
+  {
+    "id": "N-SM-S1-01",
+    "title": "Side Milling Unit For Sub Spindle",
+    "titleZhTw": "背加工側銑座",
+    "imgUrl": "",
+    "refNo": "-",
+    "spindlePosition": [
+      "Sub Spindle"
+    ],
+    "handle": "Ø38 mm",
+    "clampingMethod": "ER16-A",
+    "cuttingTools": "Ø10 mm",
+    "speedRatio": "1:0.8",
+    "maxRpm": "4000 rpm",
+    "lengthPerRef": "22 mm",
+    "adjustableSpindle": "±1.5 mm",
+    "adjustableAngle": "-",
+    "matchingMachineTools": {
+      "mainSpindle": [],
+      "subSpindle": [
+        "Nomura DS NN-32UB8",
+        "Nomura DS NN-38KM"
+      ]
+    },
+    "specialNote": ["PAT. NO. TW202335767A"],
+    "status": "published"
+  },
+  {
+    "id": "N-SL-S1-01",
+    "title": "Slotting Unit For Sub Spindle",
+    "titleZhTw": "背加工鉅片座",
+    "imgUrl": "",
+    "refNo": "-",
+    "spindlePosition": [
+      "Sub Spindle"
+    ],
+    "handle": "Ø38 mm",
+    "clampingMethod": "-",
+    "cuttingTools": "-",
+    "speedRatio": "1:0.8",
+    "maxRpm": "4000 rpm",
+    "lengthPerRef": "3.5 mm",
+    "adjustableSpindle": "±1.5 mm",
+    "adjustableAngle": "-",
+    "matchingMachineTools": {
+      "mainSpindle": [],
+      "subSpindle": [
+        "Nomura DS NN-32UB8",
+        "Nomura DS NN-38KM"
+      ]
+    },
+    "specialNote": ["PAT. NO. TW202335767A"],
     "status": "published"
   }
 ]

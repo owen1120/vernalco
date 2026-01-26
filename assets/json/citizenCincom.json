@@ -13,7 +13,7 @@
     "clampingMethod": "ER16-AM",
     "cuttingTools": "Ø10 mm",
     "speedRatio": "1:1",
-    "maxRpm": "-",
+    "maxRpm": "6000 rpm",
     "lengthPerRef": "26.4 mm",
     "adjustableSpindle": "-",
     "adjustableAngle": "-",
@@ -127,7 +127,7 @@
     "clampingMethod": "-",
     "cuttingTools": "-",
     "speedRatio": "1:1",
-    "maxRpm": "-",
+    "maxRpm": "4000 rpm",
     "lengthPerRef": "4.05 mm",
     "adjustableSpindle": "-",
     "adjustableAngle": "±15°",
@@ -215,7 +215,7 @@
     "cuttingTools": "-",
     "speedRatio": "1:1",
     "maxRpm": "4000 rpm",
-    "lengthPerRef": "-",
+    "lengthPerRef": "107.01 mm",
     "adjustableSpindle": "-",
     "adjustableAngle": "-",
     "matchingMachineTools": {
@@ -225,7 +225,7 @@
       ],
       "subSpindle": []
     },
-    "specialNote": ["Ø10 x Ø25 (Max) x 16 mm (Max)"],
+    "specialNote": ["Tool size: Ø10 x Ø25 (Max) x 16 mm (Max)"],
     "status": "published"
   },
   {
@@ -242,8 +242,8 @@
     "clampingMethod": "-",
     "cuttingTools": "-",
     "speedRatio": "1:1",
-    "maxRpm": "-",
-    "lengthPerRef": "-",
+    "maxRpm": "4000 rpm",
+    "lengthPerRef": "32.51 mm",
     "adjustableSpindle": "-",
     "adjustableAngle": "0° ~ 15°",
     "matchingMachineTools": {
@@ -253,7 +253,7 @@
       ],
       "subSpindle": []
     },
-    "specialNote": ["Ø10 x Ø25 (Max) x 16 mm (Max)"],
+    "specialNote": ["Tool size: Ø10 x Ø25 (Max) x 16 mm (Max)"],
     "status": "published"
   },
   {
@@ -299,7 +299,7 @@
     "clampingMethod": "ER11-A",
     "cuttingTools": "Ø7 mm",
     "speedRatio": "1:1",
-    "maxRpm": "-",
+    "maxRpm": "4000 rpm",
     "lengthPerRef": "12.5 mm",
     "adjustableSpindle": "±1.5 mm",
     "adjustableAngle": "-",
@@ -327,7 +327,7 @@
     "clampingMethod": "ER16-AM",
     "cuttingTools": "Ø10 mm",
     "speedRatio": "1:1",
-    "maxRpm": "-",
+    "maxRpm": "6000 rpm",
     "lengthPerRef": "26.36 mm",
     "adjustableSpindle": "-",
     "adjustableAngle": "-",
@@ -337,7 +337,7 @@
         "Citizen Cincom L32"
       ]
     },
-    "specialNote": ["-"],
+    "specialNote": ["Maximum outer diameter of saw blade: Ø50 mm"],
     "status": "published"
   },
   {
