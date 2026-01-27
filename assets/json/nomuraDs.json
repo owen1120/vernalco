@@ -1,6 +1,6 @@
 [
   {
-    "id": "N-DM-M3-01",
+    "sku": "N-DM-M3-01",
     "title": "3-Spindle Front Drilling/Milling Unit",
     "titleZhTw": "正向動力座",
     "imgUrl": "",
@@ -12,7 +12,7 @@
     "clampingMethod": "ER11-A",
     "cuttingTools": "Ø7 mm",
     "speedRatio": "1:1",
-    "maxRpm": "6000 rpm",
+    "maxRpm": "-",
     "lengthPerRef": "26.6 mm",
     "adjustableSpindle": "-",
     "adjustableAngle": "-",
@@ -24,7 +24,7 @@
     "status": "published"
   },
   {
-    "id": "N-DM-M3-02",
+    "sku": "N-DM-M3-02",
     "title": "3-Spindle Front Drilling/Milling Unit",
     "titleZhTw": "正向動力座",
     "imgUrl": "",
@@ -48,7 +48,7 @@
     "status": "published"
   },
   {
-    "id": "N-TW-P-M1-01",
+    "sku": "N-TW-P-M1-01",
     "title": "Thread Whirling Unit",
     "titleZhTw": "旋風刀座",
     "imgUrl": "",
@@ -72,7 +72,7 @@
     "status": "published"
   },
   {
-    "id": "N-GH-P-M1-01",
+    "sku": "N-GH-P-M1-01",
     "title": "Gear Hobbing Unit",
     "titleZhTw": "滾齒刀座",
     "imgUrl": "",
@@ -84,7 +84,7 @@
     "clampingMethod": "-",
     "cuttingTools": "-",
     "speedRatio": "1:1",
-    "maxRpm": "4000 rpm",
+    "maxRpm": "-",
     "adjustableSpindle": "-",
     "adjustableAngle": "±15°",
     "matchingMachineTools": {
@@ -95,7 +95,7 @@
     "status": "published"
   },
   {
-    "id": "N-GH-Q-M1-01",
+    "sku": "N-GH-Q-M1-01",
     "title": "Gear Hobbing Unit",
     "titleZhTw": "滾齒刀座",
     "imgUrl": "",
@@ -107,7 +107,7 @@
     "clampingMethod": "-",
     "cuttingTools": "-",
     "speedRatio": "1:1",
-    "maxRpm": "4000 rpm",
+    "maxRpm": "-",
     "lengthPerRef": "26.51 mm",
     "adjustableSpindle": "-",
     "adjustableAngle": "±25°",
@@ -119,7 +119,7 @@
     "status": "published"
   },
   {
-    "id": "N-PU-M1-01",
+    "sku": "N-PU-M1-01",
     "title": "Polygon Unit",
     "titleZhTw": "多邊銑角刀座",
     "imgUrl": "",
@@ -143,7 +143,7 @@
     "status": "published"
   },
   {
-    "id": "N-PU-M1-02",
+    "sku": "N-PU-M1-02",
     "title": "Polygon Unit",
     "titleZhTw": "多邊銑角刀座",
     "imgUrl": "",
@@ -167,7 +167,7 @@
     "status": "published"
   },
   {
-    "id": "N-NX-B-M1-01",
+    "sku": "N-NX-B-M1-01",
     "title": "3X Speed Drilling/Milling Unit",
     "titleZhTw": "3倍速直柄迴轉刀座",
     "imgUrl": "",
@@ -194,7 +194,7 @@
     "status": "published"
   },
   {
-    "id": "N-NX-C-M1-01",
+    "sku": "N-NX-C-M1-01",
     "title": "4X Speed Drilling/Milling Unit",
     "titleZhTw": "4倍速直柄迴轉刀座",
     "imgUrl": "",
@@ -206,7 +206,7 @@
     "clampingMethod": "ER11-M",
     "cuttingTools": "Ø7 mm",
     "speedRatio": "1:4",
-    "maxRpm": "28000 rpm",
+    "maxRpm": "24000 rpm",
     "lengthPerRef": "69.7 mm",
     "adjustableSpindle": "-",
     "adjustableAngle": "-",
@@ -221,8 +221,8 @@
     "status": "published"
   },
   {
-    "id": "N-SM-S1-01",
-    "title": "Side Milling Unit For Sub Spindle",
+    "sku": "N-SM-S1-01",
+    "title": "Sskue Milling Unit For Sub Spindle",
     "titleZhTw": "背加工側銑座",
     "imgUrl": "",
     "refNo": "-",
@@ -233,7 +233,7 @@
     "clampingMethod": "ER16-A",
     "cuttingTools": "Ø10 mm",
     "speedRatio": "1:0.8",
-    "maxRpm": "4000 rpm",
+    "maxRpm": "-",
     "lengthPerRef": "22 mm",
     "adjustableSpindle": "±1.5 mm",
     "adjustableAngle": "-",
@@ -248,7 +248,7 @@
     "status": "published"
   },
   {
-    "id": "N-SL-S1-01",
+    "sku": "N-SL-S1-01",
     "title": "Slotting Unit For Sub Spindle",
     "titleZhTw": "背加工鉅片座",
     "imgUrl": "",
@@ -260,7 +260,7 @@
     "clampingMethod": "-",
     "cuttingTools": "-",
     "speedRatio": "1:0.8",
-    "maxRpm": "4000 rpm",
+    "maxRpm": "-",
     "lengthPerRef": "3.5 mm",
     "adjustableSpindle": "±1.5 mm",
     "adjustableAngle": "-",

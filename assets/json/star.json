@@ -1,6 +1,6 @@
 [
   {
-    "id": "SN-DM-M6-01",
+    "sku": "SN-DM-M6-01",
     "title": "3-Spindle Counterface Drilling/Milling Unit",
     "titleZhTw": "正向動力座",
     "imgUrl": "",
@@ -34,7 +34,7 @@
     "status": "published"
   },
   {
-    "id": "SN-NX-A-M6-01",
+    "sku": "SN-NX-A-M6-01",
     "title": "3-Spindle 1.5X Speed Counterface Drilling/Milling Unit",
     "titleZhTw": "1.5倍速正向動力座",
     "imgUrl": "",
@@ -46,7 +46,7 @@
     "clampingMethod": "Front: ER16-M, Back: ER11-M",
     "cuttingTools": "Front: Ø10 mm, Back: Ø7 mm",
     "speedRatio": "1:1.5",
-    "maxRpm": "9000 rpm",
+    "maxRpm": "-",
     "lengthPerRef": "23.5 mm",
     "adjustableSpindle": "-",
     "adjustableAngle": "-",
@@ -68,7 +68,7 @@
     "status": "published"
   },
   {
-    "id": "SN-AG-K-M3-01",
+    "sku": "SN-AG-K-M3-01",
     "title": "3-Spindle Front Angle Adjustable Drilling/Milling Unit",
     "titleZhTw": "角度調整正向動力座",
     "imgUrl": "",
@@ -102,7 +102,7 @@
     "status": "published"
   },
   {
-    "id": "SN-AG-L-M3-01",
+    "sku": "SN-AG-L-M3-01",
     "title": "3-Spindle Front Angle Adjustable Drilling/Milling Unit",
     "titleZhTw": "角度調整正向動力座",
     "imgUrl": "",
@@ -136,7 +136,7 @@
     "status": "published"
   },
   {
-    "id": "SN-AG-L-M3-02",
+    "sku": "SN-AG-L-M3-02",
     "title": "3-Spindle Front Angle Adjustable Drilling/Milling Unit",
     "titleZhTw": "角度調整正向動力座",
     "imgUrl": "",
@@ -170,7 +170,7 @@
     "status": "published"
   },
   {
-    "id": "SN-TW-J-M1-01",
+    "sku": "SN-TW-J-M1-01",
     "title": "Thread Whirling Unit",
     "titleZhTw": "旋風刀座",
     "imgUrl": "",
@@ -204,7 +204,7 @@
     "status": "published"
   },
   {
-    "id": "SN-GH-X-M1-01",
+    "sku": "SN-GH-X-M1-01",
     "title": "Gear Hobbing Unit",
     "titleZhTw": "滾齒刀座",
     "imgUrl": "",
@@ -238,7 +238,7 @@
     "status": "published"
   },
   {
-    "id": "SN-PU-M1-01",
+    "sku": "SN-PU-M1-01",
     "title": "Polygon Unit",
     "titleZhTw": "多邊銑角刀座",
     "imgUrl": "",
@@ -272,7 +272,7 @@
     "status": "published"
   },
   {
-    "id": "SN-PU-M1-02",
+    "sku": "SN-PU-M1-02",
     "title": "Polygon Unit",
     "titleZhTw": "多邊銑角刀座",
     "imgUrl": "",
@@ -284,7 +284,7 @@
     "clampingMethod": "-",
     "cuttingTools": "-",
     "speedRatio": "1:1",
-    "maxRpm": "6000 rpm",
+    "maxRpm": "-",
     "lengthPerRef": "15 mm",
     "adjustableSpindle": "-",
     "adjustableAngle": "-",
@@ -306,7 +306,7 @@
     "status": "published"
   },
   {
-    "id": "SN-NX-B-M1-01",
+    "sku": "SN-NX-B-M1-01",
     "title": "3X Speed Drilling/Milling Unit",
     "titleZhTw": "3倍速直柄迴轉刀座",
     "imgUrl": "",
@@ -341,7 +341,7 @@
     "status": "published"
   },
   {
-    "id": "SN-BU-M1-01",
+    "sku": "SN-BU-M1-01",
     "title": "Broaching Unit",
     "titleZhTw": "拉刀座",
     "imgUrl": "",
@@ -375,7 +375,7 @@
     "status": "draft"
   },
   {
-    "id": "SN-DM-M1-01",
+    "sku": "SN-DM-M1-01",
     "title": "Drilling/Milling Unit",
     "titleZhTw": "直柄迴轉刀座",
     "imgUrl": "",
@@ -412,7 +412,7 @@
     "status": "published"
   },
   {
-    "id": "SN-NX-C-M1-01",
+    "sku": "SN-NX-C-M1-01",
     "title": "4X Speed Drilling/Milling Unit",
     "titleZhTw": "4倍速直柄迴轉刀座",
     "imgUrl": "",
@@ -449,7 +449,7 @@
     "status": "published"
   },
   {
-    "id": "SN-XA-C-K-M2-01",
+    "sku": "SN-XA-C-K-M2-01",
     "title": "2-Spindle 4X Speed Front Angle Adjustable Drilling/Milling Unit",
     "titleZhTw": "角度調整4倍速正向動力座",
     "imgUrl": "",
@@ -483,7 +483,7 @@
     "status": "published"
   },
   {
-    "id": "SN-NX-C-M2-01",
+    "sku": "SN-NX-C-M2-01",
     "title": "2-Spindle 4X Speed Counterface Drilling/Milling Unit",
     "titleZhTw": "4倍速正向動力座",
     "imgUrl": "",
@@ -517,8 +517,8 @@
     "status": "published"
   },
   {
-    "id": "S-SM-S1-01",
-    "title": "Side Milling Unit For Sub Spindle",
+    "sku": "S-SM-S1-01",
+    "title": "Sskue Milling Unit For Sub Spindle",
     "titleZhTw": "背加工側銑座",
     "imgUrl": "",
     "refNo": "-",
@@ -548,7 +548,7 @@
     "status": "published"
   },
   {
-    "id": "S-SL-S1-01",
+    "sku": "S-SL-S1-01",
     "title": "Slotting Unit For Sub Spindle",
     "titleZhTw": "背加工鉅片座",
     "imgUrl": "",
@@ -583,7 +583,7 @@
     "status": "published"
   },
   {
-    "id": "S-DM-S3-01",
+    "sku": "S-DM-S3-01",
     "title": "3-Spindle Drilling/Milling Unit For Sub Spindle",
     "titleZhTw": "背加工3軸鑽孔座",
     "imgUrl": "",
@@ -595,7 +595,7 @@
     "clampingMethod": "ER11-AX",
     "cuttingTools": "Ø7 mm",
     "speedRatio": "1:1",
-    "maxRpm": "6000 rpm",
+    "maxRpm": "-",
     "lengthPerRef": "70.5 mm",
     "adjustableSpindle": "-",
     "adjustableAngle": "-",
@@ -610,7 +610,7 @@
     "status": "published"
   },
   {
-    "id": "S-DM-S1-01",
+    "sku": "S-DM-S1-01",
     "title": "Drilling/Milling Unit For Sub Spindle",
     "titleZhTw": "直柄迴轉刀座",
     "imgUrl": "",
@@ -646,7 +646,7 @@
     "status": "published"
   },
   {
-    "id": "S-DM-S1-02",
+    "sku": "S-DM-S1-02",
     "title": "Drilling/Milling Unit For Sub Spindle",
     "titleZhTw": "直柄迴轉刀座",
     "imgUrl": "",
@@ -682,7 +682,7 @@
     "status": "published"
   },
   {
-    "id": "S-DM-S1-03",
+    "sku": "S-DM-S1-03",
     "title": "Drilling/Milling Unit For Sub Spindle",
     "titleZhTw": "直柄迴轉刀座",
     "imgUrl": "",
@@ -718,7 +718,7 @@
     "status": "published"
   },
   {
-    "id": "S-DM-S1-04",
+    "sku": "S-DM-S1-04",
     "title": "Drilling/Milling Unit For Sub Spindle",
     "titleZhTw": "直柄迴轉刀座",
     "imgUrl": "",
@@ -754,7 +754,7 @@
     "status": "published"
   },
   {
-    "id": "S-NX-C-S1-01",
+    "sku": "S-NX-C-S1-01",
     "title": "4X Speed Drilling/Milling Unit For Sub Spindle",
     "titleZhTw": "4倍速直柄迴轉刀座",
     "imgUrl": "",
