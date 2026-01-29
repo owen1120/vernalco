@@ -10,15 +10,21 @@
     "deploy": "vite build && gh-pages -d dist"
   },
   "devDependencies": {
+    "@vitejs/plugin-react": "^5.1.2",
     "ejs": "^3.1.9",
     "vite": "^6.3.5",
     "vite-plugin-ejs": "^1.7.0"
   },
   "dependencies": {
+    "@tailwindcss/vite": "^4.1.18",
     "gh-pages": "^5.0.0",
     "glob": "^10.2.2",
+    "react": "^19.2.4",
+    "react-dom": "^19.2.4",
+    "react-router-dom": "^7.13.0",
     "sass": "^1.61.0",
     "sass-loader": "^13.2.2",
+    "tailwindcss": "^4.1.18",
     "vite-plugin-live-reload": "^3.0.2"
   }
 }
