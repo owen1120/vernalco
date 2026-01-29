@@ -206,7 +206,7 @@
     "clampingMethod": "ER11-M",
     "cuttingTools": "Ø7 mm",
     "speedRatio": "1:4",
-    "maxRpm": "24000 rpm",
+    "maxRpm": "40000 rpm",
     "lengthPerRef": "69.7 mm",
     "adjustableSpindle": "-",
     "adjustableAngle": "-",
