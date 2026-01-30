@@ -96,7 +96,7 @@ export const cardsData = [
       { address: 'service@vernal.tw' }
     ],
     address: '4F, No. 23-3, Ching-Cheng St., Taipei 10547, Taiwan',
-    downloadLink: '' 
+    downloadLink: 'https://drive.google.com/file/d/1VvQxtqj663TUPnpMC-Zqi-GwE2yxodde/view?usp=sharing' 
   },
 
   {
@@ -121,7 +121,7 @@ export const cardsData = [
       { address: 'service@vernal.tw' }
     ],
     address: 'No. 808, Sec. 5 Huanzhong E. Rd., Dali Dist., Taichung City 41252, Taiwan',
-    downloadLink: '' 
+    downloadLink: 'https://drive.google.com/file/d/1l0seSyjwOQzp9LZPWc4HaPVHGoIG2Dvb/view?usp=sharing' 
   },
 
   {
@@ -146,7 +146,7 @@ export const cardsData = [
       { address: 'service@vernal.tw' }
     ],
     address: 'No. 808, Sec. 5 Huanzhong E. Rd., Dali Dist., Taichung City 41252, Taiwan',
-    downloadLink: '' 
+    downloadLink: 'https://drive.google.com/file/d/17p5yubT2o9GJzZ4vOuVw-Uk_s81d-9Og/view?usp=sharing' 
   },
 
   {
@@ -227,7 +227,7 @@ export const cardsData = [
       { address: 'alice.liu@vernal.tw'}
     ],
     address: 'No. 808, Sec. 5 Huanzhong E. Rd., Dali Dist., Taichung City 41252, Taiwan',
-    downloadLink: ''
+    downloadLink: 'https://drive.google.com/file/d/1jsq6HXbT2F2tKyNkwm_fTj9RkgrXRxQ_/view?usp=sharing'
   },
 
   {
@@ -245,7 +245,7 @@ export const cardsData = [
       { address: 'service@vernal.tw' }
     ],
     address: 'No. 808, Sec. 5 Huanzhong E. Rd., Dali Dist., Taichung City 41252, Taiwan',
-    downloadLink: ''
+    downloadLink: 'https://drive.google.com/file/d/16p0m3Q161GUC1uDUkvWQOrjuVe4y3Z88/view?usp=sharing'
   },
 
   {
@@ -301,6 +301,6 @@ export const cardsData = [
       { address: 'kelly.hsu@vernal.tw' }
     ],
     address: 'No. 808, Sec. 5 Huanzhong E. Rd., Dali Dist., Taichung City 41252, Taiwan',
-    downloadLink: ''
+    downloadLink: 'https://drive.google.com/file/d/1aliGznQ0ojD0hvFHouZ8Lk4P6M4R00MJ/view?usp=sharing'
   }
 ];
