@@ -7,10 +7,10 @@ function Home() {
     <div className="min-h-screen bg-gray-50 p-10 font-sans">
       <div className="max-w-4xl mx-auto">
         <h1 className="text-4xl font-bold text-center text-blue-600 mb-2">
-          ✨ Vernal 電子名片展示廳 ✨
+          ✨ Vernal 電子名片 ✨
         </h1>
         <p className="text-center text-gray-500 mb-10">
-          認證：已拋光完成的原石列表
+          認證：已完成的名片列表
         </p>
 
         {/* 使用 Grid 佈局，自動排列卡片 */}
@@ -24,8 +24,7 @@ function Home() {
               ? card.nameData.map(d => d.kanji).join('') // 例如：吳 + 中 + 軒
               : card.nameEn;                             // 例如：Chi-Li Lin
 
-            // 判斷顏色 (Vernal 藍 / Vernalco 綠)
-            const themeColor = card.type === 'vernalco' ? 'bg-green-500' : 'bg-blue-600';
+            const themeColor = card.type === 'vernalco' ? 'bg-lime-600' : 'bg-yellow-400';
 
             return (
               <Link
@@ -42,18 +41,15 @@ function Home() {
                   
                   {/* 文字資訊 */}
                   <div>
+                    <p className='text-xs text-gray-400 font-mono mb-0.5'>NO. {card.id}</p>
                     <h2 className="text-xl font-bold text-gray-800 group-hover:text-blue-600 transition-colors">
                       {displayName}
                     </h2>
-                    <p className="text-sm text-gray-400 font-mono">
-                      /bc/{card.id}
-                    </p>
                     <span className={`text-xs px-2 py-0.5 rounded-full mt-1 inline-block bg-gray-100 text-gray-600`}>
                       {card.type.toUpperCase()}
                     </span>
                   </div>
 
-                  {/* 箭頭 Icon (Hover 時會動) */}
                   <span className="material-symbols-outlined absolute right-4 text-gray-300 opacity-0 group-hover:opacity-100 transition-opacity">
                     arrow_forward_ios
                   </span>
