@@ -405,6 +405,39 @@
     "status": "published"
   },
   {
+    "sku": "C-NX-B-MS1-01",
+    "title": "3X Speed Drilling/Milling Unit",
+    "titleZhTw": "3倍速直柄迴轉刀座",
+    "imgUrl": "",
+    "refNo": "-",
+    "brand": "Citizen Cincom",
+    "spindlePosition": [
+      "Main Spindle",
+      "Sub Spindle"
+    ],
+    "handle": "Ø31 mm",
+    "clampingMethod": "ER11-M",
+    "cuttingTools": "Ø7 mm",
+    "speedRatio": "1:3",
+    "maxRpm": "30000 rpm",
+    "lengthPerRef": "74.2 mm",
+    "adjustableSpindle": "-",
+    "adjustableAngle": "-",
+    "matchingMachineTools": {
+      "mainSpindle": [
+        "Citizen Cincom A20", 
+        "Citizen Cincom L20 / L32", 
+        "Citizen Cincom M32"
+      ],
+      "subSpindle": [
+        "Citizen Cincom L32", 
+        "Citizen Cincom M32"
+      ]
+    },
+    "specialNote": ["-"],
+    "status": "published"
+  },
+  {
     "sku": "C-NX-C-MS1-01",
     "title": "4X Speed Drilling/Milling Unit",
     "titleZhTw": "4倍速直柄迴轉刀座",
