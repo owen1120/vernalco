@@ -375,6 +375,40 @@
     "status": "draft"
   },
   {
+    "sku": "SN-AB-J-M1-01",
+    "title": "Angle Adjustable Broaching Unit",
+    "titleZhTw": "角度調整拉刀座",
+    "imgUrl": "",
+    "refNo": "-",
+    "spindlePosition": [
+      "Main Spindle"
+    ],
+    "handle": "Ø34 mm",
+    "clampingMethod": "-",
+    "cuttingTools": "-",
+    "speedRatio": "1:1",
+    "maxRpm": "500 rpm",
+    "lengthPerRef": "7.5 mm",
+    "adjustableSpindle": "-",
+    "adjustableAngle": "0° ~ 20°",
+    "matchingMachineTools": {
+      "mainSpindle": [
+        "STAR SB-12/20 R",
+        "STAR SD-26 C/E/G/S",
+        "STAR SP-20/23",
+        "STAR SR-20 J/JN",
+        "STAR SR-20 J II/III/IV",
+        "STAR SR-20 R II/III/IV",
+        "STAR SR-32 J/JN",
+        "STAR SR-32 J II/III/IV",
+        "Nomura DS NN-32J"
+      ],
+      "subSpindle": []
+    },
+    "specialNote": ["Working Stroke: 17 mm (Max)", "Total Stroke: 20 mm", "Rotation: CCW (Command M03)"],
+    "status": "draft"
+  },
+  {
     "sku": "SN-DM-M1-01",
     "title": "Drilling/Milling Unit",
     "titleZhTw": "直柄迴轉刀座",
@@ -770,6 +804,42 @@
     "lengthPerRef": "66 mm",
     "adjustableSpindle": "-",
     "adjustableAngle": "-",
+    "matchingMachineTools": {
+      "mainSpindle": [],
+      "subSpindle": [
+        "STAR ECAS 12/20",
+        "STAR SB-12/20R",
+        "STAR SD-26 C/E/G/S",
+        "STAR SP-20/23",
+        "STAR SR-10 J",
+        "STAR SR-20 J/JN",
+        "STAR SR-20 J II/III/IV",
+        "STAR SR-20 R II/III/IV",
+        "STAR SR-32 J/JN",
+        "STAR SR-32 J II/III/IV",
+        "STAR SW-12/20"
+      ]
+    },
+    "specialNote": ["-"],
+    "status": "published"
+  },
+  {
+    "sku": "S-AG-M-S1-01",
+    "title": "Angle Adjustable Drilling/Milling Unit For Sub Spindle",
+    "titleZhTw": "背加工角度調整迴轉刀座",
+    "imgUrl": "",
+    "refNo": "-",
+    "spindlePosition": [
+      "Sub Spindle"
+    ],
+    "handle": "Ø22 mm",
+    "clampingMethod": "ER8-M",
+    "cuttingTools": "Ø5 mm",
+    "speedRatio": "1:1",
+    "maxRpm": "-",
+    "lengthPerRef": "91 mm",
+    "adjustableSpindle": "-",
+    "adjustableAngle": "0° ~ 180°",
     "matchingMachineTools": {
       "mainSpindle": [],
       "subSpindle": [
