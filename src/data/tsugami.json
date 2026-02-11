@@ -358,6 +358,32 @@
     "status": "published"
   },
   {
+    "sku": "T-AB-N-M1-01",
+    "title": "Angle Adjustable Broaching Unit",
+    "titleZhTw": "角度調整拉刀座",
+    "imgUrl": "",
+    "refNo": "-",
+    "spindlePosition": [
+      "Main Spindle"
+    ],
+    "handle": "Ø35 mm",
+    "clampingMethod": "-",
+    "cuttingTools": "-",
+    "speedRatio": "1:1",
+    "maxRpm": "500 rpm",
+    "lengthPerRef": "1.5 mm",
+    "adjustable spindle": "-",
+    "adjustableAngle": "-",
+    "matchingMachineTools": {
+      "mainSpindle": [
+        "Tsugami S206"
+      ],
+      "subSpindle": []
+    },
+    "specialNote": ["-"],
+    "status": "published"
+  },
+  {
     "sku": "T-SM-S1-01",
     "title": "Sskue Milling Unit For Sub Spindle",
     "titleZhTw": "背加工側銑座",

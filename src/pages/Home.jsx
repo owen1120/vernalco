@@ -1,5 +1,4 @@
 import { Link } from 'react-router-dom';
-// 引入我們的寶石庫 (資料來源)
 import { cardsData } from '../data/cardsData';
 
 function Home() {
@@ -13,13 +12,10 @@ function Home() {
           認證：已完成的名片列表
         </p>
 
-        {/* 使用 Grid 佈局，自動排列卡片 */}
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
           
-          {/* 💎 核心技巧：用 map 遍歷資料，自動生成連結 */}
           {cardsData.map((card) => {
             
-            // 判斷要顯示的名字 (漢字拼接 或 英文名)
             const displayName = card.layout === 'kanji'
               ? card.nameData.map(d => d.kanji).join('') // 例如：吳 + 中 + 軒
               : card.nameEn;                             // 例如：Chi-Li Lin
@@ -29,7 +25,7 @@ function Home() {
             return (
               <Link
                 key={card.id}
-                to={`/bc/${card.id}`} // 這裡會連到 BusinessCard.jsx
+                to={`/bc/${card.id}`} 
                 className="block group relative overflow-hidden bg-white rounded-xl shadow-md hover:shadow-xl transition-all duration-300 border border-gray-100 transform hover:-translate-y-1"
               >
                 <div className="p-6 flex items-center space-x-4">
