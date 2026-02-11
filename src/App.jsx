@@ -6,7 +6,7 @@ import BusinessCard from './pages/BusinessCard';
 
 function App() {
   return (
-    <HashRouter basename="/vernalco/">
+    <HashRouter>
       <Routes>
         
         <Route element={<MainLayout />}>
