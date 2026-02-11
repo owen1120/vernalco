@@ -2,6 +2,7 @@
   "name": "vernalco",
   "private": true,
   "version": "0.0.0",
+  "homepage": "https://owen1120.github.io/vernalco",
   "type": "module",
   "scripts": {
     "dev": "vite",

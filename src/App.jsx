@@ -1,4 +1,4 @@
-import { BrowserRouter, Routes, Route } from 'react-router-dom';
+import { HashRouter, Routes, Route } from 'react-router-dom';
 import MainLayout from './layouts/MainLayout'; 
 import Home from './pages/Home';
 import About from './pages/About';
@@ -6,7 +6,7 @@ import BusinessCard from './pages/BusinessCard';
 
 function App() {
   return (
-    <BrowserRouter basename="/vernalco/">
+    <HashRouter basename="/vernalco/">
       <Routes>
         
         <Route element={<MainLayout />}>
@@ -17,7 +17,7 @@ function App() {
         <Route path="/bc/:id" element={<BusinessCard />} />
 
       </Routes>
-    </BrowserRouter>
+    </HashRouter>
   )
 }
 
