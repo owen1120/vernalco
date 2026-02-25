@@ -36,7 +36,8 @@ export const cardsData = [
       { kanji: '軒', furigana: 'ケン' }
     ],
     dept: 'Overseas Dept.',
-    // title: '', 
+    title: null, 
+
     phones: {
       tel: '+886-4-2487-2233',
       fax: '+886-4-2487-0022'
