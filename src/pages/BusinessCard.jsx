@@ -39,24 +39,30 @@ function BusinessCard() {
           <div className="mb-4">
             {card.layout === 'kanji' ? (
               // === 漢字直排模式 ===
-              <div className="flex flex-row items-end">
-                {card.nameData.map((item, index) => (
-                  <div 
-                    key={index} 
-                    // 第一個字(姓)右邊加間距 mr-4
-                    className={`flex flex-col items-center ${index === 0 ? 'mr-4' : ''}`}
-                  >
-                    {/* 拼音: 如果為空字串，使用 invisible 佔位 */}
-                    <span className={`text-xl text-gray-800 mb-0 leading-none ${item.furigana ? '' : 'invisible'}`}>
-                      {item.furigana || '無'} 
-                    </span>
-                    {/* 漢字 */}
-                    <h2 className="text-4xl font-bold leading-tight">
-                      {item.kanji}
-                    </h2>
-                  </div>
-                ))}
-              </div>
+              <>
+                <div className="flex flex-row items-end">
+                  {card.nameData.map((item, index) => (
+                    <div 
+                      key={index} 
+                      className={`flex flex-col items-center ${index === 0 ? 'mr-4' : ''}`}
+                    >
+                      <span className={`text-xl text-gray-800 mb-0 leading-none ${item.furigana ? '' : 'invisible'}`}>
+                        {item.furigana || '無'} 
+                      </span>
+                      {/* 漢字 */}
+                      <h2 className="text-4xl font-bold leading-tight">
+                        {item.kanji}
+                      </h2>
+                    </div>
+                  ))}
+                </div>
+                
+                {card.nameEn && (
+                  <p className="mt-1 text-lg text-gray-500 font-medium">
+                    {card.nameEn}
+                  </p>
+                )}
+              </>
             ) : (
               // === 英文橫排模式 ===
               <h1 className="text-4xl font-bold">{card.nameEn}</h1>
@@ -103,7 +109,7 @@ function BusinessCard() {
             ))}
 
             {/* 地址 */}
-            <a href={`http://maps.google.com/?q=$${card.address}`} target="_blank" rel="noreferrer" className="flex items-start text-gray-700 hover:text-blue-600 transition pt-1">
+            <a href={`http://maps.google.com/?q=$$${card.address}`} target="_blank" rel="noreferrer" className="flex items-start text-gray-700 hover:text-blue-600 transition pt-1">
               <span className="material-symbols-outlined text-3xl mr-3 -mt-0.5 font-normal">domain</span>
               <p className="leading-snug">{card.address}</p>
             </a>

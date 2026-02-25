@@ -1,5 +1,3 @@
-// src/data/cardsData.js
-
 export const cardsData = [
 
   // Vernal
@@ -7,6 +5,8 @@ export const cardsData = [
     id: '1001-vernal',
     type: 'vernal',
     layout: 'kanji',
+
+    nameEn: 'Robert Kuo', 
     nameData: [
       { kanji: '郭', furigana: 'カク' },
       { kanji: '田', furigana: '' }, 
@@ -29,6 +29,7 @@ export const cardsData = [
     id: '1097-vernal', 
     type: 'vernal', 
     layout: 'kanji', 
+
     nameData: [ 
       { kanji: '呉', furigana: 'ゴ' },
       { kanji: '中', furigana: 'チュウ' },
@@ -52,16 +53,16 @@ export const cardsData = [
     id: '1803-vernal', 
     type: 'vernal', 
     layout: 'kanji', 
-    
+
     nameData: [
       { kanji: '劉', furigana: 'リュウ' }, 
       { kanji: '晴', furigana: '' }, 
       { kanji: '萍', furigana: '' } 
     ],
-    
+
     dept: 'Overseas Dept.',
     title: null, 
-    
+
     phones: {
       tel: '+886-4-2487-2233',
       fax: '+886-4-2487-0022'
@@ -79,8 +80,9 @@ export const cardsData = [
     type: 'vernal', 
     layout: 'kanji', 
     
+    nameEn: 'Janet Luo', 
     nameData: [
-      { kanji: '羅', furigana: 'ルオ' }, 
+      { kanji: '羅', furigana: '' }, 
       { kanji: '比', furigana: '' }, 
       { kanji: '珍', furigana: '' } 
     ],
