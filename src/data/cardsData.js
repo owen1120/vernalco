@@ -76,7 +76,7 @@ export const cardsData = [
     downloadLink: 'https://drive.google.com/file/d/1id_QB7PO26_xHrGU2woYu8Y7QsWocbGx/view?usp=sharing' 
   },
 
-    {
+  {
     id: '1804-vernal', 
     type: 'vernal', 
     layout: 'kanji', 
@@ -231,6 +231,24 @@ export const cardsData = [
     ],
     address: 'No. 808, Sec. 5 Huanzhong E. Rd., Dali Dist., Taichung City 41252, Taiwan',
     downloadLink: 'https://drive.google.com/file/d/1jsq6HXbT2F2tKyNkwm_fTj9RkgrXRxQ_/view?usp=sharing'
+  },
+
+    {
+    id: '1804-vernalco',
+    type: 'vernalco', 
+    layout: 'english', 
+    nameEn: 'Janet Luo',
+    dept: 'Overseas Dept.',
+    title: 'Deputy Manager',
+    phones: {
+      tel: '+886-4-2487-2233',
+      fax: '+886-4-2487-0022'
+    },
+    emails: [
+      { address: 'service@vernal.tw' },
+    ],
+    address: 'No. 808, Sec. 5 Huanzhong E. Rd., Dali Dist., Taichung City 41252, Taiwan',
+    downloadLink: 'https://drive.google.com/file/d/1FDYO8ugKA9TZThVXZN5iWlhjBSdwB7PE/view?usp=sharing'
   },
 
   {

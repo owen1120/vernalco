@@ -9,7 +9,7 @@ function Home() {
           ✨ Vernal 電子名片 ✨
         </h1>
         <p className="text-center text-gray-500 mb-10">
-          認證：已完成的名片列表
+          已完成的名片列表
         </p>
 
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
