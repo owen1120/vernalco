@@ -133,7 +133,7 @@
       "subSpindle": []
     },
     "specialNote": ["-"],
-    "status": "published"
+    "status": "draft"
   },
   {
     "sku": "SN-AG-L-M3-02",
@@ -217,7 +217,7 @@
     "cuttingTools": "-",
     "speedRatio": "1:1",
     "maxRpm": "4000 rpm",
-    "lengthPerRef": "32.51 mm",
+    "lengthPerRef": "-",
     "adjustableSpindle": "-",
     "adjustableAngle": "-5° ~ 15°",
     "matchingMachineTools": {
@@ -269,7 +269,7 @@
       "subSpindle": []
     },
     "specialNote": ["Cutter Head Arbor: Ø13 mm", "Maximum Outer Diameter(with Inserts): Ø55.4 mm"],
-    "status": "published"
+    "status": "draft"
   },
   {
     "sku": "SN-PU-M1-02",
@@ -458,7 +458,7 @@
     "clampingMethod": "ER11-M",
     "cuttingTools": "Ø7 mm",
     "speedRatio": "1:4",
-    "maxRpm": "40000 rpm",
+    "maxRpm": "24000 rpm",
     "lengthPerRef": "65.3 mm",
     "adjustableSpindle": "-",
     "adjustableAngle": "-",
@@ -495,7 +495,7 @@
     "clampingMethod": "ER11-M",
     "cuttingTools": "Ø7 mm",
     "speedRatio": "1:4",
-    "maxRpm": "40000 rpm",
+    "maxRpm": "24000 rpm",
     "lengthPerRef": "10.4 mm",
     "adjustableSpindle": "-",
     "adjustableAngle": "0° ~ 90°",
@@ -529,7 +529,7 @@
     "clampingMethod": "ER11-M",
     "cuttingTools": "Ø7 mm",
     "speedRatio": "1:4",
-    "maxRpm": "40000 rpm",
+    "maxRpm": "24000 rpm",
     "lengthPerRef": "10.4 mm",
     "adjustableSpindle": "-",
     "adjustableAngle": "-",
@@ -800,7 +800,7 @@
     "clampingMethod": "ER11-M",
     "cuttingTools": "Ø7 mm",
     "speedRatio": "1:4",
-    "maxRpm": "40000 rpm",
+    "maxRpm": "24000 rpm",
     "lengthPerRef": "66 mm",
     "adjustableSpindle": "-",
     "adjustableAngle": "-",

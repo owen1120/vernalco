@@ -85,6 +85,7 @@
     "cuttingTools": "-",
     "speedRatio": "1:1",
     "maxRpm": "-",
+    "lengthPerRef": "-",
     "adjustableSpindle": "-",
     "adjustableAngle": "±15°",
     "matchingMachineTools": {
@@ -108,7 +109,7 @@
     "cuttingTools": "-",
     "speedRatio": "1:1",
     "maxRpm": "-",
-    "lengthPerRef": "26.51 mm",
+    "lengthPerRef": "-",
     "adjustableSpindle": "-",
     "adjustableAngle": "±25°",
     "matchingMachineTools": {
@@ -206,7 +207,7 @@
     "clampingMethod": "ER11-M",
     "cuttingTools": "Ø7 mm",
     "speedRatio": "1:4",
-    "maxRpm": "40000 rpm",
+    "maxRpm": "24000 rpm",
     "lengthPerRef": "69.7 mm",
     "adjustableSpindle": "-",
     "adjustableAngle": "-",

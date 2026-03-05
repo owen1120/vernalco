@@ -132,7 +132,7 @@
     "clampingMethod": "ER11-M",
     "cuttingTools": "Ø7 mm",
     "speedRatio": "1:4",
-    "maxRpm": "40000 rpm",
+    "maxRpm": "28000 rpm",
     "lengthPerRef": "66.3 mm",
     "adjustable spindle": "-",
     "adjustableAngle": "-",
@@ -293,7 +293,7 @@
     "cuttingTools": "-",
     "speedRatio": "1:1",
     "maxRpm": "-",
-    "lengthPerRef": "27.51 mm",
+    "lengthPerRef": "-",
     "adjustable spindle": "-",
     "adjustableAngle": "-5° ~ 15°",
     "matchingMachineTools": {
@@ -344,7 +344,7 @@
     "clampingMethod": "ER11-MS",
     "cuttingTools": "Ø7 mm",
     "speedRatio": "1:4",
-    "maxRpm": "40000 rpm",
+    "maxRpm": "28000 rpm",
     "lengthPerRef": "69 mm",
     "adjustable spindle": "-",
     "adjustableAngle": "-",
@@ -373,14 +373,14 @@
     "maxRpm": "500 rpm",
     "lengthPerRef": "1.5 mm",
     "adjustable spindle": "-",
-    "adjustableAngle": "-",
+    "adjustableAngle": "0° ~ 15°",
     "matchingMachineTools": {
       "mainSpindle": [
         "Tsugami S206"
       ],
       "subSpindle": []
     },
-    "specialNote": ["-"],
+    "specialNote": ["Working Stroke: 7 mm (Max)", "Total Stroke: 10 mm", "Rotation: CCW (Command M03)"],
     "status": "published"
   },
   {
@@ -516,7 +516,7 @@
     "clampingMethod": "ER11-M",
     "cuttingTools": "Ø7 mm",
     "speedRatio": "1:4",
-    "maxRpm": "40000 rpm",
+    "maxRpm": "24000 rpm",
     "lengthPerRef": "65.3 mm",
     "adjustable spindle": "-",
     "adjustableAngle": "-",
@@ -572,7 +572,7 @@
     "clampingMethod": "ER11-M",
     "cuttingTools": "Ø7 mm",
     "speedRatio": "1:4",
-    "maxRpm": "40000 rpm",
+    "maxRpm": "28000 rpm",
     "lengthPerRef": "67 mm",
     "adjustable spindle": "-",
     "adjustableAngle": "-",
