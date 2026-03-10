@@ -177,6 +177,32 @@ export const cardsData = [
     downloadLink: '' 
   },
 
+  {
+    id: '1241-vernal', 
+    type: 'vernal', 
+    layout: 'kanji', 
+    
+    nameData: [
+      { kanji: '何', furigana: 'カ' }, 
+      { kanji: '汶', furigana: 'ブン' }, 
+      { kanji: '燦', furigana: 'さん' } 
+    ],
+    
+    dept: 'Engineering Dept. / Section 1',
+    title: null, 
+    
+    phones: {
+      tel: '+886-4-2487-2233',
+      fax: '+886-4-2487-0022'
+    },
+    emails: [
+      { address: 'service@vernal.tw', label: '代表' },
+      { address: 'owen@vernal.tw', label: '直通' } 
+    ],
+    address: 'No. 808, Sec. 5 Huanzhong E. Rd., Dali Dist., Taichung City 41252, Taiwan',
+    downloadLink: '' 
+  },
+
   // Vernalco
   {
     id: '1001-vernalco',
@@ -304,6 +330,25 @@ export const cardsData = [
     ],
     address: 'No. 808, Sec. 5 Huanzhong E. Rd., Dali Dist., Taichung City 41252, Taiwan',
     downloadLink: 'https://drive.google.com/file/d/1hNPEM2SWgaEj80EYFdVTB0pU17k0cQM7/view?usp=sharing'
+  },
+
+  {
+    id: '1241-vernalco',
+    type: 'vernalco', 
+    layout: 'english', 
+    nameEn: 'Owen He',
+    dept: 'Engineering Dept.',
+    title: null,
+    phones: {
+      tel: '+886-4-2487-2233',
+      fax: '+886-4-2487-0022'
+    },
+    emails: [
+      { address: 'service@vernal.tw', label: 'Company' },
+      { address: 'owen@vernal.tw' }
+    ],
+    address: 'No. 808, Sec. 5 Huanzhong E. Rd., Dali Dist., Taichung City 41252, Taiwan',
+    downloadLink: ''
   },
 
   {
