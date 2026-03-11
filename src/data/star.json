@@ -12,13 +12,13 @@
     "clampingMethod": "Front: ER16-M, Back: ER11-M",
     "cuttingTools": "Front: Ø10 mm, Back: Ø7 mm",
     "speedRatio": "1:1",
-    "maxRpm": "-",
+    "maxRpm": "6000 rpm",
     "lengthPerRef": "23.5 mm",
     "adjustableSpindle": "-",
     "adjustableAngle": "-",
     "matchingMachineTools": {
       "mainSpindle": [
-        "STAR SB-12/20 R",
+        "STAR SB-20 R",
         "STAR SD-26 C/E/G/S",
         "STAR SP-20/23",
         "STAR SR-20 J/JN",
@@ -52,7 +52,7 @@
     "adjustableAngle": "-",
     "matchingMachineTools": {
         "mainSpindle": [
-          "STAR SB-12/20 R",
+          "STAR SB-20 R",
           "STAR SD-26 C/E/G/S",
           "STAR SP-20/23",
           "STAR SR-20 J/JN",
@@ -80,13 +80,13 @@
     "clampingMethod": "ER16-M",
     "cuttingTools": "Ø10 mm",
     "speedRatio": "1:1",
-    "maxRpm": "-",
+    "maxRpm": "6000 rpm",
     "lengthPerRef": "24 mm",
     "adjustableSpindle": "-",
     "adjustableAngle": "0° ~ 90°",
     "matchingMachineTools": {
       "mainSpindle": [
-        "STAR SB-12/20 R",
+        "STAR SB-20 R",
         "STAR SD-26 C/E/G/S",
         "STAR SP-20/23",
         "STAR SR-20 J/JN",
@@ -114,13 +114,13 @@
     "clampingMethod": "ER11-AX",
     "cuttingTools": "Ø7 mm",
     "speedRatio": "1:1",
-    "maxRpm": "-",
+    "maxRpm": "6000 rpm",
     "lengthPerRef": "20.5 mm",
     "adjustableSpindle": "-",
     "adjustableAngle": "0° ~ 360°",
     "matchingMachineTools": {
       "mainSpindle": [
-        "STAR SB-12/20 R",
+        "STAR SB-20 R",
         "STAR SD-26 C/E/G/S",
         "STAR SP-20/23",
         "STAR SR-20 J/JN",
@@ -148,13 +148,13 @@
     "clampingMethod": "ER11-A",
     "cuttingTools": "Ø7 mm",
     "speedRatio": "1:1",
-    "maxRpm": "-",
+    "maxRpm": "6000 rpm",
     "lengthPerRef": "8.9 mm",
     "adjustableSpindle": "-",
     "adjustableAngle": "0° ~ 360°",
     "matchingMachineTools": {
       "mainSpindle": [
-        "STAR SB-12/20 R",
+        "STAR SB-20 R",
         "STAR SD-26 C/E/G/S",
         "STAR SP-20/23",
         "STAR SR-20 J/JN",
@@ -188,7 +188,7 @@
     "adjustableAngle": "0° ~ 20°",
     "matchingMachineTools": {
       "mainSpindle": [
-        "STAR SB-12/20 R",
+        "STAR SB-20 R",
         "STAR SD-26 C/E/G/S",
         "STAR SP-20/23",
         "STAR SR-20 J/JN",
@@ -222,7 +222,7 @@
     "adjustableAngle": "-5° ~ 15°",
     "matchingMachineTools": {
       "mainSpindle": [
-        "STAR SB-12/20 R",
+        "STAR SB-20 R",
         "STAR SD-26 C/E/G/S",
         "STAR SP-20/23",
         "STAR SR-20 J/JN",
@@ -250,13 +250,13 @@
     "clampingMethod": "-",
     "cuttingTools": "-",
     "speedRatio": "1:0.6",
-    "maxRpm": "-",
+    "maxRpm": "4000 rpm",
     "lengthPerRef": "5.3 mm",
     "adjustableSpindle": "-",
     "adjustableAngle": "-",
     "matchingMachineTools": {
       "mainSpindle": [
-        "STAR SB-12/20 R",
+        "STAR SB-20 R",
         "STAR SD-26 C/E/G/S",
         "STAR SP-20/23",
         "STAR SR-20 J/JN",
@@ -284,13 +284,13 @@
     "clampingMethod": "-",
     "cuttingTools": "-",
     "speedRatio": "1:1",
-    "maxRpm": "-",
+    "maxRpm": "4000 rpm",
     "lengthPerRef": "15 mm",
     "adjustableSpindle": "-",
     "adjustableAngle": "-",
     "matchingMachineTools": {
       "mainSpindle": [
-        "STAR SB-12/20 R",
+        "STAR SB-20 R",
         "STAR SD-26 C/E/G/S",
         "STAR SP-20/23",
         "STAR SR-20 J/JN",
@@ -324,7 +324,7 @@
     "adjustableAngle": "-",
     "matchingMachineTools": {
       "mainSpindle": [
-        "STAR SB-12/20 R",
+        "STAR SB-20 R",
         "STAR SD-26 C/E/G/S",
         "STAR SP-20/23",
         "STAR SR-20 J/JN",
@@ -359,7 +359,7 @@
     "adjustableAngle": "-",
     "matchingMachineTools": {
       "mainSpindle": [
-        "STAR SB-12/20 R",
+        "STAR SB-20 R",
         "STAR SD-26 C/E/G/S",
         "STAR SP-20/23",
         "STAR SR-20 J/JN",
@@ -393,7 +393,7 @@
     "adjustableAngle": "0° ~ 20°",
     "matchingMachineTools": {
       "mainSpindle": [
-        "STAR SB-12/20 R",
+        "STAR SB-20 R",
         "STAR SD-26 C/E/G/S",
         "STAR SP-20/23",
         "STAR SR-20 J/JN",
@@ -406,7 +406,7 @@
       "subSpindle": []
     },
     "specialNote": ["Working Stroke: 17 mm (Max)", "Total Stroke: 20 mm", "Rotation: CCW (Command M03)"],
-    "status": "draft"
+    "status": "published"
   },
   {
     "sku": "SN-DM-M1-01",
@@ -421,13 +421,13 @@
     "clampingMethod": "ER16-M",
     "cuttingTools": "Ø10 mm",
     "speedRatio": "1:1",
-    "maxRpm": "-",
+    "maxRpm": "6000 rpm",
     "lengthPerRef": "38 mm",
     "adjustableSpindle": "-",
     "adjustableAngle": "-",
     "matchingMachineTools": {
       "mainSpindle": [
-        "STAR SB-12/20 R",
+        "STAR SB-20 R",
         "STAR SD-26 C/E/G/S",
         "STAR SP-20/23",
         "STAR SR-20 J/JN",
@@ -464,7 +464,7 @@
     "adjustableAngle": "-",
     "matchingMachineTools": {
       "mainSpindle": [
-        "STAR SB-12/20 R",
+        "STAR SB-20 R",
         "STAR SD-26 C/E/G/S",
         "STAR SP-20/23",
         "STAR SR-20 J/JN",
@@ -501,7 +501,7 @@
     "adjustableAngle": "0° ~ 90°",
     "matchingMachineTools": {
       "mainSpindle": [
-        "STAR SB-12/20 R",
+        "STAR SB-20 R",
         "STAR SD-26 C/E/G/S",
         "STAR SP-20/23",
         "STAR SR-20 J/JN",
@@ -535,7 +535,7 @@
     "adjustableAngle": "-",
     "matchingMachineTools": {
       "mainSpindle": [
-        "STAR SB-12/20 R",
+        "STAR SB-20 R",
         "STAR SD-26 C/E/G/S",
         "STAR SP-20/23",
         "STAR SR-20 J/JN",
@@ -563,7 +563,7 @@
     "clampingMethod": "ER16-M",
     "cuttingTools": "Ø10 mm",
     "speedRatio": "1:1",
-    "maxRpm": "-",
+    "maxRpm": "4000 rpm",
     "lengthPerRef": "27 mm",
     "adjustableSpindle": "-",
     "adjustableAngle": "-",
@@ -575,7 +575,7 @@
         "STAR SR-20 J II/IV",
         "STAR SR-20 R IV",
         "STAR SR-32 J/JN",
-        "STAR SW-12/20"
+        "STAR SW-20"
       ]
     },
     "specialNote": ["-"],
@@ -594,15 +594,15 @@
     "clampingMethod": "-",
     "cuttingTools": "-",
     "speedRatio": "1:0.55",
-    "maxRpm": "-",
+    "maxRpm": "4000 rpm",
     "lengthPerRef": "5 mm",
     "adjustableSpindle": "±1.5 mm",
     "adjustableAngle": "-",
     "matchingMachineTools": {
       "mainSpindle": [],
       "subSpindle": [
-        "STAR ECAS 12/20",
-        "STAR SB-12/20R",
+        "STAR ECAS 20",
+        "STAR SB-20R",
         "STAR SD-26 C/E/G/S",
         "STAR SR-10 J",
         "STAR SR-20 J/JN",
@@ -610,7 +610,7 @@
         "STAR SR-20 R II/III/IV",
         "STAR SR-32 J/JN",
         "STAR SR-32 J II/III/IV",
-        "STAR SW-12/20"
+        "STAR SW-20"
       ]
     },
     "specialNote": ["PAT. NO. TW202335767A"],
@@ -629,7 +629,7 @@
     "clampingMethod": "ER11-AX",
     "cuttingTools": "Ø7 mm",
     "speedRatio": "1:1",
-    "maxRpm": "-",
+    "maxRpm": "4000 rpm",
     "lengthPerRef": "70.5 mm",
     "adjustableSpindle": "-",
     "adjustableAngle": "-",
@@ -656,15 +656,15 @@
     "clampingMethod": "ER16-M",
     "cuttingTools": "Ø10 mm",
     "speedRatio": "1:1",
-    "maxRpm": "-",
+    "maxRpm": "6000 rpm",
     "lengthPerRef": "51.35 mm",
     "adjustableSpindle": "-",
     "adjustableAngle": "-",
     "matchingMachineTools": {
       "mainSpindle": [],
       "subSpindle": [
-        "STAR ECAS 12/20",
-        "STAR SB-12/20R",
+        "STAR ECAS 20",
+        "STAR SB-20R",
         "STAR SD-26 C/E/G/S",
         "STAR SP-20/23",
         "STAR SR-10 J",
@@ -673,7 +673,7 @@
         "STAR SR-20 R II/III/IV",
         "STAR SR-32 J/JN",
         "STAR SR-32 J II/III/IV",
-        "STAR SW-12/20"
+        "STAR SW-20"
       ]
     },
     "specialNote": ["-"],
@@ -692,15 +692,15 @@
     "clampingMethod": "ER11-M",
     "cuttingTools": "Ø7 mm",
     "speedRatio": "1:1",
-    "maxRpm": "-",
+    "maxRpm": "6000 rpm",
     "lengthPerRef": "52.2 mm",
     "adjustableSpindle": "-",
     "adjustableAngle": "-",
     "matchingMachineTools": {
       "mainSpindle": [],
       "subSpindle": [
-        "STAR ECAS 12/20",
-        "STAR SB-12/20R",
+        "STAR ECAS 20",
+        "STAR SB-20R",
         "STAR SD-26 C/E/G/S",
         "STAR SP-20/23",
         "STAR SR-10 J",
@@ -709,7 +709,7 @@
         "STAR SR-20 R II/III/IV",
         "STAR SR-32 J/JN",
         "STAR SR-32 J II/III/IV",
-        "STAR SW-12/20"
+        "STAR SW-20"
       ]
     },
     "specialNote": ["-"],
@@ -728,24 +728,16 @@
     "clampingMethod": "ER16-M",
     "cuttingTools": "Ø10 mm",
     "speedRatio": "1:1",
-    "maxRpm": "-",
+    "maxRpm": "6000 rpm",
     "lengthPerRef": "60 mm",
     "adjustableSpindle": "-",
     "adjustableAngle": "-",
     "matchingMachineTools": {
       "mainSpindle": [],
       "subSpindle": [
-        "STAR ECAS 12/20",
-        "STAR SB-12/20R",
-        "STAR SD-26 C/E/G/S",
-        "STAR SP-20/23",
-        "STAR SR-10 J",
-        "STAR SR-20 J/JN",
         "STAR SR-20 J II/III/IV",
-        "STAR SR-20 R II/III/IV",
-        "STAR SR-32 J/JN",
-        "STAR SR-32 J II/III/IV",
-        "STAR SW-12/20"
+        "STAR SR-20 R IV",
+        "STAR SR-32 J II/III/IV"
       ]
     },
     "specialNote": ["-"],
@@ -764,15 +756,15 @@
     "clampingMethod": "ER16-M",
     "cuttingTools": "Ø10 mm",
     "speedRatio": "1:1",
-    "maxRpm": "-",
+    "maxRpm": "6000 rpm",
     "lengthPerRef": "59.5 mm",
     "adjustableSpindle": "-",
     "adjustableAngle": "-",
     "matchingMachineTools": {
       "mainSpindle": [],
       "subSpindle": [
-        "STAR ECAS 12/20",
-        "STAR SB-12/20R",
+        "STAR ECAS 20",
+        "STAR SB-20R",
         "STAR SD-26 C/E/G/S",
         "STAR SP-20/23",
         "STAR SR-10 J",
@@ -781,7 +773,7 @@
         "STAR SR-20 R II/III/IV",
         "STAR SR-32 J/JN",
         "STAR SR-32 J II/III/IV",
-        "STAR SW-12/20"
+        "STAR SW-20"
       ]
     },
     "specialNote": ["-"],
@@ -807,8 +799,8 @@
     "matchingMachineTools": {
       "mainSpindle": [],
       "subSpindle": [
-        "STAR ECAS 12/20",
-        "STAR SB-12/20R",
+        "STAR ECAS 20",
+        "STAR SB-20R",
         "STAR SD-26 C/E/G/S",
         "STAR SP-20/23",
         "STAR SR-10 J",
@@ -817,7 +809,7 @@
         "STAR SR-20 R II/III/IV",
         "STAR SR-32 J/JN",
         "STAR SR-32 J II/III/IV",
-        "STAR SW-12/20"
+        "STAR SW-20"
       ]
     },
     "specialNote": ["-"],
@@ -836,15 +828,15 @@
     "clampingMethod": "ER8-M",
     "cuttingTools": "Ø5 mm",
     "speedRatio": "1:1",
-    "maxRpm": "-",
+    "maxRpm": "4000 rpm",
     "lengthPerRef": "91 mm",
     "adjustableSpindle": "-",
     "adjustableAngle": "0° ~ 180°",
     "matchingMachineTools": {
       "mainSpindle": [],
       "subSpindle": [
-        "STAR ECAS 12/20",
-        "STAR SB-12/20R",
+        "STAR ECAS 20",
+        "STAR SB-20R",
         "STAR SD-26 C/E/G/S",
         "STAR SP-20/23",
         "STAR SR-10 J",
@@ -853,7 +845,7 @@
         "STAR SR-20 R II/III/IV",
         "STAR SR-32 J/JN",
         "STAR SR-32 J II/III/IV",
-        "STAR SW-12/20"
+        "STAR SW-20"
       ]
     },
     "specialNote": ["-"],
