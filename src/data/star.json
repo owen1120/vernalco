@@ -409,6 +409,40 @@
     "status": "published"
   },
   {
+    "sku": "SN-AB-J-M1-02",
+    "title": "Angle Adjustable Broaching Unit",
+    "titleZhTw": "角度調整拉刀座",
+    "imgUrl": "",
+    "refNo": "-",
+    "spindlePosition": [
+      "Main Spindle"
+    ],
+    "handle": "Ø34 mm",
+    "clampingMethod": "-",
+    "cuttingTools": "-",
+    "speedRatio": "1:1",
+    "maxRpm": "500 rpm",
+    "lengthPerRef": "3.5 mm",
+    "adjustableSpindle": "-",
+    "adjustableAngle": "0° ~ 20°",
+    "matchingMachineTools": {
+      "mainSpindle": [
+        "STAR SB-20 R",
+        "STAR SD-26 C/E/G/S",
+        "STAR SP-20/23",
+        "STAR SR-20 J/JN",
+        "STAR SR-20 J II/III/IV",
+        "STAR SR-20 R II/III/IV",
+        "STAR SR-32 J/JN",
+        "STAR SR-32 J II/III/IV",
+        "Nomura DS NN-32J"
+      ],
+      "subSpindle": []
+    },
+    "specialNote": ["Working Stroke: 7 mm (Max)", "Total Stroke: 10 mm", "Rotation: CCW (Command M03)"],
+    "status": "published"
+  },
+  {
     "sku": "SN-DM-M1-01",
     "title": "Drilling/Milling Unit",
     "titleZhTw": "直柄迴轉刀座",
@@ -810,6 +844,34 @@
         "STAR SR-32 J/JN",
         "STAR SR-32 J II/III/IV",
         "STAR SW-20"
+      ]
+    },
+    "specialNote": ["-"],
+    "status": "published"
+  },
+  {
+    "sku": "S-NX-C-S1-02",
+    "title": "4X Speed Drilling/Milling Unit For Sub Spindle",
+    "titleZhTw": "4倍速直柄迴轉刀座",
+    "imgUrl": "",
+    "refNo": "-",
+    "spindlePosition": [
+      "Sub Spindle"
+    ],
+    "handle": "Ø22 mm",
+    "clampingMethod": "ER11-M",
+    "cuttingTools": "Ø7 mm",
+    "speedRatio": "1:4",
+    "maxRpm": "24000 rpm",
+    "lengthPerRef": "64.3 mm",
+    "adjustableSpindle": "-",
+    "adjustableAngle": "-",
+    "matchingMachineTools": {
+      "mainSpindle": [],
+      "subSpindle": [
+        "STAR SR-20 J II/III/IV",
+        "STAR SR-20 R IV",
+        "STAR SR-32 J II/III/IV"
       ]
     },
     "specialNote": ["-"],

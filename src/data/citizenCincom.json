@@ -1,5 +1,33 @@
 [
   {
+    "sku": "C-DM-M2-01",
+    "title": "Drilling/Milling Double Unit",
+    "titleZhTw": "1轉2動力座",
+    "imgUrl": "",
+    "refNo": "GSC1607",
+    "brand": "Citizen Cincom",
+    "spindlePosition": [
+      "Main Spindle"
+    ],
+    "handle": "Ø31 mm",
+    "clampingMethod": "ER11-M",
+    "cuttingTools": "Ø7 mm",
+    "speedRatio": "1:1",
+    "maxRpm": "6000 rpm",
+    "lengthPerRef": "70.7 mm",
+    "adjustableSpindle": "-",
+    "adjustableAngle": "-",
+    "matchingMachineTools": {
+      "mainSpindle": [
+        "Citizen Cincom L20 / L32",
+        "Citizen Cincom M32"
+      ],
+      "subSpindle":[]
+    },
+    "specialNote": ["-"],
+    "status": "published"
+  },
+  {
     "sku": "C-DM-M3-01",
     "title": "3-Spindle Front  Drilling/Milling Unit",
     "titleZhTw": "正向動力座",
@@ -80,6 +108,36 @@
       "mainSpindle": [
         "Citizen Cincom L32",
         "Citizen Cincom M32"
+      ],
+      "subSpindle": []
+    },
+    "specialNote": ["-"],
+    "status": "published"
+  },
+  {
+    "sku": "C-DM-M8-01",
+    "title": "4-Spindle Counterface Drilling/Milling Unit",
+    "titleZhTw": "正向動力座",
+    "imgUrl": "",
+    "refNo": "GSE2010",
+    "brand": "Citizen Cincom",
+    "spindlePosition": [
+      "Main Spindle"
+    ],
+    "handle": "Ø31 mm",
+    "clampingMethod": "ER16-M",
+    "cuttingTools": "Ø10 mm",
+    "speedRatio": "1:1",
+    "maxRpm": "6000 rpm",
+    "lengthPerRef": "25.4 mm",
+    "adjustableSpindle": "-",
+    "adjustableAngle": "-",
+    "matchingMachineTools": {
+      "mainSpindle": [
+        "Citizen Cincom A32",
+        "Citizen Cincom L32",
+        "Citizen Cincom M32",
+        "Citizen Cincom M532"
       ],
       "subSpindle": []
     },
@@ -257,6 +315,35 @@
     "status": "published"
   },
   {
+    "sku": "C-GH-M1-03",
+    "title": "Gear Hobbing Unit",
+    "titleZhTw": "滾齒刀座",
+    "imgUrl": "",
+    "refNo": "-",
+    "brand": "Citizen Cincom",
+    "spindlePosition": [
+      "Main Spindle"
+    ],
+    "handle": "Ø31 mm",
+    "clampingMethod": "-",
+    "cuttingTools": "-",
+    "speedRatio": "1:1",
+    "maxRpm": "4000 rpm",
+    "lengthPerRef": "-",
+    "adjustableSpindle": "-",
+    "adjustableAngle": "0° ~ 15°",
+    "matchingMachineTools": {
+      "mainSpindle": [
+        "Citizen Cincom A20",
+        "Citizen Cincom L20 / L32",
+        "Citizen Cincom M32"
+      ],
+      "subSpindle": []
+    },
+    "specialNote": ["Tool size: Ø10 x Ø25 (Max) x 16 mm (Max)"],
+    "status": "published"
+  },
+  {
     "sku": "C-PU-M1-01",
     "title": "Polygon Unit",
     "titleZhTw": "多邊銑角刀座",
@@ -283,6 +370,89 @@
       "subSpindle": []
     },
     "specialNote": ["Cutter Head Arbor: Ø13 mm", "Maximum Outer Diameter(with Inserts): Ø55.4 mm"],
+    "status": "published"
+  },
+  {
+    "sku": "C-AB-J-M1-01",
+    "title": "Angle Adjustable Broaching Unit",
+    "titleZhTw": "角度調整拉刀座",
+    "imgUrl": "",
+    "refNo": "-",
+    "brand": "Citizen Cincom",
+    "spindlePosition": [
+      "Main Spindle"
+    ],
+    "handle": "Ø31 mm",
+    "clampingMethod": "-",
+    "cuttingTools": "-",
+    "speedRatio": "1:1",
+    "maxRpm": "500 rpm",
+    "lengthPerRef": "5.5 mm",
+    "adjustableSpindle": "-",
+    "adjustableAngle": "0° ~ 20°",
+    "matchingMachineTools": {
+      "mainSpindle": [
+        "Citizen Cincom A20"
+      ],
+      "subSpindle": []
+    },
+    "specialNote": ["Working Stroke: 17 mm (Max)", "Total Stroke: 20 mm", "Rotation: CCW (Command M03)"],
+    "status": "published"
+  },
+  {
+    "sku": "C-AB-J-M1-02",
+    "title": "Angle Adjustable Broaching Unit",
+    "titleZhTw": "角度調整拉刀座",
+    "imgUrl": "",
+    "refNo": "-",
+    "brand": "Citizen Cincom",
+    "spindlePosition": [
+      "Main Spindle"
+    ],
+    "handle": "Ø31 mm",
+    "clampingMethod": "-",
+    "cuttingTools": "-",
+    "speedRatio": "1:1",
+    "maxRpm": "500 rpm",
+    "lengthPerRef": "5.5 mm",
+    "adjustableSpindle": "-",
+    "adjustableAngle": "0° ~ 20°",
+    "matchingMachineTools": {
+      "mainSpindle": [
+        "Citizen Cincom L20 / L32",
+        "Citizen Cincom M32"
+      ],
+      "subSpindle": []
+    },
+    "specialNote": ["Working Stroke: 17 mm (Max)", "Total Stroke: 20 mm", "Rotation: CCW (Command M03)"],
+    "status": "published"
+  },
+    {
+    "sku": "C-TH-M1-01",
+    "title": "Turning Holder",
+    "titleZhTw": "車刀架",
+    "imgUrl": "",
+    "refNo": "GTF6312",
+    "brand": "Citizen Cincom",
+    "spindlePosition": [
+      "Main Spindle"
+    ],
+    "handle": "Ø31 mm",
+    "clampingMethod": "-",
+    "cuttingTools": "-",
+    "speedRatio": "-",
+    "maxRpm": "-",
+    "lengthPerRef": "-",
+    "adjustableSpindle": "-",
+    "adjustableAngle": "-",
+    "matchingMachineTools": {
+      "mainSpindle": [
+        "Citizen Cincom L20 / L32",
+        "Citizen Cincom M32"
+      ],
+      "subSpindle": []
+    },
+    "specialNote": ["-"],
     "status": "published"
   },
   {
@@ -496,6 +666,38 @@
       "subSpindle": [
         "Citizen Cincom A20", 
         "Citizen Cincom L12 / L20"
+      ]
+    },
+    "specialNote": ["-"],
+    "status": "published"
+  },
+    {
+    "sku": "C-SH-MS1-01",
+    "title": "Sleeve Holder",
+    "titleZhTw": "搪刀座",
+    "imgUrl": "",
+    "refNo": "SAU-825",
+    "brand": "Citizen Cincom",
+    "spindlePosition": [
+      "Sub Spindle",
+      "Main Spindle"
+    ],
+    "handle": "Ø31 mm",
+    "clampingMethod": "-",
+    "cuttingTools": "-",
+    "speedRatio": "-",
+    "maxRpm": "-",
+    "lengthPerRef": "-",
+    "adjustableSpindle": "-",
+    "adjustableAngle": "-",
+    "matchingMachineTools": {
+      "mainSpindle": [
+        "Citizen Cincom L20",
+        "Citizen Cincom L32"
+      ],
+      "subSpindle": [
+        "Citizen Cincom A32", 
+        "Citizen Cincom L32"
       ]
     },
     "specialNote": ["-"],
