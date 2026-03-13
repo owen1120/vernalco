@@ -1,5 +1,29 @@
 [
   {
+    "sku": "N-DM-M1-01",
+    "title": "Drilling/Milling Unit",
+    "titleZhTw": "直柄迴轉刀座",
+    "imgUrl": "",
+    "refNo": "-",
+    "spindlePosition": [
+      "Main Spindle"
+    ],
+    "handle": "Ø32 mm",
+    "clampingMethod": "ER16-M",
+    "cuttingTools": "Ø10 mm",
+    "speedRatio": "1:1",
+    "maxRpm": "6000 rpm",
+    "lengthPerRef": "33.5 mm",
+    "adjustableSpindle": "-",
+    "adjustableAngle": "-",
+    "matchingMachineTools": {
+      "mainSpindle": ["Nomura DS NN-32YBII"],
+      "subSpindle": []
+    },
+    "specialNote": ["-"],
+    "status": "published"
+  },
+  {
     "sku": "N-DM-M3-01",
     "title": "3-Spindle Front Drilling/Milling Unit",
     "titleZhTw": "正向動力座",
