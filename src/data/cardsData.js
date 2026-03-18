@@ -61,7 +61,7 @@ export const cardsData = [
       { kanji: '萍', furigana: '' } 
     ],
 
-    dept: 'Overseas Dept.',
+    dept: 'Sales Dept.',
     title: null, 
 
     phones: {
@@ -264,7 +264,7 @@ export const cardsData = [
     type: 'vernalco', 
     layout: 'english', 
     nameEn: 'Alice Liu',
-    dept: 'Overseas Dept.',
+    dept: 'Sales Dept.',
     title: null,
     phones: {
       tel: '+886-4-2487-2233',
