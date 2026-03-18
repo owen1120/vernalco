@@ -241,6 +241,25 @@ export const cardsData = [
   },
 
   {
+    id: '1097-vernalco',
+    type: 'vernalco', 
+    layout: 'english', 
+    nameEn: 'Chung Hsuan. Wu',
+    dept: 'Overseas Dept.',
+    title: null,
+    phones: {
+      tel: '+886-4-2487-2233',
+      fax: '+886-4-2487-0022'
+    },
+    emails: [
+      { address: 'service@vernal.tw', label: 'Company' },
+      { address: 'c.h-wu@vernal.tw', label: 'Direct' }
+    ],
+    address: 'No. 808, Sec. 5 Huanzhong E. Rd., Dali Dist., Taichung City 41252, Taiwan',
+    downloadLink: 'https://drive.google.com/file/d/1P_kHod1a6xvrZcxjDaz2O_q00uyPeISO/view?usp=sharing'
+  },
+
+  {
     id: '1803-vernalco',
     type: 'vernalco', 
     layout: 'english', 
