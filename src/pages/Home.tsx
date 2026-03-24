@@ -17,8 +17,8 @@ function Home() {
           {cardsData.map((card) => {
             
             const displayName = card.layout === 'kanji'
-              ? card.nameData.map(d => d.kanji).join('') // 例如：吳 + 中 + 軒
-              : card.nameEn;                             // 例如：Chi-Li Lin
+              ? card.nameData.map((d) => d.kanji).join('') 
+              : card.nameEn;                              
 
             const themeColor = card.type === 'vernalco' ? 'bg-lime-600' : 'bg-yellow-400';
 
@@ -30,18 +30,17 @@ function Home() {
               >
                 <div className="p-6 flex items-center space-x-4">
                   
-                  {/* 頭像圈圈 (用名字第一個字當頭像) */}
                   <div className={`w-14 h-14 rounded-full flex items-center justify-center text-white font-bold text-2xl shadow-sm ${themeColor}`}>
-                    {displayName[0]}
+                    {displayName ? displayName[0] : '?'}
                   </div>
                   
                   {/* 文字資訊 */}
                   <div>
-                    <p className='text-xs text-gray-400 font-mono mb-0.5'>NO. {card.id}</p>
+                    <p className="text-xs text-gray-400 font-mono mb-0.5">NO. {card.id}</p>
                     <h2 className="text-xl font-bold text-gray-800 group-hover:text-blue-600 transition-colors">
-                      {displayName}
+                      {displayName || '未知姓名'}
                     </h2>
-                    <span className={`text-xs px-2 py-0.5 rounded-full mt-1 inline-block bg-gray-100 text-gray-600`}>
+                    <span className="text-xs px-2 py-0.5 rounded-full mt-1 inline-block bg-gray-100 text-gray-600">
                       {card.type.toUpperCase()}
                     </span>
                   </div>
@@ -51,13 +50,13 @@ function Home() {
                   </span>
                 </div>
               </Link>
-            )
+            );
           })}
 
         </div>
       </div>
     </div>
-  )
+  );
 }
 
 export default Home;

@@ -5,6 +5,8 @@
     "titleZhTw": "1轉2動力座",
     "imgUrl": "",
     "refNo": "GSC1607",
+    "drawingNo": "B003152201AS",
+    "valuationSerialNum": "-",
     "brand": "Citizen Cincom",
     "spindlePosition": [
       "Main Spindle"
@@ -33,6 +35,8 @@
     "titleZhTw": "正向動力座",
     "imgUrl": "",
     "refNo": "GSE1610",
+    "drawingNo": "B007102302AS",
+    "valuationSerialNum": "5007",
     "brand": "Citizen Cincom",
     "spindlePosition": [
       "Main Spindle"
@@ -63,6 +67,8 @@
     "titleZhTw": "正向動力座",
     "imgUrl": "",
     "refNo": "BSE707",
+    "drawingNo": "B005111601ASB",
+    "valuationSerialNum": "4429-1",
     "brand": "Citizen Cincom",
     "spindlePosition": [
       "Main Spindle"
@@ -92,6 +98,8 @@
     "titleZhTw": "正向動力座",
     "imgUrl": "",
     "refNo": "GSE1810",
+    "drawingNo": "B007111602AS",
+    "valuationSerialNum": "4858",
     "brand": "Citizen Cincom",
     "spindlePosition": [
       "Main Spindle"
@@ -120,6 +128,8 @@
     "titleZhTw": "正向動力座",
     "imgUrl": "",
     "refNo": "GSE2010",
+    "drawingNo": "B007111802AS",
+    "valuationSerialNum": "-",
     "brand": "Citizen Cincom",
     "spindlePosition": [
       "Main Spindle"
@@ -150,6 +160,8 @@
     "titleZhTw": "角度調整正向動力座",
     "imgUrl": "",
     "refNo": "GSE3607",
+    "drawingNo": "B001124601AS",
+    "valuationSerialNum": "4454",
     "brand": "Citizen Cincom",
     "spindlePosition": [
       "Main Spindle"
@@ -177,6 +189,8 @@
     "titleZhTw": "旋風刀座",
     "imgUrl": "",
     "refNo": "-",
+    "drawingNo": "B002105109AS",
+    "valuationSerialNum": "4734-1",
     "brand": "Citizen Cincom",
     "spindlePosition": [
       "Main Spindle"
@@ -206,6 +220,8 @@
     "titleZhTw": "旋風刀座",
     "imgUrl": "",
     "refNo": "-",
+    "drawingNo": "B007105109AS",
+    "valuationSerialNum": "5113",
     "brand": "Citizen Cincom",
     "spindlePosition": [
       "Main Spindle"
@@ -235,6 +251,8 @@
     "titleZhTw": "旋風刀座",
     "imgUrl": "",
     "refNo": "-",
+    "drawingNo": "B007151109AS",
+    "valuationSerialNum": "5114",
     "brand": "Citizen Cincom",
     "spindlePosition": [
       "Main Spindle"
@@ -264,6 +282,8 @@
     "titleZhTw": "直柄滾齒刀座",
     "imgUrl": "",
     "refNo": "-",
+    "drawingNo": "B002207102AS",
+    "valuationSerialNum": "4642",
     "brand": "Citizen Cincom",
     "spindlePosition": [
       "Main Spindle"
@@ -292,6 +312,8 @@
     "titleZhTw": "滾齒刀座",
     "imgUrl": "",
     "refNo": "-",
+    "drawingNo": "B002107102AS",
+    "valuationSerialNum": "4820",
     "brand": "Citizen Cincom",
     "spindlePosition": [
       "Main Spindle"
@@ -320,6 +342,8 @@
     "titleZhTw": "滾齒刀座",
     "imgUrl": "",
     "refNo": "-",
+    "drawingNo": "B005107102AS",
+    "valuationSerialNum": "-",
     "brand": "Citizen Cincom",
     "spindlePosition": [
       "Main Spindle"
@@ -349,6 +373,8 @@
     "titleZhTw": "多邊銑角刀座",
     "imgUrl": "",
     "refNo": "-",
+    "drawingNo": "B002108109AS",
+    "valuationSerialNum": "4846",
     "brand": "Citizen Cincom",
     "spindlePosition": [
       "Main Spindle"
@@ -378,6 +404,8 @@
     "titleZhTw": "角度調整拉刀座",
     "imgUrl": "",
     "refNo": "-",
+    "drawingNo": "B005153109AS",
+    "valuationSerialNum": "-",
     "brand": "Citizen Cincom",
     "spindlePosition": [
       "Main Spindle"
@@ -405,6 +433,8 @@
     "titleZhTw": "角度調整拉刀座",
     "imgUrl": "",
     "refNo": "-",
+    "drawingNo": "B007153109AS",
+    "valuationSerialNum": "-",
     "brand": "Citizen Cincom",
     "spindlePosition": [
       "Main Spindle"
@@ -433,6 +463,8 @@
     "titleZhTw": "車刀架",
     "imgUrl": "",
     "refNo": "GTF6312",
+    "drawingNo": "B003114112AS",
+    "valuationSerialNum": "5176",
     "brand": "Citizen Cincom",
     "spindlePosition": [
       "Main Spindle"
@@ -461,6 +493,8 @@
     "titleZhTw": "背加工側銑座",
     "imgUrl": "",
     "refNo": "GSS1530",
+    "drawingNo": "B004301101AS",
+    "valuationSerialNum": "4635",
     "brand": "Citizen Cincom",
     "spindlePosition": [
       "Sub Spindle"
@@ -489,6 +523,8 @@
     "titleZhTw": "背加工側銑座",
     "imgUrl": "",
     "refNo": "GSE1910",
+    "drawingNo": "B007301102AS",
+    "valuationSerialNum": "5008",
     "brand": "Citizen Cincom",
     "spindlePosition": [
       "Sub Spindle"
@@ -516,6 +552,8 @@
     "titleZhTw": "直柄迴轉刀座",
     "imgUrl": "",
     "refNo": "MSC-507",
+    "drawingNo": "B002504101ASB",
+    "valuationSerialNum": "4420",
     "brand": "Citizen Cincom",
     "spindlePosition": [
       "Sub Spindle",
@@ -547,6 +585,8 @@
     "titleZhTw": "直柄迴轉刀座",
     "imgUrl": "",
     "refNo": "GSC1310",
+    "drawingNo": "B002104102AS",
+    "valuationSerialNum": "4543",
     "brand": "Citizen Cincom",
     "spindlePosition": [
       "Main Spindle",
@@ -580,6 +620,8 @@
     "titleZhTw": "3倍速直柄迴轉刀座",
     "imgUrl": "",
     "refNo": "-",
+    "drawingNo": "B002120101AS",
+    "valuationSerialNum": "-",
     "brand": "Citizen Cincom",
     "spindlePosition": [
       "Main Spindle",
@@ -613,6 +655,8 @@
     "titleZhTw": "4倍速直柄迴轉刀座",
     "imgUrl": "",
     "refNo": "-",
+    "drawingNo": "B002121101AS",
+    "valuationSerialNum": "4845",
     "brand": "Citizen Cincom",
     "spindlePosition": [
       "Main Spindle",
@@ -646,6 +690,8 @@
     "titleZhTw": "4倍速直柄迴轉刀座",
     "imgUrl": "",
     "refNo": "-",
+    "drawingNo": "B002321101AS",
+    "valuationSerialNum": "4898",
     "brand": "Citizen Cincom",
     "spindlePosition": [
       "Sub Spindle",
@@ -677,6 +723,8 @@
     "titleZhTw": "搪刀座",
     "imgUrl": "",
     "refNo": "SAU-825",
+    "drawingNo": "B002154109AS",
+    "valuationSerialNum": "-",
     "brand": "Citizen Cincom",
     "spindlePosition": [
       "Sub Spindle",

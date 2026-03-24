@@ -8,7 +8,7 @@ function MainLayout() {
       
       <Outlet />
     </div>
-  )
+  );
 }
 
 export default MainLayout;

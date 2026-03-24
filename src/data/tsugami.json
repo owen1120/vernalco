@@ -5,6 +5,8 @@
     "titleZhTw": "正向動力座",
     "imgUrl": "",
     "refNo": "3282-Y901",
+    "drawingNo": "D001211402AS",
+    "valuationSerialNum": "4890",
     "spindlePosition": [
       "Main Spindle"
     ],
@@ -35,6 +37,8 @@
     "titleZhTw": "角度調整正向動力座",
     "imgUrl": "",
     "refNo": "3282-Y921",
+    "drawingNo": "D001240402AS",
+    "valuationSerialNum": "4910",
     "spindlePosition": [
       "Main Spindle"
     ],
@@ -65,6 +69,8 @@
     "titleZhTw": "旋風刀座",
     "imgUrl": "",
     "refNo": "3268-Y450",
+    "drawingNo": "D001205109AS",
+    "valuationSerialNum": "4902",
     "spindlePosition": [
       "Main Spindle"
     ],
@@ -95,6 +101,8 @@
     "titleZhTw": "直柄迴轉刀座",
     "imgUrl": "",
     "refNo": "3268-T051",
+    "drawingNo": "D001204102AS",
+    "valuationSerialNum": "4988",
     "spindlePosition": [
       "Main Spindle"
     ],
@@ -125,6 +133,8 @@
     "titleZhTw": "4倍速直柄迴轉刀座",
     "imgUrl": "",
     "refNo": "3290-Y681",
+    "drawingNo": "D001221101AS",
+    "valuationSerialNum": "4963",
     "spindlePosition": [
       "Main Spindle"
     ],
@@ -155,6 +165,8 @@
     "titleZhTw": "正向動力座",
     "imgUrl": "",
     "refNo": "-",
+    "drawingNo": "D006211602AS",
+    "valuationSerialNum": "5048",
     "spindlePosition": [
       "Main Spindle"
     ],
@@ -181,6 +193,8 @@
     "titleZhTw": "多邊銑角刀座",
     "imgUrl": "",
     "refNo": "-",
+    "drawingNo": "D006208109AS",
+    "valuationSerialNum": "5050",
     "spindlePosition": [
       "Main Spindle"
     ],
@@ -207,6 +221,8 @@
     "titleZhTw": "角度調整正向動力座",
     "imgUrl": "",
     "refNo": "-",
+    "drawingNo": "D006239301AS",
+    "valuationSerialNum": "5094",
     "spindlePosition": [
       "Main Spindle"
     ],
@@ -233,6 +249,8 @@
     "titleZhTw": "角度調整正向動力座",
     "imgUrl": "",
     "refNo": "-",
+    "drawingNo": "D006223301AS",
+    "valuationSerialNum": "5091",
     "spindlePosition": [
       "Main Spindle"
     ],
@@ -259,6 +277,8 @@
     "titleZhTw": "旋風刀座",
     "imgUrl": "",
     "refNo": "-",
+    "drawingNo": "D006205109AS",
+    "valuationSerialNum": "5049",
     "spindlePosition": [
       "Main Spindle"
     ],
@@ -285,6 +305,8 @@
     "titleZhTw": "滾齒刀座",
     "imgUrl": "",
     "refNo": "-",
+    "drawingNo": "D006207102AS",
+    "valuationSerialNum": "5075",
     "spindlePosition": [
       "Main Spindle"
     ],
@@ -311,6 +333,8 @@
     "titleZhTw":"直柄迴轉刀座",
     "imgUrl": "",
     "refNo": "-",
+    "drawingNo": "D006204102AS",
+    "valuationSerialNum": "-",
     "spindlePosition": [
       "Main Spindle"
     ],
@@ -337,6 +361,8 @@
     "titleZhTw": "4倍速直柄迴轉刀座",
     "imgUrl": "",
     "refNo": "-",
+    "drawingNo": "D006221101AS",
+    "valuationSerialNum": "-",
     "spindlePosition": [
       "Main Spindle"
     ],
@@ -363,6 +389,8 @@
     "titleZhTw": "角度調整拉刀座",
     "imgUrl": "",
     "refNo": "-",
+    "drawingNo": "D007253109AS",
+    "valuationSerialNum": "5160",
     "spindlePosition": [
       "Main Spindle"
     ],
@@ -389,6 +417,8 @@
     "titleZhTw": "角度調整拉刀座",
     "imgUrl": "",
     "refNo": "-",
+    "drawingNo": "D006253109AS",
+    "valuationSerialNum": "5178",
     "spindlePosition": [
       "Main Spindle"
     ],
@@ -415,6 +445,8 @@
     "titleZhTw": "背加工側銑座",
     "imgUrl": "",
     "refNo": "-",
+    "drawingNo": "D002301102AS",
+    "valuationSerialNum": "4905",
     "spindlePosition": [
       "Sub Spindle"
     ],
@@ -445,6 +477,8 @@
     "titleZhTw": "背加工3軸鑽孔軸",
     "imgUrl": "",
     "refNo": "-",
+    "drawingNo": "D002300302AS",
+    "valuationSerialNum": "4926",
     "spindlePosition": [
       "Sub Spindle"
     ],
@@ -475,6 +509,8 @@
     "titleZhTw": "背加工角度調整動力座",
     "imgUrl": "",
     "refNo": "-",
+    "drawingNo": "D002344101AS",
+    "valuationSerialNum": "4957",
     "spindlePosition": [
       "Sub Spindle"
     ],
@@ -505,6 +541,8 @@
     "titleZhTw": "直柄迴轉刀座",
     "imgUrl": "",
     "refNo": "3282-Y041",
+    "drawingNo": "D001304102AS",
+    "valuationSerialNum": "4901",
     "spindlePosition": [
       "Sub Spindle"
     ],
@@ -535,6 +573,8 @@
     "titleZhTw": "4倍速直柄迴轉刀座",
     "imgUrl": "",
     "refNo": "-",
+    "drawingNo": "D001321101AS",
+    "valuationSerialNum": "4934",
     "spindlePosition": [
       "Sub Spindle"
     ],
@@ -565,6 +605,8 @@
     "titleZhTw": "直柄迴轉刀座",
     "imgUrl": "",
     "refNo": "-",
+    "drawingNo": "D006304102AS",
+    "valuationSerialNum": "-",
     "spindlePosition": [
       "Sub Spindle"
     ],
@@ -591,6 +633,8 @@
     "titleZhTw": "4倍速直柄迴轉刀座",
     "imgUrl": "",
     "refNo": "-",
+    "drawingNo": "D006321101AS",
+    "valuationSerialNum": "-",
     "spindlePosition": [
       "Sub Spindle"
     ],
@@ -617,6 +661,8 @@
     "titleZhTw": "背加工側銑座",
     "imgUrl": "",
     "refNo": "-",
+    "drawingNo": "D006301102AS",
+    "valuationSerialNum": "5051",
     "spindlePosition": [
       "Sub Spindle"
     ],

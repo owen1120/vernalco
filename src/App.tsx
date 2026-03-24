@@ -1,8 +1,9 @@
 import { HashRouter, Routes, Route } from 'react-router-dom';
 import MainLayout from './layouts/MainLayout'; 
 import Home from './pages/Home';
-import About from './pages/About';
 import BusinessCard from './pages/BusinessCard';
+
+import Catalog from './pages/Catalog'; 
 
 function App() {
   return (
@@ -11,14 +12,14 @@ function App() {
         
         <Route element={<MainLayout />}>
           <Route path="/" element={<Home />} />
-          <Route path="/about" element={<About />} />
+          <Route path="/catalog/:category" element={<Catalog />} />
         </Route>
 
         <Route path="/bc/:id" element={<BusinessCard />} />
 
       </Routes>
     </HashRouter>
-  )
+  );
 }
 
 export default App;

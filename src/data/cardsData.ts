@@ -1,4 +1,6 @@
-export const cardsData = [
+import { BusinessCardData } from "../types/cards";
+
+export const cardsData: BusinessCardData[] = [
 
   // Vernal
   {

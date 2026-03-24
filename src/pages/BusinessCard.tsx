@@ -2,7 +2,8 @@ import { useParams } from 'react-router-dom';
 import { cardsData } from '../data/cardsData';
 
 function BusinessCard() {
-  const { id } = useParams();
+  const { id } = useParams<{ id: string }>();
+  
   const card = cardsData.find((c) => c.id === id);
 
   // 防呆：找不到人時顯示錯誤
@@ -27,12 +28,12 @@ function BusinessCard() {
   return (
     // 背景與容器
     <div className="min-h-screen w-full bg-white flex justify-center p-4 font-sans text-gray-800">
-      <main className="w-full max-w-100"> {/* 限制最大寬度模擬名片 */}
+      <main className="w-full max-w-100">
         <div className="flex flex-col">
           
           {/* Logo 區塊 */}
           <a href={websiteUrl} target="_blank" rel="noreferrer" className="mb-9 block">
-            <img src={logoSrc} alt="Company Logo" className="h-auto max-w-50" />
+            <img src={logoSrc} alt="Company Logo" className="h-auto max-w-50" /> 
           </a>
 
           {/* 名字區塊 (根據 layout 變化) */}
@@ -70,12 +71,10 @@ function BusinessCard() {
           </div>
 
           {/* 部門與職稱 */}
-          {/* 技巧：如果沒有職稱，部門下方要加 mb-9 撐開距離 */}
           <p className={`text-base text-gray-600 ${!card.title ? 'mb-9' : ''}`}>
             {card.dept}
           </p>
           
-          {/* 職稱 (有才顯示) */}
           {card.title && (
             <p className="text-base font-bold mb-9">{card.title}</p>
           )}
@@ -99,7 +98,6 @@ function BusinessCard() {
               <a key={idx} href={`mailto:${email.address}`} className="flex items-center text-gray-700 hover:text-blue-600 transition mb-3">
                 <span className="material-symbols-outlined text-3xl mr-3 font-normal">mail</span>
                 <p>{email.address}</p>
-                {/* Email 標籤 (如: 代表/直通) */}
                 {email.label && (
                   <span className="ml-2 text-xs font-bold bg-gray-200 px-1 rounded self-center">
                     {email.label}
@@ -109,7 +107,7 @@ function BusinessCard() {
             ))}
 
             {/* 地址 */}
-            <a href={`http://maps.google.com/?q=$$${card.address}`} target="_blank" rel="noreferrer" className="flex items-start text-gray-700 hover:text-blue-600 transition pt-1">
+            <a href={`https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(card.address)}`} target="_blank" rel="noreferrer" className="flex items-start text-gray-700 hover:text-blue-600 transition pt-1">
               <span className="material-symbols-outlined text-3xl mr-3 -mt-0.5 font-normal">domain</span>
               <p className="leading-snug">{card.address}</p>
             </a>
@@ -122,9 +120,14 @@ function BusinessCard() {
 
           {/* 頁尾 (下載與官網) */}
           <div className="border-t border-gray-300 pt-4 flex justify-between items-center">
-            <a href={card.downloadLink} className="text-gray-600 hover:text-black transition flex items-center" download>
-              <span className="material-symbols-outlined text-4xl">download</span>
-            </a>
+            {card.downloadLink ? (
+              <a href={card.downloadLink} className="text-gray-600 hover:text-black transition flex items-center" download>
+                <span className="material-symbols-outlined text-4xl">download</span>
+              </a>
+            ) : (
+              <div></div>
+            )}
+            
             <a href={websiteUrl} target="_blank" rel="noreferrer" className="text-lg text-gray-600 hover:text-blue-600 underline decoration-1 underline-offset-2">
               {websiteText}
             </a>

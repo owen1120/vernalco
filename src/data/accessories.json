@@ -1,6 +1,8 @@
 [
   {
     "sku": "VC-FR-01",
+    "drawingNo": "P04A001AS",
+    "valuationSerialNum": "-",
     "title": "Floating Reamer Holder",
     "titleZhTw": "浮動鉸刀座",
     "imgUrl": "",
@@ -13,6 +15,8 @@
   },
   {
     "sku": "VC-BR-01",
+    "drawingNo": "P02A002AS",
+    "valuationSerialNum": "-",
     "title": "Broaching Tool Holder",
     "titleZhTw": "沖角器",
     "imgUrl": "",
@@ -26,6 +30,8 @@
   },
   {
     "sku": "VC-BR-02",
+    "drawingNo": "P02B002AS",
+    "valuationSerialNum": "-",
     "title": "Broaching Tool Holder",
     "titleZhTw": "沖角器",
     "imgUrl": "",
@@ -39,6 +45,8 @@
   },
   {
     "sku": "VC-BRA-01",
+    "drawingNo": "P03A001AS",
+    "valuationSerialNum": "-",
     "title": "Broaching Tool Holder (Adjustable)",
     "titleZhTw": "調節式沖角器",
     "imgUrl": "",
@@ -51,6 +59,8 @@
   },
   {
     "sku": "VC-PC-01",
+    "drawingNo": "ZZ014001",
+    "valuationSerialNum": "-",
     "title": "Polygon Cutter",
     "titleZhTw": "多邊銑角刀盤",
     "imgUrl": "",
@@ -63,6 +73,8 @@
   },
   {
     "sku": "VC-CNCL-01",
+    "drawingNo": "-",
+    "valuationSerialNum": "-",
     "title": "ER Collet System (Coolant Through)",
     "titleZhTw": "迴轉中心出水 ER 螺帽",
     "imgUrl": "",

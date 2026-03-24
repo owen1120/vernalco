@@ -1,0 +1,21 @@
+{
+  "compilerOptions": {
+    "target": "ESNext",
+    "useDefineForClassFields": true,
+    "lib": ["DOM", "DOM.Iterable", "ESNext"],
+    "allowJs": false,           /* 嚴格禁止未定型的 JS 混入！ */
+    "skipLibCheck": true,
+    "esModuleInterop": false,
+    "allowSyntheticDefaultImports": true,
+    "strict": true,             /* 這是核心！把所有嚴格檢查都打開！ */
+    "forceConsistentCasingInFileNames": true,
+    "module": "ESNext",
+    "moduleResolution": "bundler",
+    "resolveJsonModule": true,  /* 讓你能夠順利 import JSON 檔案 */
+    "isolatedModules": true,
+    "noEmit": true,             /* 讓 Vite 來處理打包，TS 只負責型別檢查 */
+    "jsx": "react-jsx"          /* 現代 React必備 */
+  },
+  "include": ["src/**/*.ts", "src/**/*.tsx", "src/**/*.d.ts"],
+  "exclude": ["node_modules"]
+}
