@@ -1,3 +1,4 @@
+// src/pages/Catalog.tsx
 import { Link, useParams, Navigate } from 'react-router-dom';
 import { 
   CatalogCategory, MatrixRowDef, 
@@ -22,6 +23,7 @@ const ImagePlaceholder = () => (
   </div>
 );
 
+// === 準備非機型資料的「轉置矩陣橫列說明書」 ===
 
 const accessoriesRows: MatrixRowDef<AccessoryItem>[] = [
   { label: 'Product', render: (item) => (
@@ -131,6 +133,9 @@ const getMachineRows = (spindleType: 'main' | 'sub' | 'both'): MatrixRowDef<Mach
   )},
 ];
 
+
+// === 主元件渲染區 ===
+
 function Catalog() {
   const { category } = useParams<{ category: string }>();
 
@@ -140,7 +145,12 @@ function Catalog() {
   }
 
   const currentCategoryObj = CATEGORIES.find(c => c.id === category);
-  const data = catalogDataMap[category as CatalogCategory] || [];
+  
+  // 💎 取出原石資料
+  const rawData = catalogDataMap[category as CatalogCategory] || [];
+  
+  // 💎 核心打磨：加入過濾網！只允許 status 為 'published' 的資料進入渲染流程
+  const data = rawData.filter((item: any) => item.status === 'published');
 
   const isMachineCategory = ['star', 'citizenCincom', 'nomuraDs', 'tsugami'].includes(category || '');
   const brandName = isMachineCategory ? currentCategoryObj?.name.split(' ')[0].toUpperCase() : undefined;
@@ -213,7 +223,6 @@ function Catalog() {
 
         {isMachineCategory ? (
           <div className="flex flex-col">
-            {/* 1. Main Spindle 專屬軌道 */}
             {mainOnlyData.length > 0 && (
               <div className="mb-16 print:mb-0">
                 <CatalogMatrix 
@@ -225,7 +234,6 @@ function Catalog() {
               </div>
             )}
             
-            {/* 2. Sub Spindle 專屬軌道 */}
             {subOnlyData.length > 0 && (
               <div className="mb-16 print:mb-0 print:break-before-page">
                 <CatalogMatrix 
@@ -237,7 +245,6 @@ function Catalog() {
               </div>
             )}
 
-            {/* 3. 主/副軸皆有 (Both) 專屬軌道 */}
             {bothSpindleData.length > 0 && (
               <div className="mb-16 print:mb-0 print:break-before-page">
                 <CatalogMatrix 
@@ -246,6 +253,14 @@ function Catalog() {
                   brandName={brandName} 
                   spindleType="Main & Sub Spindle" 
                 />
+              </div>
+            )}
+            
+            {/* 防呆：如果全部都被過濾掉了，給個提示 */}
+            {mainOnlyData.length === 0 && subOnlyData.length === 0 && bothSpindleData.length === 0 && (
+              <div className="p-10 text-center text-slate-500 bg-white rounded-xl border border-slate-200 border-dashed">
+                <span className="material-symbols-outlined text-4xl mb-2">info</span>
+                <p>目前這個分類的商品都還在草稿階段喔！</p>
               </div>
             )}
           </div>
