@@ -1,4 +1,3 @@
-// src/pages/Catalog.tsx
 import { Link, useParams, Navigate } from 'react-router-dom';
 import { 
   CatalogCategory, MatrixRowDef, 
@@ -23,7 +22,6 @@ const ImagePlaceholder = () => (
   </div>
 );
 
-// === 準備非機型資料的「轉置矩陣橫列說明書」 ===
 
 const accessoriesRows: MatrixRowDef<AccessoryItem>[] = [
   { label: 'Product', render: (item) => (
@@ -146,10 +144,8 @@ function Catalog() {
 
   const currentCategoryObj = CATEGORIES.find(c => c.id === category);
   
-  // 💎 取出原石資料
   const rawData = catalogDataMap[category as CatalogCategory] || [];
   
-  // 💎 核心打磨：加入過濾網！只允許 status 為 'published' 的資料進入渲染流程
   const data = rawData.filter((item: any) => item.status === 'published');
 
   const isMachineCategory = ['star', 'citizenCincom', 'nomuraDs', 'tsugami'].includes(category || '');
