@@ -720,7 +720,7 @@
   {
     "sku": "S-DM-S1-01",
     "title": "Drilling/Milling Unit For Sub Spindle",
-    "titleZhTw": "直柄迴轉刀座",
+    "titleZhTw": "背加工直柄迴轉刀座",
     "imgUrl": "",
     "refNo": "571-61",
     "drawingNo": "A001304102AS",
@@ -758,7 +758,7 @@
   {
     "sku": "S-DM-S1-02",
     "title": "Drilling/Milling Unit For Sub Spindle",
-    "titleZhTw": "直柄迴轉刀座",
+    "titleZhTw": "背加工直柄迴轉刀座",
     "imgUrl": "",
     "refNo": "541-61",
     "drawingNo": "A002304101AS",
@@ -796,7 +796,7 @@
   {
     "sku": "S-DM-S1-03",
     "title": "Drilling/Milling Unit For Sub Spindle",
-    "titleZhTw": "直柄迴轉刀座",
+    "titleZhTw": "背加工直柄迴轉刀座",
     "imgUrl": "",
     "refNo": "101-81",
     "drawingNo": "A007304102AS",
@@ -826,7 +826,7 @@
   {
     "sku": "S-DM-S1-04",
     "title": "Drilling/Milling Unit For Sub Spindle",
-    "titleZhTw": "直柄迴轉刀座",
+    "titleZhTw": "背加工直柄迴轉刀座",
     "imgUrl": "",
     "refNo": "-",
     "drawingNo": "A003304102AS",
@@ -864,7 +864,7 @@
   {
     "sku": "S-NX-C-S1-01",
     "title": "4X Speed Drilling/Milling Unit For Sub Spindle",
-    "titleZhTw": "4倍速直柄迴轉刀座",
+    "titleZhTw": "背加工4倍速直柄迴轉刀座",
     "imgUrl": "",
     "refNo": "-",
     "drawingNo": "A001321101AS",
@@ -902,7 +902,7 @@
   {
     "sku": "S-NX-C-S1-02",
     "title": "4X Speed Drilling/Milling Unit For Sub Spindle",
-    "titleZhTw": "4倍速直柄迴轉刀座",
+    "titleZhTw": "背加工4倍速直柄迴轉刀座",
     "imgUrl": "",
     "refNo": "-",
     "drawingNo": "A003321101AS",
