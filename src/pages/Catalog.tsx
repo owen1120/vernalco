@@ -5,6 +5,7 @@ import {
 } from '../types/catalog';
 import { catalogDataMap } from '../data/catalogIndex';
 import { CatalogMatrix } from '../components/CatalogMatrix';
+import { useResponsiveStore } from '../store/useResponsiveStore';
 
 const CATEGORIES: { id: CatalogCategory; name: string }[] = [
   { id: 'star', name: 'Star 機型' },
@@ -22,6 +23,7 @@ const ImagePlaceholder = () => (
   </div>
 );
 
+// === 準備非機型資料的「轉置矩陣橫列說明書」 ===
 
 const accessoriesRows: MatrixRowDef<AccessoryItem>[] = [
   { label: 'Product', render: (item) => (
@@ -136,6 +138,7 @@ const getMachineRows = (spindleType: 'main' | 'sub' | 'both'): MatrixRowDef<Mach
 
 function Catalog() {
   const { category } = useParams<{ category: string }>();
+  const { isDesktop, isSidebarOpen, setSidebarOpen } = useResponsiveStore();
 
   const isValidCategory = CATEGORIES.some(c => c.id === category);
   if (!isValidCategory) {
@@ -143,9 +146,7 @@ function Catalog() {
   }
 
   const currentCategoryObj = CATEGORIES.find(c => c.id === category);
-  
   const rawData = catalogDataMap[category as CatalogCategory] || [];
-  
   const data = rawData.filter((item: any) => item.status === 'published');
 
   const isMachineCategory = ['star', 'citizenCincom', 'nomuraDs', 'tsugami'].includes(category || '');
@@ -153,19 +154,16 @@ function Catalog() {
 
   const machineData = isMachineCategory ? (data as MachineItem[]) : [];
   
-  // 1. 純主軸
   const mainOnlyData = machineData.filter(item => 
     item.matchingMachineTools?.mainSpindle?.length > 0 && 
     (!item.matchingMachineTools?.subSpindle || item.matchingMachineTools.subSpindle.length === 0)
   );
   
-  // 2. 純副軸
   const subOnlyData = machineData.filter(item => 
     (!item.matchingMachineTools?.mainSpindle || item.matchingMachineTools.mainSpindle.length === 0) && 
     item.matchingMachineTools?.subSpindle?.length > 0
   );
   
-  // 3. 主/副軸共用 (Both)
   const bothSpindleData = machineData.filter(item => 
     item.matchingMachineTools?.mainSpindle?.length > 0 && 
     item.matchingMachineTools?.subSpindle?.length > 0
@@ -181,9 +179,21 @@ function Catalog() {
   }
 
   return (
-    <div className="flex min-h-[calc(100vh-70px)] bg-slate-50 font-sans print:bg-white">
-      {/* 側邊欄 */}
-      <aside className="w-64 bg-white border-r border-slate-200 shrink-0 shadow-sm print:hidden">
+    <div className="flex min-h-[calc(100vh-70px)] bg-slate-50 font-sans print:bg-white relative">
+      
+      {!isDesktop && isSidebarOpen && (
+        <div 
+          className="fixed inset-0 bg-slate-900/50 z-40 transition-opacity print:hidden"
+          onClick={() => setSidebarOpen(false)}
+          aria-hidden="true"
+        />
+      )}
+
+      <aside className={`
+        bg-white border-r border-slate-200 shrink-0 shadow-sm print:hidden
+        ${isDesktop ? 'w-64 block' : 'fixed inset-y-0 left-0 z-50 w-64 h-full overflow-y-auto transform transition-transform duration-300 ease-in-out'}
+        ${!isDesktop && !isSidebarOpen ? '-translate-x-full' : 'translate-x-0'}
+      `}>
         <div className="p-6">
           <h2 className="text-xl font-bold text-slate-800 mb-6 flex items-center">
             <span className="material-symbols-outlined mr-2 text-lime-600">menu_book</span>
@@ -196,6 +206,9 @@ function Catalog() {
                 <Link
                   key={cat.id}
                   to={`/catalog/${cat.id}`}
+                  onClick={() => {
+                    if (!isDesktop) setSidebarOpen(false);
+                  }}
                   className={`px-4 py-3 rounded-lg font-medium transition-all duration-200 ${
                     isActive
                       ? 'bg-lime-50 text-lime-700 border border-lime-200 shadow-sm'
@@ -210,7 +223,7 @@ function Catalog() {
         </div>
       </aside>
 
-      {/* 內容區 */}
+      {/* 內容區：矩陣元件 */}
       <main className="flex-1 p-8 overflow-x-auto print:p-0 print:overflow-visible">
         
         <div className="print:hidden mb-6 border-b border-slate-200 pb-4">
@@ -252,7 +265,6 @@ function Catalog() {
               </div>
             )}
             
-            {/* 防呆：如果全部都被過濾掉了，給個提示 */}
             {mainOnlyData.length === 0 && subOnlyData.length === 0 && bothSpindleData.length === 0 && (
               <div className="p-10 text-center text-slate-500 bg-white rounded-xl border border-slate-200 border-dashed">
                 <span className="material-symbols-outlined text-4xl mb-2">info</span>

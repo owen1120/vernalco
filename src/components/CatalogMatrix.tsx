@@ -1,6 +1,6 @@
 import { ReactNode } from 'react';
 import { MatrixRowDef } from '../types/catalog';
-import { useResponsiveStore } from '../store/useResponsiveStore'; // 💎 引入全域雷達
+import { useResponsiveStore } from '../store/useResponsiveStore'; 
 
 interface CatalogMatrixProps<T> {
   data: T[];
