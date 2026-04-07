@@ -272,7 +272,6 @@
     "adjustableAngle": "-",
     "matchingMachineTools": {
       "mainSpindle": [
-        "STAR SB-20 R",
         "STAR SD-26 C/E/G/S",
         "STAR SP-20/23",
         "STAR SR-20 J/JN",
@@ -285,7 +284,7 @@
       "subSpindle": []
     },
     "specialNote": ["Cutter Head Arbor: Ø13 mm", "Maximum Outer Diameter(with Inserts): Ø55.4 mm"],
-    "status": "draft"
+    "status": "published"
   },
   {
     "sku": "SN-PU-M1-02",
