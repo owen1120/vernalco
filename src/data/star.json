@@ -1,6 +1,6 @@
 [
   {
-    "sku": "SN-DM-M6-01",
+    "sku": "S-DM-M6-01",
     "title": "3-Spindle Counterface Drilling/Milling Unit",
     "titleZhTw": "正向動力座",
     "imgUrl": "",
@@ -27,8 +27,7 @@
         "STAR SR-20 J II/III/IV ",
         "STAR SR-20 R II/III/IV",
         "STAR SR-32 J/JN",
-        "STAR SR-32 J II/III/IV",
-        "Nomura DS NN-32J"
+        "STAR SR-32 J II/III/IV"
       ],
       "subSpindle": []
     },
@@ -36,7 +35,7 @@
     "status": "published"
   },
   {
-    "sku": "SN-NX-A-M6-01",
+    "sku": "S-NX-A-M6-01",
     "title": "3-Spindle 1.5X Speed Counterface Drilling/Milling Unit",
     "titleZhTw": "1.5倍速正向動力座",
     "imgUrl": "",
@@ -63,8 +62,7 @@
           "STAR SR-20 J II/III/IV",
           "STAR SR-20 R II/III/IV",
           "STAR SR-32 J/JN",
-          "STAR SR-32 J II/III/IV",
-          "Nomura DS NN-32J"
+          "STAR SR-32 J II/III/IV"
         ],
         "subSpindle": []      
       },
