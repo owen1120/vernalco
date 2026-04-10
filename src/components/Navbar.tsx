@@ -24,13 +24,6 @@ function Navbar() {
         >
           首頁
         </Link>
-        
-        <Link 
-          to="/catalog/star" 
-          className="text-slate-600 hover:text-lime-600 font-bold transition-colors"
-        >
-          內部型錄
-        </Link>
       </div>
       
     </nav>
