@@ -180,6 +180,31 @@ export const cardsData: BusinessCardData[] = [
   },
 
   {
+    id: '1231-vernal', 
+    type: 'vernal', 
+    layout: 'kanji', 
+    
+    nameData: [
+      { kanji: '羅', furigana: '' }, 
+      { kanji: '婕', furigana: '' }, 
+      { kanji: '菡', furigana: '' } 
+    ],
+    
+    dept: 'Production Control Sec, MFG. Dep.',
+    title: 'Deputy Section Manager', 
+    
+    phones: {
+      tel: '+886-4-2487-2233',
+      fax: '+886-4-2487-0022'
+    },
+    emails: [
+      { address: 'service@vernal.tw', label: '代表' },
+      { address: 'owen@vernal.tw', label: '直通' } 
+    ],
+    address: 'No. 808, Sec. 5 Huanzhong E. Rd., Dali Dist., Taichung City 41252, Taiwan',
+  },
+
+  {
     id: '1241-vernal', 
     type: 'vernal', 
     layout: 'kanji', 
@@ -229,7 +254,7 @@ export const cardsData: BusinessCardData[] = [
     type: 'vernalco', 
     layout: 'english', 
     nameEn: 'Jacky Lin',
-    dept: 'Overseas Dept.',
+    dept: 'Engineering Dept. / Section 1',
     title: 'Section Manager',
     phones: {
       tel: '+886-4-2487-2233',
@@ -240,6 +265,41 @@ export const cardsData: BusinessCardData[] = [
     ],
     address: 'No. 808, Sec. 5 Huanzhong E. Rd., Dali Dist., Taichung City 41252, Taiwan',
     downloadLink: 'https://drive.google.com/file/d/147uW7PVIO3uAPbZvvkKZMWgY1RBpc3ST/view?usp=sharing'
+  },
+
+  {
+    id: '1020-vernalco',
+    type: 'vernalco', 
+    layout: 'english', 
+    nameEn: 'W. P. Cheng',
+    dept: 'Engineering Dept. / Section 2',
+    title: 'Section Manager',
+    phones: {
+      tel: '+886-4-2487-2233',
+      fax: '+886-4-2487-0022'
+    },
+    emails: [
+      { address: 'service@vernal.tw' }
+    ],
+    address: 'No. 808, Sec. 5 Huanzhong E. Rd., Dali Dist., Taichung City 41252, Taiwan',
+  },
+
+  {
+    id: '1087-vernalco',
+    type: 'vernalco', 
+    layout: 'english', 
+    nameEn: 'Y. A. Hung',
+    dept: 'Technician, CNC Machining Sec., MFG. Dept.',
+    title: null,
+    phones: {
+      tel: '+886-4-2487-2233',
+      fax: '+886-4-2487-0022'
+    },
+    emails: [
+      { address: 'service@vernal.tw' }
+    ],
+    address: 'No. 808, Sec. 5 Huanzhong E. Rd., Dali Dist., Taichung City 41252, Taiwan',
+    
   },
 
   {
@@ -278,24 +338,6 @@ export const cardsData: BusinessCardData[] = [
     ],
     address: 'No. 808, Sec. 5 Huanzhong E. Rd., Dali Dist., Taichung City 41252, Taiwan',
     downloadLink: 'https://drive.google.com/file/d/1jsq6HXbT2F2tKyNkwm_fTj9RkgrXRxQ_/view?usp=sharing'
-  },
-
-    {
-    id: '1804-vernalco',
-    type: 'vernalco', 
-    layout: 'english', 
-    nameEn: 'Janet Luo',
-    dept: 'Overseas Dept.',
-    title: 'Deputy Manager',
-    phones: {
-      tel: '+886-4-2487-2233',
-      fax: '+886-4-2487-0022'
-    },
-    emails: [
-      { address: 'service@vernal.tw' },
-    ],
-    address: 'No. 808, Sec. 5 Huanzhong E. Rd., Dali Dist., Taichung City 41252, Taiwan',
-    downloadLink: 'https://drive.google.com/file/d/1FDYO8ugKA9TZThVXZN5iWlhjBSdwB7PE/view?usp=sharing'
   },
 
   {
@@ -359,7 +401,7 @@ export const cardsData: BusinessCardData[] = [
     layout: 'english', 
     nameEn: 'Owen He',
     dept: 'Engineering Dept.',
-    title: null,
+    title: 'CAD Engineer',
     phones: {
       tel: '+886-4-2487-2233',
       fax: '+886-4-2487-0022'

@@ -23,7 +23,7 @@ interface BaseCard {
   phones: PhoneNumbers;
   emails: EmailAddress[];
   address: string;
-  downloadLink: string;
+  downloadLink?: string;
 }
 
 // 4. 'vernal' 類型的專屬結構

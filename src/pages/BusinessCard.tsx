@@ -120,14 +120,16 @@ function BusinessCard() {
 
           {/* 頁尾 (下載與官網) */}
           <div className="border-t border-gray-300 pt-4 flex justify-between items-center">
-            {card.downloadLink ? (
-              <a href={card.downloadLink} className="text-gray-600 hover:text-black transition flex items-center" download>
-                <span className="material-symbols-outlined text-4xl">download</span>
-              </a>
-            ) : (
-              <div></div>
-            )}
-            
+            <div className="flex items-center">
+              {card.downloadLink ? (
+                <a href={card.downloadLink} className="text-gray-600 hover:text-black transition flex items-center" download>
+                  <span className="material-symbols-outlined text-4xl">download</span>
+                </a>
+              ) : (
+                <div className="w-12" />
+              )}
+            </div>
+
             <a href={websiteUrl} target="_blank" rel="noreferrer" className="text-lg text-gray-600 hover:text-blue-600 underline decoration-1 underline-offset-2">
               {websiteText}
             </a>
