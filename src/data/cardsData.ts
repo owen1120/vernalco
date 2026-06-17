@@ -279,7 +279,8 @@ export const cardsData: BusinessCardData[] = [
       fax: '+886-4-2487-0022'
     },
     emails: [
-      { address: 'service@vernal.tw' }
+      { address: 'service@vernal.tw', label: 'Company' },
+      { address: 'bin-cheng@vernal.tw', label: 'Direct' }
     ],
     address: 'No. 808, Sec. 5 Huanzhong E. Rd., Dali Dist., Taichung City 41252, Taiwan',
   },
